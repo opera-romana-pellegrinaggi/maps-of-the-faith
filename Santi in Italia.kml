@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Santi in Italia</name>
+    <description><![CDATA[https://www.operaromanapellegrinaggi.org<br>https://www.omniaforitaly.org<br>https://www.omniavaticanrome.org<br><br>Si prendono in considerazione soprattutto i luoghi dove sono venerati i resti mortali o le reliquie più significative, e non tutti i luoghi dove hanno soggiornato o vissuto.]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-795046-normal">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-795046-highlight">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-795046">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-795046-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-795046-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-7C3592-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-7C3592-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-7C3592">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7C3592-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7C3592-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>I-V secolo</name>
+      <Placemark>
+        <name>St Mark</name>
+        <description><![CDATA[Basilica di San Marco <br>(St Mark’s Basilica) <br>Piazza San Marco <br>30124 Venice, Italy <br><br>*In 828 two Venetian merchants stole the relics of St Mark from Alexandria and brought them to Venice. A popular legend holds that the relics were hid in a barrel of pork so that they would not be discovered. These relics are now located within the main altar of this church. The Pala d’Oro is located just behind this altar on the back side of the retable.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.339385,45.434599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Luke</name>
+        <description><![CDATA[Abbazia Santa Giustina <br>(Abbey of St Justina) <br>Via Giuseppe Ferrari 2A, <br>35123 Padova, Italy <br><br>*The body of St Luke rests within the left transept of this church. A recent study upon these relics was conducted at the request of Archbishop Antonio Mattiazzo of Padua in 1998. This study determined that these relics are of an individual that would fit the description of St Luke. <br>*A decorated tomb within the right transept of this church is dedicated to St Matthias. Apart from the beautiful inscription upon the tomb which in Latin reads “Sors cecidit super Mathiam” the church provides no signage to support the presence of the apostle’s relics within the tomb. This is somewhat striking since directly across from his tomb the church explains in great detail the relics of St Luke. Some, nevertheless have argued that these relics of St Matthias were brought to Padua in the 8th century at about the same time as the arrival of St Luke’s relics. This tradition, however, conflicts with the even older tradition of St Helena who in the 4th century is said to have acquired the relics of St Matthias and distributed them to both Rome, Italy and Trier, Germany.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            11.880147,45.39625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Ambrose</name>
+        <description><![CDATA[Basilica di Sant’Ambrogio <br>(Basilica of St Ambrose) <br>Piazza Sant’Ambrogio 15, <br>20123 Milano, Italy <br><br>*St Ambrose (d. 397) was the bishop of this city for over 20 years. It was during this time that St Augustine (d. 430) heard St Ambrose’s powerful preaching and became attracted to the Christian faith. Today the body of St Ambrose, dressed in white pontifical vestments, rests within an urn in the crypt of this church. Lying beside his remains are the bodies of two additional saints, the martyrs Gervasius and Protasius.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            9.175204,45.462155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Peter Chrysologus</name>
+        <description><![CDATA[Cattedrale di San Cassiano <br>(Cathedral of St Cassian) <br>Piazza Duomo 1, <br>40026 Imola, Bologna, Italy <br><br>*St Peter Chrysologus was born in this city in 406 AD. He eventually became the Bishop of Ravenna and was known for his outstanding homilies. One hundred seventy-six of these homilies survive to this day. <br>*The remains of St Peter Chrysologus rest within an altar in the crypt of this church. Kindly ask the sacristan for access. The relics of St Peter Chrysologus are within the altar to the left. The more prominent central altar preserves a few bone fragments from the martyr St Cassian.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            11.710793,44.353606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Eusebius of Vercelli </name>
+        <description><![CDATA[Cattredale di Vercelli <br>(Cathedral of Vercelli) <br>Piazza S. Eusebio, <br>13100 Vercelli, Italy <br><br>*This church is dedicated to St Eusebius of Vercelli (d. 371). During his life he strenuously opposed the heresy of Arianism. In 355 AD at a synod in Milan his refusal to accept Arianism led to his exile. During this time he suffered greatly especially at the hands of an Arian bishop in Syria. Some years later he was granted his freedom and eventually returned to Vercelli.<br>*An altar on the left side of the nave contains an urn with the remains of St Eusebius.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            8.422018,45.330072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Augustine</name>
+        <description><![CDATA[San Pietro in Ciel D'Oro <br>(St Peter in the Heavens of Gold) <br>Piazza San Pietro in Ciel D’Oro <br>27100 Pavia, Italy <br><br>*The remains of St Augustine (d. 430) rest within a glass-sided urn located within the large funerary monument in the main sanctuary of this church.<br>*Boethius is also buried in this church. His tomb rests within the crypt and is labeled S. Severini Boetii.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            9.154307,45.191459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Justin the Martyr</name>
+        <description><![CDATA[San Giovanni Battista e Biagio <br>Piazza San Biagio, 10 / Via di Mezzo <br>00060 Sacrofano, Italy <br><br>*Some bones of St Justin the Martyr (d. 165) are said to rest within an urn under the main altar.<br>*Note: The parish San Giovanni Battista e Biagio has two churches in the center of Sacrofano. The larger church with a piazza claims to have some small relics of St Blaise. The smaller church, which is located in the historic part of the city and is simply called Chiesa di San Giovanni Battista, has the relics of St Justin the Martyr.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.448196,42.105048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Matthew</name>
+        <description><![CDATA[Duomo di Salerno <br>(Salerno Cathedral) <br>Via Duomo 1 <br>84121 Salerno, Italy <br><br>*The relics of St Matthew were brought to Salerno in 954 AD. The city continues to celebrate the anniversary of the transfer of his relics with an annual festival on May 6th. Throughout the year his relics can be visited in the richly decorated crypt of this church.<br> *Despite being the legitimate pope, St Gregory VII (d. 1085) was forced out of Rome in 1084 as a result of his ties to the Normans and the political pressures created by the Holy Roman Emperor, Henry IV, and the antipope, Clement III. A year later St Gregory VII died in this city as an exile. His remains now rest under an altar in the right transept of this church.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.759896,40.680081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Andrew</name>
+        <description><![CDATA[Duomo di Sant'Andrea <br>(Cathedral of St Andrew) <br>Piazza Duomo <br>84011 Amalfi, Italy <br><br>*Tradition claims that St Andrew was martyred and buried in Patras, Greece. Later most of his relics were transferred to Constantinople. In the year 1204, after the Crusaders sacked Constantinople, the relics were taken west to the city of Amalfi, Italy. Some of these relics remain here today. They rest beneath the main altar in the crypt of this church.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.602871,40.634361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Paulinus of Nola</name>
+        <description><![CDATA[Santuario di San Paolino <br>(Sanctuary of St Paulinus) <br>Via Madonna del Monte <br>93010 Sutera, Sicily, Italy <br><br>*Relics of St Paulinus of Nola (d. 431) are said to rest within an urn in this church.  They are carried in procession annually on the Tuesday after Easter. <br>*This shrine claims to have received its relics of St Paulinus of Nola in 1336. It is believed that they came from the remains that had been at San Bartolomeo all’Isola in Rome, Italy.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            13.731617,37.525328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bartholomew</name>
+        <description><![CDATA[Cattedrale di San Bartolomeo <br>(St Bartholomew’s Cathedral) <br>Via del Concordato <br>Lipari, Sicily, Italy <br><br>*A relic of the thumb of St Bartholomew rests within a silver arm reliquary in this church. This relic is exposed for veneration during feast days of the saint.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.954152,38.464208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Lucy</name>
+        <description><![CDATA[Duomo di Siracusa <br>(Cathedral of Syracuse) <br>Piazza Duomo 5, <br>96100 Syracuse, Sicily, Italy <br><br>*In 1988 Syracuse received the left humerus bone of St Lucy (d. 304) from the Patriarch of Venice, Marco Cè. This relic rests within this church in a silver reliquary placed within the second altar on the right side of the nave. A separate reliquary exposed only on special feasts contains two additional fragments from the left arm of St Lucy. <br>*Also said to be preserved at this church are the robe, the veil, and the little shoes of the saint. <br>*Finally, each year on December 13th and also on the first Sunday in May a statue of St Lucy is carried with much festivity through the streets of Syracuse. Within the chest of this statue, which was created by Pietro Rizzo in 1599, are three fragments from her ribs.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.293596,37.059591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Nicholas</name>
+        <description><![CDATA[Basilica di San Nicolo <br>(Basilica of St Nicholas) <br>Largo Abate Elia <br>70122 Bari, Italy <br><br>*Relics of St Nicholas (d. 350) rest within a small urn located under the altar in the crypt of this church.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            16.869695,41.130282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Philomena</name>
+        <description><![CDATA[Santuario di S. Filomena  <br>(Sanctuary of St Philomena) <br>Piazza Umberto 1, <br>83027 Mugnano del Cardinale, Province of Avellino, Italy <br><br>*The remains of St Philomena (d. 304) are within the second chapel on the left side of the nave. Her remains rest within a life-sized paper mache reproduction of her likeness placed above the altar in this chapel.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.642453,40.941207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Timothy</name>
+        <description><![CDATA[Cattedrale di Termoli <br>(Termoli Cathedral) <br>Piazza Duomo 1, <br>86039 Termoli, Italy <br><br>*In 1945 the relics of St Timothy were rediscovered in this church beneath a marble tile that read, “Here rests Blessed Timothy disciple of the Apostle Paul.” It is believed that they were buried here in 1239 and then over the following centuries forgotten.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.997389,42.005332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Athanasius</name>
+        <description><![CDATA[San Zaccaria (St Zacharias) <br>Campo San Zaccaria <br>30122 Venice, Italy <br><br>*The remains of St Athanasius (d. 373) and St Zacharias, the father of St John the Baptist, are enshrined on the right side of the nave.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.343633,45.435025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Lucy</name>
+        <description><![CDATA[San Geremia (St Jeremiah) <br>Sestiere Cannaregio 290, <br>30131 Venice, Italy <br><br>*In 1204 the body of St Lucy (d. 304) was brought to Venice. Currently her body is enshrined in the church of San Geremia on the side opposite the church entrance.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.325212,45.44273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Apollinaris</name>
+        <description><![CDATA[Basilica di Sant’Apollinare in Classe <br>(Basilica of Saint Apollinaris in Classe) <br>Via Romea Sud 224 <br>48124, Classe Ravenna, Italy <br><br>*The bones of St Apollinaris rest within the main altar of this church. <br>*A debate arose in Ravenna during the 12th century whether the relics of St Apollinaris were within the Basilica di Sant’Apollinare Nuovo or within the Basilica di Sant’Apollinare in Classe. After examining the evidence Pope Alexander III determined that the relics rested within the Basilica di Sant’Apollinare in Classe. An empty tomb within this church dated 1173 AD preserves the memory of this declaration. This tomb is below the small marble altar in the center of the nave of the church. The bones of St Apollinaris were transferred to the main altar in the 18th century.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.23289,44.380285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Januarius</name>
+        <description><![CDATA[Duomo di Napoli (Naples Cathedral) <br>Via Duomo 147, <br>80138 Naples, Italy <br><br>*St Januarius (d. 305) is most well known for the liquefaction of his blood. This miracle occurs annually on September 19th, December 16th, and the first Saturday in May. <br>*The relics of St Januarius can be found in three different locations within this church. His blood, which is sealed in a reliquary, is placed upon the altar in the second chapel on the right side of the nave. This exquisite chapel also contains fifty-one silver busts, each depicting a different saint. They were donated to this church by various guilds and ecclesial institutions in the city. The second location, found in the confessio below the main sanctuary, preserves the bones of the saint. These bones, which are visible, rest within a vase below the altar in this confessio. Finally, fragments of his skull rest within a bust placed in the museum located next to this church. This bust is placed next to a lighted candle within an upper room in this museum.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.259213,40.852279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Nicholas</name>
+        <description><![CDATA[San Nicolo al Lido <br>(St Nicholas at the Lido) <br>Riviera San Nicolo <br>30126 Venice, Italy <br><br>*Small bone fragments of St Nicholas (d. 350) rest within this church. They are placed within a beautiful funerary monument located in the main sanctuary. Three statues placed above this monument depict St Nicholas and two other saints whose relics are also preserved here.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.380516,45.427834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Andrew, St John Chrysostom, St John the Baptist, & St Philip]]></name>
+        <description><![CDATA[Duomo di Firenze <br>(Florence Cathedral) <br><br>*Relics of the following four saints are said to be within the sacristy of this church. <br>*The skull of St John Chrysostom (Acquired in 1360), an arm of St Andrew the Apostle (Acquired in the 14th century), an arm of St Philip the Apostle (Acquired in 1205), and a finger of St John the Baptist (Acquired in 1419). <br>*It is said that this is the same finger that St John the Baptist used to point at Jesus when he proclaimed, “Behold the Lamb of God.”]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            11.255493,43.773093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas</name>
+        <description><![CDATA[Basilica di San Tommaso Apostolo <br>(Basilica of St Thomas the Apostle) <br>Corso Giacomo Matteotti 35, <br>66026 Ortona, Italy <br><br>*The relics of St Thomas the Apostle rest within a golden casket placed within a white marble altar located in the crypt of this church.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.404401,42.357212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Agatha</name>
+        <description><![CDATA[Duomo di Catania (Catania Cathedral) <br>Piazza del Duomo <br>95131 Catania, Sicily, Italy <br><br>*The relics of St Agatha (d. 251) are located within the apse of this church in the Chapel of St Agatha. Unfortunately, this chapel is not accessible to the public. However, every year on February 4th and 5th the relics are brought out and the faithful are given the chance to participate in the procession of her relics throughout the streets of Catania.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.088305,37.502457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bartholomew</name>
+        <description><![CDATA[Basilica di San Bartolomeo <br>(St Bartholomew’s Basilica) <br>Piazza Federico Torre <br>Benevento, Italy <br><br>*A tradition holds that the relics of St Bartholomew were transferred to Benevento, Italy in the 9th century. A century later they were transferred to Rome. Benevento, however, continues to claim possession of the true relics of St Bartholomew. These relics are placed within a porphyry urn below the main altar. An additional bone fragment is placed within a bust of the saint. Twice a year, on August 24th and October 25th, the city celebrates in honor of the saint.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.778711,41.130706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Paulinus of Nola</name>
+        <description><![CDATA[Cattedrale di Nola (Cathedral of Nola) <br>Piazza Duomo 1, <br>80035 Nola, Italy <br><br>*On June 22nd crowds of people fill the square in front of this church for the annual celebration of St Paulinus (d. 431). A silver bust of the saint is processed into the crowd and eight festive obelisks and an ornamental wooden boat are blessed. The obelisks and boat harken back to a legendary story of the saint. It is said that as Barbarian tribes were invading Italy, St Paulinus offered to be taken captive in exchange for the return of a widow’s son. Shortly thereafter a Turkish sultan, being so impressed by St Paulinus’ selfless act of love, decided to grant him his freedom. St Paulinus then returned to Italy and was warmly welcomed by the people of Nola. *Apart from this celebration relics also rest within this church in the fourth chapel on the left side of the nave.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.528099,40.925981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Blaise</name>
+        <description><![CDATA[Basilica di San Biagio <br>(Basilica of St Blaise) <br>Via Castello <br>Maratea, Italy <br><br>*Relics of St Blaise (d. 316) were brought to this city in 732 AD and now rest within this church.  They are located within a white marble urn located below a silver bust of the saint.  Also of note is the large 68 foot tall statue of Christ the Redeemer that overlooks the sea just a short distance from this church.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.723748,39.988136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St John the Baptist</name>
+        <description><![CDATA[Cattedrale di Santa Maria Assunta <br>(Cathedral of Our Lady Assumed) <br>Piazza del Duomo 8, <br>53100 Siena, Italy <br><br>*In May of 1464 Pope Pius II presented to this church the right arm of St John the Baptist. This relic now rests on the left side of the nave behind the Chapel of St John the Baptist. Each year this relic is presented for public veneration prior to the saint’s feast day on June 24th.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            11.3289,43.317677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Lucy</name>
+        <description><![CDATA[Basilica di Santa Lucia al Sepolcro <br>(Basilica of Saint Lucy at the Tomb) <br>Via Luigi Bignami 1, <br>96100 Syracuse, Sicily, Italy <br><br>*This church marks the spot where St Lucy (d. 304) was martyred. <br>*Within the octagonal baptistery adjacent to this church is the grave where St Lucy was originally buried. Under the altar is a beautiful marble statue depicting the saint.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            15.291746,37.072899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Anne</name>
+        <description><![CDATA[Cattedrale di San Pietro <br>(Cathedral of Saint Peter) <br>Via Indipendenza 7, <br>40126 Bologna, Italy <br><br>*The head of St Anne is said to rest within a reliquary in the second chapel on the right side of the nave. <br>*In 1435 the King of England, Henry VI, gave this relic to the city of Bologna after their bishop, Blessed Nicolò Albergati, smoothed relations between England and France during the 100 Years’ War.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            11.343083,44.495847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Saturnino</name>
+        <description><![CDATA[Basilica di San Saturnino<br>d. 304 AD]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            9.1231558,39.2139574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Lino</name>
+        <description><![CDATA[Chiesa di San Lino, Volterra<br>d. 76 AD<br><br>Successor of Saint Peter, second Pope]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            10.8566658,43.4037867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basilica of Saint Praxedes</name>
+        <description><![CDATA[Le origini delle due basiliche intitolate a Santa Prassede e a Santa Pudenziana sono strettamente correlate: le due sante romane erano sorelle, figlie del Senatore Pudente e vedremo che il vincolo parentale risulterà rilevante soprattutto nella ricostruzione della genesi delle due chiese. La Basilica di Santa Pudenziana, una delle più antiche di Roma, sorge nella zona dell’Antico Vicus Patricius nel Rione Monti, presso l’attuale via Urbana, quasi all’inizio della valle fra i colli Viminale ed Esquilino; si trova, quindi, alle spalle della grandiosa Basilica di Santa Maria Maggiore. E’ possibile che il Titulus Pudentis, istituito da Papa Damaso alla fine del IV secolo, di cui esistono indubbi documenti storici, le derivi dall’alterazione del nome della originaria domus ecclesiae posta in quel luogo.<br><br>Santa Pudenziana quindi, tra le prime “chiese domestiche” istituite nelle case di famiglie cristiane delle origini, sarebbe stata eretta da Papa Pio I nel 145 d.C., per volontà delle due sorelle nella casa lasciata loro in eredità dal padre Pudente, membro della potente famiglia degli Acilii Glabriones, in ricordo dell’ospitalità che il Senatore dette, per diversi anni, a San Pietro intorno al 70 d.c, e a San Paolo, che cita Pudente al termine della sua II Lettera a Timoteo. Ciò che è certo è che gli scavi archeologici, e anche recentissimi e approfonditi studi, hanno confermato la presenza di due domus romane sotto le fondamenta della Basilica, una di età repubblicana (II sec. a. C.) ed una di età imperiale (I-II sec. d. C.), che coinciderebbe così con la tradizione del Titulus Pudentis. La giovane Santa Prassede nel vicus lateranus, non molto distante quindi dalla domus della sorella, sempre utilizzando un lascito paterno, fece innalzare una costruzione destinata alle celebrazioni eucaristiche, titulus Praxedis, mentre il titulus Pudentis sembrerebbe fosse destinato esclusivamente ai riti battesimali.<br><br>Santa Prassede utilizzò questa chiesa per nascondere i cristiani perseguitati dall’allora Imperatore Antonino Pio, provvedendo alla sepoltura dei martiri presso il Cimitero di Priscilla, le catacombe di Santa Priscilla sulla via Salaria. In questo Cimitero la stessa Santa Prassede fu sepolta con la sorella per poi essere riportata nella sua chiesa riedificata da Pasquale I, eletto Papa nell’817. L’esistenza del Titulus Praxedis è testimoniato in un epitaffio datato 491 che conferma l’importanza, sia nel periodo repubblicano che imperiale, di tutta l’area dell’attuale zona di S.Martino ai Monti, importanza aumentata dalla costruzione, come dicevamo, della Basilica di Santa Maria Maggiore voluta da Sisto III (432-440).]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4987254,41.8964622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Gregorio Illuminatore</name>
+        <description><![CDATA[Chiesa di San Gregorio Armeno, Napoli<br>Reliquiario con il teschio di San Gregorio Illuminatore.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            14.2574133,40.8496592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>VI-X secolo</name>
+      <Placemark>
+        <name>St Columban</name>
+        <description><![CDATA[Abbazia di Bobbio (Bobbio Abbey) <br>Piazza Santa Fara <br>29022 Bobbio, Italy <br><br>*As a young man St Columban’s (d. 615) apostolic zeal carried him away from his native Ireland first to England and then to France where he attracted many followers to his apostolic mission. Eventually he moved to Italy and was given a tract of land near Bobbio. It was here that he spent the last years of his life. His remains now rest within a sarcophagus in the crypt of this church.]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            9.386358,44.767402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Benedict & St Scholastica]]></name>
+        <description><![CDATA[Abbazzia di Monte Cassino <br>(Abbey of Monte Cassino) <br>Via Montecassino <br>03043 Cassino, Italy <br><br>*The remains of St Benedict (d. 547) and St Scholastica (d. 547) are said to rest under the main altar of the church at this monastery.]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            13.813677,41.490289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Lucy</name>
+        <description><![CDATA[San Geremia (St Jeremiah) <br>Sestiere Cannaregio 290, <br>30131 Venice, Italy <br><br>*In 1204 the body of St Lucy (d. 304) was brought to Venice. Currently her body is enshrined in the church of San Geremia on the side opposite the church entrance.]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            12.325212,45.44273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Benedict & St Scholastica]]></name>
+        <description><![CDATA[Monastero di San Benedetto <br>(St Benedict’s Monastery) <br>Via Reguardati 22, <br>06046 Norcia, Italy <br><br>*This monastery is built over the house where St Benedict (d. 547) and St Scholastica (d. 547) were born.]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            13.093064,42.792559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Benedict</name>
+        <description><![CDATA[Monastero di San Benedetto <br>(St Benedict’s Monastery) <br>Piazzale San Benedetto <br>00028 Subiaco, Roma, Italia <br><br>*Subiaco is where St Benedict (d. 547) lived as a hermit. It is also from this city that he began establishing monasteries. In total he spent 25 years of his life in this city.]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            13.118362,41.916769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Benedict</name>
+        <description><![CDATA[Duomo Nuovo (The New Cathedral) <br>Piazza Paolo VI <br>25121 Brescia, Italy <br><br>*An arm bone of St Benedict rests within this church. It is placed in front of the beautiful funerary monument dedicated to St Apollonio on the right side of the nave. Around the year 759 this relic was given to a Benedictine community in Leno, located just south of Brescia. During the 15th century it was transferred to Brescia. <br>*Recently this bone has been rigorously studied in an attempt to authenticate the relics in either Monte Cassino or Saint-Benoît-sur-Loire. Documentation shows that this bone came from Montecassino in 759. This late date provides evidence that at least some relics of the saint were still preserved in Montecassino following the alleged theft in the 7th century. On the other hand, recent studies seem to indicate that the physical characteristics of this bone from Brescia do not match the Montecassino source.]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            10.22166,45.538668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>XI-XV secolo</name>
+      <Placemark>
+        <name>St Peter Damian</name>
+        <description><![CDATA[Duomo di Faenza (Faenza Cathedral) <br>Piazza XI Febbraio <br>48018 Faenza, Italy <br><br>*St Peter Damian (d. 1072) who was born in the nearby town of Ravenna always retained a strong connection to Faenza. It was here that he studied early in life and later where he founded a hermitage and a monastery. He was known in life as a reformer, a scholar, and a diplomat. He died in Faenza and his remains were interred in a monastery within this city until in 1826 they were transferred to the cathedral. They can now be found solemnly displayed within an urn in the sixth chapel on the left side of the nave.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            11.884063,44.285931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Dominic</name>
+        <description><![CDATA[Basilica di San Domenico <br>(St Dominic’s Basilica) <br>Piazza San Domenico <br>40124 Bologna, Italy <br><br>*The remains of St Dominic (d. 1221) rest within this church in an exquisite tomb called the Arca di San Domenico. This tomb is placed in a large side chapel on the right side of the nave. The relic of St Dominic’s skull is enshrined within a reliquary on the backside of this tomb.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            11.344199,44.48956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bernardine of Siena</name>
+        <description><![CDATA[Basilica di San Bernardino <br>(Basilica of St Bernardine) <br>Via San Bernardino <br>67100 L’Aquila, Italy <br><br>*On April 6, 2009 an earthquake hit the Italian city of L’Aquila and severely damaged the Basilica of San Bernardino. As a result the relics of St Bernardine of Siena (d.1444) were removed from this church. At present they rest within a church dedicated to St Bernardine of Siena at Piazza d’Armi along Via Ugo Piccinini in L’Aquila. However, once the necessary repairs to the basilica are completed the relics will be returned to their original resting place within the basilica.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            13.402199,42.350088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Romuald</name>
+        <description><![CDATA[Chiesa di San Biagio e Romualdo <br>(Church of St Blaise and Romuald) <br>Piazza Daniele Manin 12, <br>60044 Fabriano, Italy <br><br>*St Romuald (d. 1027) was originally buried near the monastic cell in which he died in Val di Castro. In 1466 his body was found still incorrupt; therefore, in 1481 his remains were brought to the nearby city of Fabriano. Today his relics rest within the crypt of this church.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.905886,43.33703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Catherine of Siena</name>
+        <description><![CDATA[Basilica di San Domenico <br>(St Dominic’s Basilica) <br>Piazza San Domenico <br>53100 Siena, Italy <br><br>*The head of St Catherine of Siena (d. 1380) rests within a chapel on the right side of the nave. <br>*Also a finger of the saint is venerated within a reliquary case just to the right of this chapel. This relic has traditionally been used to impart a blessing on the Italian military.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            11.326314,43.320081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Rita of Cascia</name>
+        <description><![CDATA[Santuario di Santa Rita da Cascia <br>(Sanctuary of St Rita of Cascia) <br>Viale Santa Rita 13, <br>06043 Cascia, Italy <br><br>*The body of St Rita of Cascia (d. 1457) is enshrined on the left side of the nave in this church.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            13.012522,42.718764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Clare</name>
+        <description><![CDATA[Basilica di Santa Chiara <br>(Basilica of St Clare) <br>Piazza Santa Chiara <br>06081 Assisi, Italy <br><br>*The remains of St Clare (d. 1253) are enshrined within the crypt of this church. <br>*Also within the large chapel on the right side of this church is the San Damiano Crucifix that spoke to St Francis of Assisi. (This is the chapel where Morning Prayer and Evening Prayer are prayed)]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.61687,43.069021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas Aquinas</name>
+        <description><![CDATA[Parrochia Santa Annunziata <br>(Parish of the Holy Annunciation) <br>Via della Chiesa 6, <br>Roccasecca, Italy <br><br>*This church is just below the castle where St Thomas Aquinas (d. 1274) was born. This castle is presently in a state of ruin.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            13.66785,41.54848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas Aquinas</name>
+        <description><![CDATA[Abbazia di Fossanova <br>(Abbey of Fossanova) <br>Via San Tommaso D’Aquino 1 <br>04015 Priverno, Latina, Italy <br><br>*St Thomas Aquinas (d. 1274) was passing through this area on his way to the Council of Lyon. As he approached Fossanova he became deathly ill and was forced to stop. The monks at the Abbey of Fossanova took St Thomas in and cared for him until his death. For some years after his death his bones remained at this abbey and rested in the main sanctuary of the church. They were later moved in 1369 to Toulouse, France.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            13.195095,41.437772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bonaventure</name>
+        <description><![CDATA[Cattedrale San Bonaventura <br>(Cathedral of Saint Bonaventure) <br>Piazza Cavour <br>01022 Bagnoregio, Italy <br><br>*The only remaining relic of St Bonaventure (d. 1274), his right arm, rests within a chapel on the right side of the nave of this church. This relic was brought to Bagnoregio in 1491 as a gift since the saint’s birth home is in the nearby hill city of Civita di Bagnoregio. This transfer was providential because a little less than a century later, in 1562, his tomb in Lyon, France was plundered by French Huguenots and his remains were burned in the public square. During this event his incorrupt head was preserved; however, several centuries later during the French Revolution it disappeared and has remained missing ever since.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.094842,42.626361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Gregory VII</name>
+        <description><![CDATA[Duomo di Salerno <br>(Salerno Cathedral) <br>Via Duomo 1 <br>84121 Salerno, Italy <br><br>*Despite being the legitimate pope, St Gregory VII (d. 1085) was forced out of Rome in 1084 as a result of his ties to the Normans and the political pressures created by the Holy Roman Emperor, Henry IV, and the antipope, Clement III. A year later St Gregory VII died in this city as an exile. His remains now rest under an altar in the right transept of this church. <br>*The relics of St Matthew were brought to Salerno in 954 AD. The city continues to celebrate the anniversary of the transfer of his relics with an annual festival on May 6th. Throughout the year his relics can be visited in the richly decorated crypt of this church.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            14.759896,40.680081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Louis</name>
+        <description><![CDATA[Cattedrale di Monreale <br>(Cathedral of Monreale) <br>Piazza Guglielmo II 1, <br>90046 Monreale, Palermo, Sicily, Italy <br><br>*The innards of St Louis (d. 1270) rest within an urn in the left transept of this church. These relics were acquired during the transfer of St Louis’ body from Tunis to Paris.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            13.291915,38.081993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Anthony of Padua</name>
+        <description><![CDATA[Basilica di Sant’Antonio da Padova <br>(Basilica of St Anthony of Padua) <br>Piazza del Santo 11, <br>35123 Padova, Italy <br><br>*The tomb of St Anthony of Padua (d. 1231) is within a chapel on the left side of the nave. His tomb was opened in 1981 and contains the bones of the saint. <br>*Within the apse of the church is the Treasury Chapel. This chapel contains three niches. The central niche preserves three important relics of St Anthony of Padua. These include his lower jaw, his incorrupt tongue, and cartilage from his larynx. All three of these relics are used in speech and reflect the saint’s great ability as a preacher.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            11.880748,45.401478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Francis of Assisi</name>
+        <description><![CDATA[Basilica di San Francesco D’Assisi <br>(Basilica of St Francis of Assisi) <br>Piazza San Francesco 2, <br>06081 Assisi, Italy <br><br>*St Francis of Assisi (d. 1226) is buried in the crypt of this church.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.606055,43.074413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Peter of Verona </name>
+        <description><![CDATA[Sant Eustorgio <br>Piazza di Sant Eustorgio, 1, <br>Milan, Italy <br><br>*The remains of St Peter of Verona (d. 1252) rest within this church.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            9.181234,45.454005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Catherine of Siena</name>
+        <description><![CDATA[Santi Giovanni e Paolo <br>(Saints John and Paul) <br>Castello 6363, <br>30122 Venice, Italy <br><br>*A relic of the foot of St Catherine of Siena (d. 1380) rests near the Chapel of St Dominic on the right side of nave.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.342196,45.439252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas Aquinas</name>
+        <description><![CDATA[Cattedrale di Aquino <br>(Cathedral of Aquino) <br>Piazza San Tommaso d’Aquino <br>03031 Aquino, Italy <br><br>*In 1963 the Archbishop of Toulouse, Gabriel Marie Garrone, gave to this church a small rib bone of St Thomas Aquinas (d. 1274). <br>*The relic is carried in procession every year on the evening of March 7th.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            13.70221,41.493515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bruno</name>
+        <description><![CDATA[Certosa di Serra San Bruno <br>(Charterhouse of Serra San Bruno) <br>Via Santo Stefano 1, <br>89822 Serra San Bruno, Italy <br><br>*St Bruno founded this monastery and spent the last ten years of his life here. In 1514 his relics were transferred to the main sanctuary of the church at this monastery where they remain to this day.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            16.319375,38.565054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas Aquinas</name>
+        <description><![CDATA[San Domenico Maggiore <br>(Saint Dominic the Greater) <br>Piazza San Domenico Maggiore 8, <br>80134 Naples, Italy <br><br>*St Thomas lived in this priory from 1272-1274. Within the cell in which he lived is preserved the miraculous crucifix that exclaimed, “You have written well of me, Thomas.” Also within this same cell is preserved a bone from his left arm. Access to this cell is only given by special permission.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            14.254439,40.848821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas Aquinas</name>
+        <description><![CDATA[Cattedrale di Santa Maria Annunziata <br>(Cathedral of the Annunciation of Mary)<br>Piazza Vittorio Emanuele <br>Priverno, Italy <br><br>*A relic of the purported skull of St Thomas Aquinas rests within this church. The authenticity of the relic is dubious. A spurious discovery of the relic in 1585 is presumed by some to be a forgery. Nevertheless annually on the evening of March 6th the Bishop of the Diocese leads a procession through the streets of Priverno carrying the relic of the skull. (March 7th was the Feast Day of St Thomas Aquinas on the old calendar.)]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            13.181904,41.47345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Catherine of Siena</name>
+        <description><![CDATA[Santuario Casa di Santa Caterina <br>(Sanctuary of the House of St Catherine) <br>Via Costa di Sant'Antonio 6, <br>53100 Siena, Italy <br><br>*This church rests over the house where St Catherine of Siena was born.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            11.328707,43.319979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Rose of Viterbo</name>
+        <description><![CDATA[Santuario di Santa Rosa<br><br>d. 1251]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.1094533,42.4202772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Rosalia Sinibaldi</name>
+        <description><![CDATA[Sanctuary of Santa Rosalia in Monte Pellegrino<br><br>d. 1170]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            13.3516327,38.1679067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>XVI-XXI secolo</name>
+      <Placemark>
+        <name>St John Bosco</name>
+        <description><![CDATA[Basilica di Maria Ausiliatrice <br>(Basilica of Mary Our Helper) <br>Piazza Maria Ausiliatrice 27, <br>10512 Torino, Italy <br><br>*St John Bosco (d. 1888) founded the Salesian community at this location and later in 1868 completed this magnificent basilica. Relics of St John Bosco now rest within the chapel dedicated to him on the right side of the nave. Some of his relics are also periodically put on tour throughout the world. Also within this church are the remains of St Dominic Savio, a very saintly youth who studied under St John Bosco.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            7.675967,45.081066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Gianna Beretta Molla </name>
+        <description><![CDATA[*St Gianna Beretta Molla (d. 1962) is buried next<br>to her husband in a small chapel within the parish cemetery in Mesero, Italy.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            8.854015,45.504557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Elizabeth Ann Seton</name>
+        <description><![CDATA[Parrocchia Santa Elisabetta Anna Seton <br>(Church of St Elizabeth Ann Seton) <br>Piazza Giovanni Maria Lavagna 15, <br>57125 Livorno, Italy <br><br>*Livorno, Italy holds a special place for St Elizabeth Ann Seton (d. 1821) as it was here that she was introduced to the Catholic Faith after her husband’s illness and death. <br>*Her husband, William, is buried under a small gravestone in front of this church.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            10.326124,43.547304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Gemma Galgani </name>
+        <description><![CDATA[Monastero/Santuario di Santa Gemma <br>(Monastery/Sanctuary of St Gemma) <br>Via Tiglio 271, <br>55100 Lucca, Toscana, Italy <br><br>*The body of St Gemma Galgani (d. 1903) is enshrined beneath the main altar.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            10.51898,43.84273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Mary Magdalene de Pazzi </name>
+        <description><![CDATA[Monastero di Santa Maria Maddalena dei Pazzi a Careggi <br>(Monastery of St Mary Magdalene de Pazzi at Careggi) <br>Via di Careggi / Via dei Massoni <br>50139 Florence, Italy <br><br>*The remains of St Mary Magdalene de Pazzi (d. 1607) are located in the main sanctuary of the church at this monastery.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            11.259956,43.811583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Maria Goretti</name>
+        <description><![CDATA[Santuario di Nettuno <br>(Sanctuary of Nettuno) <br>Viale Matteotti <br>00048, Nettuno, Italy <br><br>*The remains of St Maria Goretti (d. 1902) rest below the main altar in the lower chapel of this church.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.66818,41.45688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Alphonsus</name>
+        <description><![CDATA[Basilica di Sant’Alfonso <br>(Basilica of St Alphonsus) <br>Piazza Sant’Alfonso 1, <br>84016 Pagani, Italy <br><br>*A wooden statue of St Alphonsus Liguori (d. 1787) rests under an altar to the left of the main sanctuary. This statue is so life like that at first glance one may think that the entire body of St Alphonsus Liguori is incorrupt. However, this is not the case. Some relics of the saint, nevertheless, are present. They rest on a silver carriage below the wooden statue.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            14.61069,40.742333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Cajetan</name>
+        <description><![CDATA[San Paolo Maggiore <br>(St Paul the Greater) <br>Piazza San Gaetano 76, <br>80138 Naples, Italy <br><br>*The remains of St Cajetan (d. 1547) rest within a beautiful tomb in the crypt of this church. Access to this crypt is through a door to the right of the double staircase that leads into the church. St Cajetan was a religious reformer of the early 16th century. He and several others founded the Theatines in 1524.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            14.257057,40.85111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Francis de Sales</name>
+        <description><![CDATA[Monastero della Visitazione <br>(Monastery of the Visitation) <br>Via G. B. Mandruzzato 22, <br>31100 Treviso, Italy <br><br>*During the French Revolution the Visitation nuns transferred the heart of St Francis de Sales (d. 1622) from Lyons, France to Treviso, Italy. Today this relic remains in Treviso and rests within the church at this monastery. The relic is located on the right side of the nave. If the relic is not visible kindly ask a nun to raise the protective screen.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.239263,45.683398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Charles Borromeo</name>
+        <description><![CDATA[Duomo di Milano <br>(Cathedral of Milan) <br>Piazza del Duomo 18, <br>20122 Milano, Italy <br><br>*The remains of St Charles Borromeo (d. 1584) rest within the crypt of this church. Access to this crypt is located on the right side of the main sanctuary. St Charles was a greatly beloved bishop of this city during the late 16th century. <br>*Located below this church is an ancient baptistery. It was here that St Ambrose baptized St Augustine in 387 AD.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            9.190536,45.464307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Anthony Zaccaria</name>
+        <description><![CDATA[San Barnaba (St Barnabas) <br>Via della Commenda 5, <br>20122 Milan, Italy <br><br>*In this city St Anthony Zaccaria (d 1539) founded the Congregation of the Regular Clerks of St Paul commonly referred to as the Barnabites. <br>*St Anthony Zaccaria’s short life was marked by great compassion for the poor and an equally strong desire to share the Word of God. Just prior to his canonization in 1897 his remains were placed within the crypt of this church. Today some of these remains still rest within this church. They are placed within the statue of his likeness that rests below the main altar of this church. A majority of his relics, however, have been distributed to other Barnabite communities throughout the world.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            9.198727,45.459596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Jerome Emiliani </name>
+        <description><![CDATA[Santuario di San Girolamo Emiliani <br>(Sanctuary of St Jerome Emiliani) <br>Via alla Basilica 1, <br>23808 Vercurago, Italy <br><br>*This church honors the memory of St Jerome Emiliani. It was here in this city that he founded the Somascan Fathers with the primary mission of caring for orphans. During his feast on February 8th the Somascan Fathers present to the faithful an urn containing his skull. His bones rest behind a grate placed upon a wall within the chapel dedicated to him on the right side of the nave. <br>*The spot where St Jerome Emiliani died is preserved within a small chapel located just a short walk from the church. Also of note is the small sanctuary called the Valletta located along a path that rises above this town. Further along this same path is an abandoned fortress called the Rocca dell’Innominato which provides an amazing view of both the Southern Alps and of Italy’s northern lakes.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            9.429322,45.811423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blessed Pier Giorgio Frassati</name>
+        <description><![CDATA[Duomo di Torino (Turin Cathedral) <br>Via XX Settembre 87, <br>10122 Turin, Italy <br><br>*Blessed Pier Giorgio Frassati (d. 1925) is buried in the third chapel on the left side of the nave. <br>*Also kept in this church is the Holy Shroud of Turin. However, it is not often available for public veneration. The last opportunity occurred during the spring of 2015.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            7.685301,45.073278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Padre Pio</name>
+        <description><![CDATA[Chiesa San Pio <br>(Church of St Padre Pio) <br>Piazzale Santa Maria Delle Grazie <br>71013 San Giovanni Rotondo, Italy <br><br>*The remains of St Padre Pio (d. 1968) rest in the crypt below Chiesa San Pio. This is the large modern church located at the far end of the piazza. The entrance to the crypt is on the right side of this church. <br>*On the other end of the piazza is Chiesa Santa Maria Delle Grazie. This is where St Padre Pio celebrated Holy Mass and heard confessions for 52 years of his life. Immediately to the right of this church is a newer church that was built in 1959. Below these churches is a crypt where the remains of St Padre Pio had previously rested. This location still attracts much veneration; however, his remains now rest below Chiesa San Pio as previously noted.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            15.705342,41.708019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Frances Xavier Cabrini </name>
+        <description><![CDATA[Centro di Spiritualità Santa Francesca Cabrini <br>Via Giosuè Carducci 50 <br>26845 Codogno, Italy <br><br>*Nine years before arriving in America St Frances Xavier Cabrini (d. 1917) founded the Institute of Missionaries of the Sacred Heart of Jesus in this city. Today a small museum located at this center wonderfully preserves this event. Also located here is the relic of St Frances’ heart. It rests within the convent chapel just to the right of the main sanctuary. It is best to call ahead prior to visiting to reserve a tour.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            9.701443,45.158551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Francis of Paola</name>
+        <description><![CDATA[Basilica di San Francesco di Paola <br>(Basilica of St Francis of Paola) <br>Largo San Francesco di Paola <br>87027 Paola, Italy <br><br>*In 1482 King Louis XI of France requested that St Francis of Paola be at his side as he neared death. St Francis at first was reluctant to accept the king’s request because he did not want to leave his native Italy. However, upon the urging of Pope Sixtus IV he acquiesced. St Francis of Paola would then remain in France for the next 25 years providing counsel to the French kings. He died in 1507 and was buried in Plessis. In 1562 his tomb was violently reopened, his incorrupt body plundered, and the majority of his relics destroyed by French Huguenots. Some of his bones, however, escaped destruction and were later taken to Paola, Italy. These bones now rest within this church.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            16.045586,39.368404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Angela Merici </name>
+        <description><![CDATA[Chiesa di Sant’Angela Merici <br>(Sanctuary of St Angela Merici) <br>Via Francesco Crispi 23, <br>25121 Brescia, Italy <br><br>*The remains of St Angela Merici (d. 1540) rest within this church in a chapel on the right side of the nave. The original church that housed her relics was destroyed during World War II on March 2, 1945. The present sanctuary was built over this destroyed church.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            10.225192,45.534349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Aloysius Gonzaga</name>
+        <description><![CDATA[Il Santuario di San Luigi Gonzaga <br>(The Sanctuary of St Aloysius Gonzaga) <br>Via Cesare Battisti 1, <br>46043 Castiglione delle Stiviere, Italy <br><br>*St Aloysius Gonzaga (d. 1591) was raised at his family’s castle in this city. Despite this lofty upbringing he decided to renounce his worldly inheritance in favor of a life as a Jesuit. During his formation he was never lacking in charity and often spent many hours caring for the sick. On one such occasion he himself unfortunately contracted the plague and died. After his death his skull was given to one of his brothers who had remained at the family castle. Today it rests above the main altar of the church in this city.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            10.48836,45.389869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Josephine Bakhita </name>
+        <description><![CDATA[Chiesa della Sacra Famiglia <br>Suore Canossiane <br>(Church of the Holy Family <br>Canossian Sisters) <br>Via Fusinato 51, <br>36015 Schio, Italy <br><br>*St Josephine Bakhita (d. 1947) began her life as a slave in Sudan. After gaining her freedom she became a nun in Italy and spent the last 45 years of her life in this Canossian convent. Her body now rests under the main altar of this church.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            11.362385,45.714308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Frances Xavier Cabrini</name>
+        <description><![CDATA[Basilica di Sant’Antonio Abate e Santa Francesca Cabrini <br>(Basilica of St Anthony the Abbot and St Frances Cabrini) <br>Via Umberto I, <br>Sant’Angelo Lodigiano, Italy <br><br>*Construction of this beautiful church began in 1928 and was completed ten years later. A bone from St Frances Xavier Cabrini (d. 1917) rests within a marble altar in the chapel dedicated in her name. <br>*St Frances Xavier Cabrini was also born in this city. Her childhood home is reconstructed into a museum and can be visited.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            9.409962,45.238439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Joseph Moscati</name>
+        <description><![CDATA[Gesù Nuovo (The New Jesus) <br>Piazza del Gesù Nuovo <br>80134 Naples, Italy  <br><br>*The remains of St Joseph Moscati (d. 1927) rest within a tomb placed within the second chapel on the right side of the nave of this church. In life he was a medical doctor and researcher who practiced great charity in his profession. In particular he was known to never charge the poor for his services. A museum just a short distance from his tomb preserves his memory. Within this museum are both the bedroom in which he died and his study. Also preserved here are many of the medical instruments that he used in life.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            14.251778,40.847523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Vincent Maria Strambi</name>
+        <description><![CDATA[Basilica della Misericordia<br>XIX secolo <br><br>Vincenzo Strambi (1 January 1745 - 1 January 1824) - in religious Vincenzo Maria di San Paolo - was an Italian Roman Catholic prelate who was a professed member from the Passionists and served as the Bishop of Macerata-Tolentino from 1801 until his resignation in 1823. Strambi became a Passionist despite its founder Saint Paul of the Cross refusing him several times due to Strambi's frail constitution. But he practiced Passionist austerities which continued after his appointment as a bishop that saw him favor his religious habit rather than the usual episcopal garb. Strambi was known for his charitable projects that included the care of the poor and the reduction of diocesan expenditures in order to provide for them; he took special interests in the education and ongoing formation of priests.<br><br>Strambi was exiled from his diocese 1808 after he refused to take an oath of allegiance to the First French Empire under Napoleon who had annexed Macerata as part of his empire. He spent that time in Novara and Milan before he managed to return to his see in a triumphant return in 1814. He served as bishop for the remainder of the pontificate of Pope Pius VII before his successor Pope Leo XII accepted Strambi's resignation and summoned him to Rome as his advisor. But the sudden illness of the pope - which seemed to prove fatal - prompted Strambi to offer his own life to God so that the pope could live. Leo XII rallied to great surprise but Strambi died of a stroke within the week.<br><br>His canonization cause opened after his death on 25 June 1845 and he was named as Venerable on 1 April 1894. Pope Pius XI beatified Bishop Strambi in 1925 while Pope Pius XII later canonized him a couple of decades later in 1950.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            13.4562627,43.3009169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Tutti i santi in Italia</name>
+      <Placemark>
+        <name>St Mark</name>
+        <description><![CDATA[Basilica di San Marco <br>(St Mark’s Basilica) <br>Piazza San Marco <br>30124 Venice, Italy <br><br>*In 828 two Venetian merchants stole the relics of St Mark from Alexandria and brought them to Venice. A popular legend holds that the relics were hid in a barrel of pork so that they would not be discovered. These relics are now located within the main altar of this church. The Pala d’Oro is located just behind this altar on the back side of the retable.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.339385,45.434599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St John Bosco</name>
+        <description><![CDATA[Basilica di Maria Ausiliatrice <br>(Basilica of Mary Our Helper) <br>Piazza Maria Ausiliatrice 27, <br>10512 Torino, Italy <br><br>*St John Bosco (d. 1888) founded the Salesian community at this location and later in 1868 completed this magnificent basilica. Relics of St John Bosco now rest within the chapel dedicated to him on the right side of the nave. Some of his relics are also periodically put on tour throughout the world. Also within this church are the remains of St Dominic Savio, a very saintly youth who studied under St John Bosco.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.675967,45.081066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Peter Damian</name>
+        <description><![CDATA[Duomo di Faenza (Faenza Cathedral) <br>Piazza XI Febbraio <br>48018 Faenza, Italy <br><br>*St Peter Damian (d. 1072) who was born in the nearby town of Ravenna always retained a strong connection to Faenza. It was here that he studied early in life and later where he founded a hermitage and a monastery. He was known in life as a reformer, a scholar, and a diplomat. He died in Faenza and his remains were interred in a monastery within this city until in 1826 they were transferred to the cathedral. They can now be found solemnly displayed within an urn in the sixth chapel on the left side of the nave. ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.884063,44.285931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Luke</name>
+        <description><![CDATA[Abbazia Santa Giustina <br>(Abbey of St Justina) <br>Via Giuseppe Ferrari 2A, <br>35123 Padova, Italy <br><br>*The body of St Luke rests within the left transept of this church. A recent study upon these relics was conducted at the request of Archbishop Antonio Mattiazzo of Padua in 1998. This study determined that these relics are of an individual that would fit the description of St Luke. <br>*A decorated tomb within the right transept of this church is dedicated to St Matthias. Apart from the beautiful inscription upon the tomb which in Latin reads “Sors cecidit super Mathiam” the church provides no signage to support the presence of the apostle’s relics within the tomb. This is somewhat striking since directly across from his tomb the church explains in great detail the relics of St Luke. Some, nevertheless have argued that these relics of St Matthias were brought to Padua in the 8th century at about the same time as the arrival of St Luke’s relics. This tradition, however, conflicts with the even older tradition of St Helena who in the 4th century is said to have acquired the relics of St Matthias and distributed them to both Rome, Italy and Trier, Germany. ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.880147,45.39625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Ambrose</name>
+        <description><![CDATA[Basilica di Sant’Ambrogio <br>(Basilica of St Ambrose) <br>Piazza Sant’Ambrogio 15, <br>20123 Milano, Italy <br><br>*St Ambrose (d. 397) was the bishop of this city for over 20 years. It was during this time that St Augustine (d. 430) heard St Ambrose’s powerful preaching and became attracted to the Christian faith. Today the body of St Ambrose, dressed in white pontifical vestments, rests within an urn in the crypt of this church. Lying beside his remains are the bodies of two additional saints, the martyrs Gervasius and Protasius.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.175204,45.462155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Gianna Beretta Molla </name>
+        <description><![CDATA[*St Gianna Beretta Molla (d. 1962) is buried next<br>to her husband in a small chapel within the parish cemetery in Mesero, Italy.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.854015,45.504557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Peter Chrysologus</name>
+        <description><![CDATA[Cattedrale di San Cassiano <br>(Cathedral of St Cassian) <br>Piazza Duomo 1, <br>40026 Imola, Bologna, Italy <br><br>*St Peter Chrysologus was born in this city in 406 AD. He eventually became the Bishop of Ravenna and was known for his outstanding homilies. One hundred seventy-six of these homilies survive to this day. <br>*The remains of St Peter Chrysologus rest within an altar in the crypt of this church. Kindly ask the sacristan for access. The relics of St Peter Chrysologus are within the altar to the left. The more prominent central altar preserves a few bone fragments from the martyr St Cassian.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.710793,44.353606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Eusebius of Vercelli </name>
+        <description><![CDATA[Cattredale di Vercelli <br>(Cathedral of Vercelli) <br>Piazza S. Eusebio, <br>13100 Vercelli, Italy <br><br>*This church is dedicated to St Eusebius of Vercelli (d. 371). During his life he strenuously opposed the heresy of Arianism. In 355 AD at a synod in Milan his refusal to accept Arianism led to his exile. During this time he suffered greatly especially at the hands of an Arian bishop in Syria. Some years later he was granted his freedom and eventually returned to Vercelli.<br>*An altar on the left side of the nave contains an urn with the remains of St Eusebius.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            8.422018,45.330072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Dominic</name>
+        <description><![CDATA[Basilica di San Domenico <br>(St Dominic’s Basilica) <br>Piazza San Domenico <br>40124 Bologna, Italy <br><br>*The remains of St Dominic (d. 1221) rest within this church in an exquisite tomb called the Arca di San Domenico. This tomb is placed in a large side chapel on the right side of the nave. The relic of St Dominic’s skull is enshrined within a reliquary on the backside of this tomb.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.344199,44.48956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Augustine</name>
+        <description><![CDATA[San Pietro in Ciel D'Oro <br>(St Peter in the Heavens of Gold) <br>Piazza San Pietro in Ciel D’Oro <br>27100 Pavia, Italy <br><br>*The remains of St Augustine (d. 430) rest within a glass-sided urn located within the large funerary monument in the main sanctuary of this church.<br>*Boethius is also buried in this church. His tomb rests within the crypt and is labeled S. Severini Boetii.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.154307,45.191459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Columban</name>
+        <description><![CDATA[Abbazia di Bobbio (Bobbio Abbey) <br>Piazza Santa Fara <br>29022 Bobbio, Italy <br><br>*As a young man St Columban’s (d. 615) apostolic zeal carried him away from his native Ireland first to England and then to France where he attracted many followers to his apostolic mission. Eventually he moved to Italy and was given a tract of land near Bobbio. It was here that he spent the last years of his life. His remains now rest within a sarcophagus in the crypt of this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.386358,44.767402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Elizabeth Ann Seton</name>
+        <description><![CDATA[Parrocchia Santa Elisabetta Anna Seton <br>(Church of St Elizabeth Ann Seton) <br>Piazza Giovanni Maria Lavagna 15, <br>57125 Livorno, Italy <br><br>*Livorno, Italy holds a special place for St Elizabeth Ann Seton (d. 1821) as it was here that she was introduced to the Catholic Faith after her husband’s illness and death. <br>*Her husband, William, is buried under a small gravestone in front of this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.326124,43.547304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Gemma Galgani </name>
+        <description><![CDATA[Monastero/Santuario di Santa Gemma <br>(Monastery/Sanctuary of St Gemma) <br>Via Tiglio 271, <br>55100 Lucca, Toscana, Italy <br><br>*The body of St Gemma Galgani (d. 1903) is enshrined beneath the main altar.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.51898,43.84273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bernardine of Siena</name>
+        <description><![CDATA[Basilica di San Bernardino <br>(Basilica of St Bernardine) <br>Via San Bernardino <br>67100 L’Aquila, Italy <br><br>*On April 6, 2009 an earthquake hit the Italian city of L’Aquila and severely damaged the Basilica of San Bernardino. As a result the relics of St Bernardine of Siena (d.1444) were removed from this church. At present they rest within a church dedicated to St Bernardine of Siena at Piazza d’Armi along Via Ugo Piccinini in L’Aquila. However, once the necessary repairs to the basilica are completed the relics will be returned to their original resting place within the basilica. ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.402199,42.350088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Mary Magdalene de Pazzi </name>
+        <description><![CDATA[Monastero di Santa Maria Maddalena dei Pazzi a Careggi <br>(Monastery of St Mary Magdalene de Pazzi at Careggi) <br>Via di Careggi / Via dei Massoni <br>50139 Florence, Italy <br><br>*The remains of St Mary Magdalene de Pazzi (d. 1607) are located in the main sanctuary of the church at this monastery.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.259956,43.811583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Romuald</name>
+        <description><![CDATA[Chiesa di San Biagio e Romualdo <br>(Church of St Blaise and Romuald) <br>Piazza Daniele Manin 12, <br>60044 Fabriano, Italy <br><br>*St Romuald (d. 1027) was originally buried near the monastic cell in which he died in Val di Castro. In 1466 his body was found still incorrupt; therefore, in 1481 his remains were brought to the nearby city of Fabriano. Today his relics rest within the crypt of this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.905886,43.33703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Benedict & St Scholastica]]></name>
+        <description><![CDATA[Abbazzia di Monte Cassino <br>(Abbey of Monte Cassino) <br>Via Montecassino <br>03043 Cassino, Italy <br><br>*The remains of St Benedict (d. 547) and St Scholastica (d. 547) are said to rest under the main altar of the church at this monastery.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.813677,41.490289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Catherine of Siena</name>
+        <description><![CDATA[Basilica di San Domenico <br>(St Dominic’s Basilica) <br>Piazza San Domenico <br>53100 Siena, Italy <br><br>*The head of St Catherine of Siena (d. 1380) rests within a chapel on the right side of the nave. <br>*Also a finger of the saint is venerated within a reliquary case just to the right of this chapel. This relic has traditionally been used to impart a blessing on the Italian military. ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.326314,43.320081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Rita of Cascia</name>
+        <description><![CDATA[Santuario di Santa Rita da Cascia <br>(Sanctuary of St Rita of Cascia) <br>Viale Santa Rita 13, <br>06043 Cascia, Italy <br><br>*The body of St Rita of Cascia (d. 1457) is enshrined on the left side of the nave in this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.012522,42.718764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Clare</name>
+        <description><![CDATA[Basilica di Santa Chiara <br>(Basilica of St Clare) <br>Piazza Santa Chiara <br>06081 Assisi, Italy <br><br>*The remains of St Clare (d. 1253) are enshrined within the crypt of this church. <br>*Also within the large chapel on the right side of this church is the San Damiano Crucifix that spoke to St Francis of Assisi. (This is the chapel where Morning Prayer and Evening Prayer are prayed)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.6168700000001,43.069021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas Aquinas</name>
+        <description><![CDATA[Parrochia Santa Annunziata <br>(Parish of the Holy Annunciation) <br>Via della Chiesa 6, <br>Roccasecca, Italy <br><br>*This church is just below the castle where St Thomas Aquinas (d. 1274) was born. This castle is presently in a state of ruin.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.66785,41.54848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas Aquinas</name>
+        <description><![CDATA[Abbazia di Fossanova <br>(Abbey of Fossanova) <br>Via San Tommaso D’Aquino 1 <br>04015 Priverno, Latina, Italy <br><br>*St Thomas Aquinas (d. 1274) was passing through this area on his way to the Council of Lyon. As he approached Fossanova he became deathly ill and was forced to stop. The monks at the Abbey of Fossanova took St Thomas in and cared for him until his death. For some years after his death his bones remained at this abbey and rested in the main sanctuary of the church. They were later moved in 1369 to Toulouse, France.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.195095,41.437772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bonaventure</name>
+        <description><![CDATA[Cattedrale San Bonaventura <br>(Cathedral of Saint Bonaventure) <br>Piazza Cavour <br>01022 Bagnoregio, Italy <br><br>*The only remaining relic of St Bonaventure (d. 1274), his right arm, rests within a chapel on the right side of the nave of this church. This relic was brought to Bagnoregio in 1491 as a gift since the saint’s birth home is in the nearby hill city of Civita di Bagnoregio. This transfer was providential because a little less than a century later, in 1562, his tomb in Lyon, France was plundered by French Huguenots and his remains were burned in the public square. During this event his incorrupt head was preserved; however, several centuries later during the French Revolution it disappeared and has remained missing ever since.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.094842,42.626361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Maria Goretti</name>
+        <description><![CDATA[Santuario di Nettuno <br>(Sanctuary of Nettuno) <br>Viale Matteotti <br>00048, Nettuno, Italy <br><br>*The remains of St Maria Goretti (d. 1902) rest below the main altar in the lower chapel of this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.66818,41.45688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Justin the Martyr</name>
+        <description><![CDATA[San Giovanni Battista e Biagio <br>Piazza San Biagio, 10 / Via di Mezzo <br>00060 Sacrofano, Italy <br><br>*Some bones of St Justin the Martyr (d. 165) are said to rest within an urn under the main altar.<br>*Note: The parish San Giovanni Battista e Biagio has two churches in the center of Sacrofano. The larger church with a piazza claims to have some small relics of St Blaise. The smaller church, which is located in the historic part of the city and is simply called Chiesa di San Giovanni Battista, has the relics of St Justin the Martyr.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.4481960000001,42.105048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Matthew & St Gregory VII]]></name>
+        <description><![CDATA[Duomo di Salerno <br>(Salerno Cathedral) <br>Via Duomo 1 <br>84121 Salerno, Italy <br><br>*Despite being the legitimate pope, St Gregory VII (d. 1085) was forced out of Rome in 1084 as a result of his ties to the Normans and the political pressures created by the Holy Roman Emperor, Henry IV, and the antipope, Clement III. A year later St Gregory VII died in this city as an exile. His remains now rest under an altar in the right transept of this church. <br>*The relics of St Matthew were brought to Salerno in 954 AD. The city continues to celebrate the anniversary of the transfer of his relics with an annual festival on May 6th. Throughout the year his relics can be visited in the richly decorated crypt of this church. ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.759896,40.680081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Andrew</name>
+        <description><![CDATA[Duomo di Sant'Andrea <br>(Cathedral of St Andrew) <br>Piazza Duomo <br>84011 Amalfi, Italy <br><br>*Tradition claims that St Andrew was martyred and buried in Patras, Greece. Later most of his relics were transferred to Constantinople. In the year 1204, after the Crusaders sacked Constantinople, the relics were taken west to the city of Amalfi, Italy. Some of these relics remain here today. They rest beneath the main altar in the crypt of this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.6028710000001,40.634361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Alphonsus</name>
+        <description><![CDATA[Basilica di Sant’Alfonso <br>(Basilica of St Alphonsus) <br>Piazza Sant’Alfonso 1, <br>84016 Pagani, Italy <br><br>*A wooden statue of St Alphonsus Liguori (d. 1787) rests under an altar to the left of the main sanctuary. This statue is so life like that at first glance one may think that the entire body of St Alphonsus Liguori is incorrupt. However, this is not the case. Some relics of the saint, nevertheless, are present. They rest on a silver carriage below the wooden statue.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.61069,40.742333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Cajetan</name>
+        <description><![CDATA[San Paolo Maggiore <br>(St Paul the Greater) <br>Piazza San Gaetano 76, <br>80138 Naples, Italy <br><br>*The remains of St Cajetan (d. 1547) rest within a beautiful tomb in the crypt of this church. Access to this crypt is through a door to the right of the double staircase that leads into the church. St Cajetan was a religious reformer of the early 16th century. He and several others founded the Theatines in 1524.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.257057,40.85111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Paulinus of Nola</name>
+        <description><![CDATA[Santuario di San Paolino <br>(Sanctuary of St Paulinus) <br>Via Madonna del Monte <br>93010 Sutera, Sicily, Italy <br><br>*Relics of St Paulinus of Nola (d. 431) are said to rest within an urn in this church.  They are carried in procession annually on the Tuesday after Easter. <br>*This shrine claims to have received its relics of St Paulinus of Nola in 1336. It is believed that they came from the remains that had been at San Bartolomeo all’Isola in Rome, Italy.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.731617,37.525328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bartholomew</name>
+        <description><![CDATA[Cattedrale di San Bartolomeo <br>(St Bartholomew’s Cathedral) <br>Via del Concordato <br>Lipari, Sicily, Italy <br><br>*A relic of the thumb of St Bartholomew rests within a silver arm reliquary in this church. This relic is exposed for veneration during feast days of the saint.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.954152,38.464208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Louis</name>
+        <description><![CDATA[Cattedrale di Monreale <br>(Cathedral of Monreale) <br>Piazza Guglielmo II 1, <br>90046 Monreale, Palermo, Sicily, Italy <br><br>*The innards of St Louis (d. 1270) rest within an urn in the left transept of this church. These relics were acquired during the transfer of St Louis’ body from Tunis to Paris.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.2919147,38.0819931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Lucy</name>
+        <description><![CDATA[Duomo di Siracusa <br>(Cathedral of Syracuse) <br>Piazza Duomo 5, <br>96100 Syracuse, Sicily, Italy <br><br>*In 1988 Syracuse received the left humerus bone of St Lucy (d. 304) from the Patriarch of Venice, Marco Cè. This relic rests within this church in a silver reliquary placed within the second altar on the right side of the nave. A separate reliquary exposed only on special feasts contains two additional fragments from the left arm of St Lucy. <br>*Also said to be preserved at this church are the robe, the veil, and the little shoes of the saint. <br>*Finally, each year on December 13th and also on the first Sunday in May a statue of St Lucy is carried with much festivity through the streets of Syracuse. Within the chest of this statue, which was created by Pietro Rizzo in 1599, are three fragments from her ribs.  ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.293596,37.059591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Nicholas</name>
+        <description><![CDATA[Basilica di San Nicolo <br>(Basilica of St Nicholas) <br>Largo Abate Elia <br>70122 Bari, Italy <br><br>*Relics of St Nicholas (d. 350) rest within a small urn located under the altar in the crypt of this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.869695,41.130282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Philomena</name>
+        <description><![CDATA[Santuario di S. Filomena  <br>(Sanctuary of St Philomena) <br>Piazza Umberto 1, <br>83027 Mugnano del Cardinale, Province of Avellino, Italy <br><br>*The remains of St Philomena (d. 304) are within the second chapel on the left side of the nave. Her remains rest within a life-sized paper mache reproduction of her likeness placed above the altar in this chapel.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.6424529999999,40.941207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Timothy</name>
+        <description><![CDATA[Cattedrale di Termoli <br>(Termoli Cathedral) <br>Piazza Duomo 1, <br>86039 Termoli, Italy <br><br>*In 1945 the relics of St Timothy were rediscovered in this church beneath a marble tile that read, “Here rests Blessed Timothy disciple of the Apostle Paul.” It is believed that they were buried here in 1239 and then over the following centuries forgotten.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.997389,42.005332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Francis de Sales</name>
+        <description><![CDATA[Monastero della Visitazione <br>(Monastery of the Visitation) <br>Via G. B. Mandruzzato 22, <br>31100 Treviso, Italy <br><br>*During the French Revolution the Visitation nuns transferred the heart of St Francis de Sales (d. 1622) from Lyons, France to Treviso, Italy. Today this relic remains in Treviso and rests within the church at this monastery. The relic is located on the right side of the nave. If the relic is not visible kindly ask a nun to raise the protective screen.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.239263,45.683398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Athanasius</name>
+        <description><![CDATA[San Zaccaria (St Zacharias) <br>Campo San Zaccaria <br>30122 Venice, Italy <br><br>*The remains of St Athanasius (d. 373) and St Zacharias, the father of St John the Baptist, are enshrined on the right side of the nave.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.343633,45.435025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Lucy</name>
+        <description><![CDATA[San Geremia (St Jeremiah) <br>Sestiere Cannaregio 290, <br>30131 Venice, Italy <br><br>*In 1204 the body of St Lucy (d. 304) was brought to Venice. Currently her body is enshrined in the church of San Geremia on the side opposite the church entrance.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.325212,45.44273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Anthony of Padua</name>
+        <description><![CDATA[Basilica di Sant’Antonio da Padova <br>(Basilica of St Anthony of Padua) <br>Piazza del Santo 11, <br>35123 Padova, Italy <br><br>*The tomb of St Anthony of Padua (d. 1231) is within a chapel on the left side of the nave. His tomb was opened in 1981 and contains the bones of the saint. <br>*Within the apse of the church is the Treasury Chapel. This chapel contains three niches. The central niche preserves three important relics of St Anthony of Padua. These include his lower jaw, his incorrupt tongue, and cartilage from his larynx. All three of these relics are used in speech and reflect the saint’s great ability as a preacher.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.880748,45.401478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Charles Borromeo</name>
+        <description><![CDATA[Duomo di Milano <br>(Cathedral of Milan) <br>Piazza del Duomo 18, <br>20122 Milano, Italy <br><br>*The remains of St Charles Borromeo (d. 1584) rest within the crypt of this church. Access to this crypt is located on the right side of the main sanctuary. St Charles was a greatly beloved bishop of this city during the late 16th century. <br>*Located below this church is an ancient baptistery. It was here that St Ambrose baptized St Augustine in 387 AD. ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.190536,45.464307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Anthony Zaccaria</name>
+        <description><![CDATA[San Barnaba (St Barnabas) <br>Via della Commenda 5, <br>20122 Milan, Italy <br><br>*In this city St Anthony Zaccaria (d 1539) founded the Congregation of the Regular Clerks of St Paul commonly referred to as the Barnabites. <br>*St Anthony Zaccaria’s short life was marked by great compassion for the poor and an equally strong desire to share the Word of God. Just prior to his canonization in 1897 his remains were placed within the crypt of this church. Today some of these remains still rest within this church. They are placed within the statue of his likeness that rests below the main altar of this church. A majority of his relics, however, have been distributed to other Barnabite communities throughout the world. ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.198727,45.459596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Jerome Emiliani </name>
+        <description><![CDATA[Santuario di San Girolamo Emiliani <br>(Sanctuary of St Jerome Emiliani) <br>Via alla Basilica 1, <br>23808 Vercurago, Italy <br><br>*This church honors the memory of St Jerome Emiliani. It was here in this city that he founded the Somascan Fathers with the primary mission of caring for orphans. During his feast on February 8th the Somascan Fathers present to the faithful an urn containing his skull. His bones rest behind a grate placed upon a wall within the chapel dedicated to him on the right side of the nave. <br>*The spot where St Jerome Emiliani died is preserved within a small chapel located just a short walk from the church. Also of note is the small sanctuary called the Valletta located along a path that rises above this town. Further along this same path is an abandoned fortress called the Rocca dell’Innominato which provides an amazing view of both the Southern Alps and of Italy’s northern lakes.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.429322,45.811423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Holy Shroud of Turin & Blessed Pier Giorgio Frassati]]></name>
+        <description><![CDATA[Duomo di Torino (Turin Cathedral) <br>Via XX Settembre 87, <br>10122 Turin, Italy <br><br>*Blessed Pier Giorgio Frassati (d. 1925) is buried in the third chapel on the left side of the nave. <br>*Also kept in this church is the Holy Shroud of Turin. However, it is not often available for public veneration. The last opportunity occurred during the spring of 2015.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.685301,45.073278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Apollinaris</name>
+        <description><![CDATA[Basilica di Sant’Apollinare in Classe <br>(Basilica of Saint Apollinaris in Classe) <br>Via Romea Sud 224 <br>48124, Classe Ravenna, Italy <br><br>*The bones of St Apollinaris rest within the main altar of this church. <br>*A debate arose in Ravenna during the 12th century whether the relics of St Apollinaris were within the Basilica di Sant’Apollinare Nuovo or within the Basilica di Sant’Apollinare in Classe. After examining the evidence Pope Alexander III determined that the relics rested within the Basilica di Sant’Apollinare in Classe. An empty tomb within this church dated 1173 AD preserves the memory of this declaration. This tomb is below the small marble altar in the center of the nave of the church. The bones of St Apollinaris were transferred to the main altar in the 18th century.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.23289,44.380285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Francis of Assisi</name>
+        <description><![CDATA[Basilica di San Francesco D’Assisi <br>(Basilica of St Francis of Assisi) <br>Piazza San Francesco 2, <br>06081 Assisi, Italy <br><br>*St Francis of Assisi (d. 1226) is buried in the crypt of this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.606055,43.074413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Benedict & St Scholastica]]></name>
+        <description><![CDATA[Monastero di San Benedetto <br>(St Benedict’s Monastery) <br>Via Reguardati 22, <br>06046 Norcia, Italy <br><br>*This monastery is built over the house where St Benedict (d. 547) and St Scholastica (d. 547) were born. ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.093064,42.792559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Benedict</name>
+        <description><![CDATA[Monastero di San Benedetto <br>(St Benedict’s Monastery) <br>Piazzale San Benedetto <br>00028 Subiaco, Roma, Italia <br><br>*Subiaco is where St Benedict (d. 547) lived as a hermit. It is also from this city that he began establishing monasteries. In total he spent 25 years of his life in this city.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.1183619999999,41.916769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Januarius</name>
+        <description><![CDATA[Duomo di Napoli (Naples Cathedral) <br>Via Duomo 147, <br>80138 Naples, Italy <br><br>*St Januarius (d. 305) is most well known for the liquefaction of his blood. This miracle occurs annually on September 19th, December 16th, and the first Saturday in May. <br>*The relics of St Januarius can be found in three different locations within this church. His blood, which is sealed in a reliquary, is placed upon the altar in the second chapel on the right side of the nave. This exquisite chapel also contains fifty-one silver busts, each depicting a different saint. They were donated to this church by various guilds and ecclesial institutions in the city. The second location, found in the confessio below the main sanctuary, preserves the bones of the saint. These bones, which are visible, rest within a vase below the altar in this confessio. Finally, fragments of his skull rest within a bust placed in the museum located next to this church. This bust is placed next to a lighted candle within an upper room in this museum.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.259213,40.852279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Padre Pio</name>
+        <description><![CDATA[Chiesa San Pio <br>(Church of St Padre Pio) <br>Piazzale Santa Maria Delle Grazie <br>71013 San Giovanni Rotondo, Italy <br><br>*The remains of St Padre Pio (d. 1968) rest in the crypt below Chiesa San Pio. This is the large modern church located at the far end of the piazza. The entrance to the crypt is on the right side of this church. <br>*On the other end of the piazza is Chiesa Santa Maria Delle Grazie. This is where St Padre Pio celebrated Holy Mass and heard confessions for 52 years of his life. Immediately to the right of this church is a newer church that was built in 1959. Below these churches is a crypt where the remains of St Padre Pio had previously rested. This location still attracts much veneration; however, his remains now rest below Chiesa San Pio as previously noted.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.705342,41.708019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Nicholas</name>
+        <description><![CDATA[San Nicolo al Lido <br>(St Nicholas at the Lido) <br>Riviera San Nicolo <br>30126 Venice, Italy <br><br>*Small bone fragments of St Nicholas (d. 350) rest within this church. They are placed within a beautiful funerary monument located in the main sanctuary. Three statues placed above this monument depict St Nicholas and two other saints whose relics are also preserved here.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.380516,45.427834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Andrew, St John Chrysostom, St John the Baptist, & St Philip]]></name>
+        <description><![CDATA[Duomo di Firenze <br>(Florence Cathedral) <br><br>*Relics of the following four saints are said to be within the sacristy of this church. <br>*The skull of St John Chrysostom (Acquired in 1360), an arm of St Andrew the Apostle (Acquired in the 14th century), an arm of St Philip the Apostle (Acquired in 1205), and a finger of St John the Baptist (Acquired in 1419). <br>*It is said that this is the same finger that St John the Baptist used to point at Jesus when he proclaimed, “Behold the Lamb of God.”]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.255493,43.773093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas</name>
+        <description><![CDATA[Basilica di San Tommaso Apostolo <br>(Basilica of St Thomas the Apostle) <br>Corso Giacomo Matteotti 35, <br>66026 Ortona, Italy <br><br>*The relics of St Thomas the Apostle rest within a golden casket placed within a white marble altar located in the crypt of this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.404401,42.357212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Peter of Verona </name>
+        <description><![CDATA[Sant Eustorgio <br>Piazza di Sant Eustorgio, 1, <br>Milan, Italy <br><br>*The remains of St Peter of Verona (d. 1252) rest within this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.181234,45.454005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Agatha</name>
+        <description><![CDATA[Duomo di Catania (Catania Cathedral) <br>Piazza del Duomo <br>95131 Catania, Sicily, Italy <br><br>*The relics of St Agatha (d. 251) are located within the apse of this church in the Chapel of St Agatha. Unfortunately, this chapel is not accessible to the public. However, every year on February 4th and 5th the relics are brought out and the faithful are given the chance to participate in the procession of her relics throughout the streets of Catania.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.088305,37.502457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bartholomew</name>
+        <description><![CDATA[Basilica di San Bartolomeo <br>(St Bartholomew’s Basilica) <br>Piazza Federico Torre <br>Benevento, Italy <br><br>*A tradition holds that the relics of St Bartholomew were transferred to Benevento, Italy in the 9th century. A century later they were transferred to Rome. Benevento, however, continues to claim possession of the true relics of St Bartholomew. These relics are placed within a porphyry urn below the main altar. An additional bone fragment is placed within a bust of the saint. Twice a year, on August 24th and October 25th, the city celebrates in honor of the saint.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.7787109999999,41.130706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Frances Xavier Cabrini </name>
+        <description><![CDATA[Centro di Spiritualità Santa Francesca Cabrini <br>Via Giosuè Carducci 50 <br>26845 Codogno, Italy <br><br>*Nine years before arriving in America St Frances Xavier Cabrini (d. 1917) founded the Institute of Missionaries of the Sacred Heart of Jesus in this city. Today a small museum located at this center wonderfully preserves this event. Also located here is the relic of St Frances’ heart. It rests within the convent chapel just to the right of the main sanctuary. It is best to call ahead prior to visiting to reserve a tour. ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.701443,45.158551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Francis of Paola</name>
+        <description><![CDATA[Basilica di San Francesco di Paola <br>(Basilica of St Francis of Paola) <br>Largo San Francesco di Paola <br>87027 Paola, Italy <br><br>*In 1482 King Louis XI of France requested that St Francis of Paola be at his side as he neared death. St Francis at first was reluctant to accept the king’s request because he did not want to leave his native Italy. However, upon the urging of Pope Sixtus IV he acquiesced. St Francis of Paola would then remain in France for the next 25 years providing counsel to the French kings. He died in 1507 and was buried in Plessis. In 1562 his tomb was violently reopened, his incorrupt body plundered, and the majority of his relics destroyed by French Huguenots. Some of his bones, however, escaped destruction and were later taken to Paola, Italy. These bones now rest within this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.045586,39.368404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Angela Merici </name>
+        <description><![CDATA[Chiesa di Sant’Angela Merici <br>(Sanctuary of St Angela Merici) <br>Via Francesco Crispi 23, <br>25121 Brescia, Italy <br><br>*The remains of St Angela Merici (d. 1540) rest within this church in a chapel on the right side of the nave. The original church that housed her relics was destroyed during World War II on March 2, 1945. The present sanctuary was built over this destroyed church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.225192,45.534349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Catherine of Siena</name>
+        <description><![CDATA[Santi Giovanni e Paolo <br>(Saints John and Paul) <br>Castello 6363, <br>30122 Venice, Italy <br><br>*A relic of the foot of St Catherine of Siena (d. 1380) rests near the Chapel of St Dominic on the right side of nave.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.342196,45.439252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Aloysius Gonzaga</name>
+        <description><![CDATA[Il Santuario di San Luigi Gonzaga <br>(The Sanctuary of St Aloysius Gonzaga) <br>Via Cesare Battisti 1, <br>46043 Castiglione delle Stiviere, Italy <br><br>*St Aloysius Gonzaga (d. 1591) was raised at his family’s castle in this city. Despite this lofty upbringing he decided to renounce his worldly inheritance in favor of a life as a Jesuit. During his formation he was never lacking in charity and often spent many hours caring for the sick. On one such occasion he himself unfortunately contracted the plague and died. After his death his skull was given to one of his brothers who had remained at the family castle. Today it rests above the main altar of the church in this city.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.48836,45.389869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Paulinus of Nola</name>
+        <description><![CDATA[Cattedrale di Nola (Cathedral of Nola) <br>Piazza Duomo 1, <br>80035 Nola, Italy <br><br>*On June 22nd crowds of people fill the square in front of this church for the annual celebration of St Paulinus (d. 431). A silver bust of the saint is processed into the crowd and eight festive obelisks and an ornamental wooden boat are blessed. The obelisks and boat harken back to a legendary story of the saint. It is said that as Barbarian tribes were invading Italy, St Paulinus offered to be taken captive in exchange for the return of a widow’s son. Shortly thereafter a Turkish sultan, being so impressed by St Paulinus’ selfless act of love, decided to grant him his freedom. St Paulinus then returned to Italy and was warmly welcomed by the people of Nola. *Apart from this celebration relics also rest within this church in the fourth chapel on the left side of the nave.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.528099,40.925981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Blaise</name>
+        <description><![CDATA[Basilica di San Biagio <br>(Basilica of St Blaise) <br>Via Castello <br>Maratea, Italy <br><br>*Relics of St Blaise (d. 316) were brought to this city in 732 AD and now rest within this church.  They are located within a white marble urn located below a silver bust of the saint.  Also of note is the large 68 foot tall statue of Christ the Redeemer that overlooks the sea just a short distance from this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.723748,39.988136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Josephine Bakhita </name>
+        <description><![CDATA[Chiesa della Sacra Famiglia <br>Suore Canossiane <br>(Church of the Holy Family <br>Canossian Sisters) <br>Via Fusinato 51, <br>36015 Schio, Italy <br><br>*St Josephine Bakhita (d. 1947) began her life as a slave in Sudan. After gaining her freedom she became a nun in Italy and spent the last 45 years of her life in this Canossian convent. Her body now rests under the main altar of this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.362385,45.714308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St John the Baptist</name>
+        <description><![CDATA[Cattedrale di Santa Maria Assunta <br>(Cathedral of Our Lady Assumed) <br>Piazza del Duomo 8, <br>53100 Siena, Italy <br><br>*In May of 1464 Pope Pius II presented to this church the right arm of St John the Baptist. This relic now rests on the left side of the nave behind the Chapel of St John the Baptist. Each year this relic is presented for public veneration prior to the saint’s feast day on June 24th.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.3289,43.317677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Frances Xavier Cabrini</name>
+        <description><![CDATA[Basilica di Sant’Antonio Abate e Santa Francesca Cabrini <br>(Basilica of St Anthony the Abbot and St Frances Cabrini) <br>Via Umberto I, <br>Sant’Angelo Lodigiano, Italy <br><br>*Construction of this beautiful church began in 1928 and was completed ten years later. A bone from St Frances Xavier Cabrini (d. 1917) rests within a marble altar in the chapel dedicated in her name. <br>*St Frances Xavier Cabrini was also born in this city. Her childhood home is reconstructed into a museum and can be visited.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            9.409962,45.238439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Lucy</name>
+        <description><![CDATA[Basilica di Santa Lucia al Sepolcro <br>(Basilica of Saint Lucy at the Tomb) <br>Via Luigi Bignami 1, <br>96100 Syracuse, Sicily, Italy <br><br>*This church marks the spot where St Lucy (d. 304) was martyred. <br>*Within the octagonal baptistery adjacent to this church is the grave where St Lucy was originally buried. Under the altar is a beautiful marble statue depicting the saint.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            15.291746,37.072899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Anne</name>
+        <description><![CDATA[Cattedrale di San Pietro <br>(Cathedral of Saint Peter) <br>Via Indipendenza 7, <br>40126 Bologna, Italy <br><br>*The head of St Anne is said to rest within a reliquary in the second chapel on the right side of the nave. <br>*In 1435 the King of England, Henry VI, gave this relic to the city of Bologna after their bishop, Blessed Nicolò Albergati, smoothed relations between England and France during the 100 Years’ War.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.343083,44.495847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas Aquinas</name>
+        <description><![CDATA[Cattedrale di Aquino <br>(Cathedral of Aquino) <br>Piazza San Tommaso d’Aquino <br>03031 Aquino, Italy <br><br>*In 1963 the Archbishop of Toulouse, Gabriel Marie Garrone, gave to this church a small rib bone of St Thomas Aquinas (d. 1274). <br>*The relic is carried in procession every year on the evening of March 7th.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.70221,41.493515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bruno</name>
+        <description><![CDATA[Certosa di Serra San Bruno <br>(Charterhouse of Serra San Bruno) <br>Via Santo Stefano 1, <br>89822 Serra San Bruno, Italy <br><br>*St Bruno founded this monastery and spent the last ten years of his life here. In 1514 his relics were transferred to the main sanctuary of the church at this monastery where they remain to this day.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            16.319375,38.565054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas Aquinas</name>
+        <description><![CDATA[San Domenico Maggiore <br>(Saint Dominic the Greater) <br>Piazza San Domenico Maggiore 8, <br>80134 Naples, Italy <br><br>*St Thomas lived in this priory from 1272-1274. Within the cell in which he lived is preserved the miraculous crucifix that exclaimed, “You have written well of me, Thomas.” Also within this same cell is preserved a bone from his left arm. Access to this cell is only given by special permission.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.254439,40.848821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Joseph Moscati</name>
+        <description><![CDATA[Gesù Nuovo (The New Jesus) <br>Piazza del Gesù Nuovo <br>80134 Naples, Italy  <br><br>*The remains of St Joseph Moscati (d. 1927) rest within a tomb placed within the second chapel on the right side of the nave of this church. In life he was a medical doctor and researcher who practiced great charity in his profession. In particular he was known to never charge the poor for his services. A museum just a short distance from his tomb preserves his memory. Within this museum are both the bedroom in which he died and his study. Also preserved here are many of the medical instruments that he used in life.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            14.2517781,40.847523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Benedict</name>
+        <description><![CDATA[Duomo Nuovo (The New Cathedral) <br>Piazza Paolo VI <br>25121 Brescia, Italy <br><br>*An arm bone of St Benedict rests within this church. It is placed in front of the beautiful funerary monument dedicated to St Apollonio on the right side of the nave. Around the year 759 this relic was given to a Benedictine community in Leno, located just south of Brescia. During the 15th century it was transferred to Brescia. <br>*Recently this bone has been rigorously studied in an attempt to authenticate the relics in either Monte Cassino or Saint-Benoît-sur-Loire. Documentation shows that this bone came from Montecassino in 759. This late date provides evidence that at least some relics of the saint were still preserved in Montecassino following the alleged theft in the 7th century. On the other hand, recent studies seem to indicate that the physical characteristics of this bone from Brescia do not match the Montecassino source.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            10.2216598,45.5386678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas Aquinas</name>
+        <description><![CDATA[Cattedrale di Santa Maria Annunziata <br>(Cathedral of the Annunciation of Mary)<br>Piazza Vittorio Emanuele <br>Priverno, Italy <br><br>*A relic of the purported skull of St Thomas Aquinas rests within this church. The authenticity of the relic is dubious. A spurious discovery of the relic in 1585 is presumed by some to be a forgery. Nevertheless annually on the evening of March 6th the Bishop of the Diocese leads a procession through the streets of Priverno carrying the relic of the skull. (March 7th was the Feast Day of St Thomas Aquinas on the old calendar.)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            13.181904,41.4734496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Catherine of Siena</name>
+        <description><![CDATA[Santuario Casa di Santa Caterina <br>(Sanctuary of the House of St Catherine) <br>Via Costa di Sant'Antonio 6, <br>53100 Siena, Italy <br><br>*This church rests over the house where St Catherine of Siena was born. ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.3287067,43.3199794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eucharistic Miracle</name>
+        <description><![CDATA[Basilica di San Francesco <br>(Basilica of St Francis) <br>Piazza San Francesco, 6 <br>53100 Siena, Italy <br><br>*In 1730 thieves broke into this church and stole over 300 consecrated hosts. Several days later the hosts were returned and placed into an alms box within the church. To this day these hosts have remained perfectly intact. At present 223 of the hosts are preserved. The others having been consumed over the centuries. To see this Eucharistic Miracle it is best to call ahead. Generally only large groups are admitted. The hosts are preserved within a chapel on the right side of the nave near the sanctuary. A protective screen must be raised to view the hosts.  ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            11.3345861,43.3223288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Domusculta Capracorum</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.4165893,42.0462651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

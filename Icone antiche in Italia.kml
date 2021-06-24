@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Icone antiche in Italia</name>
+    <description><![CDATA[https://www.operaromanapellegrinaggi.org<br>https://www.omniaforitaly.org<br>https://www.omniavaticanrome.org<br><br>Si prendono in considerazione icone del Cristo e icone della Vergine Maria, di vario tipo:<br>- lucane<br>- acheropite<br>- bizantine<br>- ...]]></description>
+    <Style id="icon-1553-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1553-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1553-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1553-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1553-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1623-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1623-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1623-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1623-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1623-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1623-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1623-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1623-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1623-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1623-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Icone I-V secolo</name>
+      <Placemark>
+        <name>Madonna del Conforto - Imago Antiqua</name>
+        <description><![CDATA[La Madonna del Conforto – o Imago Antiqua – è l’icona mariana più antica che si conservi nella Città Eterna. La datazione generalmente riconosciuta la pone ai primi decenni del V secolo, dunque in un momento addirittura anteriore o coevo alla caduta dell’Impero Romano d’Occidente.<br><br>La tradizione vuole, tra l’altro, che la Madonna del conforto sia proprio l’icona portata in processione da San Gregorio Magno nel 590 per implorare la fine della peste che tormentava Roma e che si concluse con la visione dell’Arcangelo Michele che, sugli spalti più alti della Mole Adriana rinfoderava la spada.<br><br>L’icona era originariamente conservata in Santa Maria Antiqua, nel Foro Romano ai piedi del Palatino, ma nell’847 un terremoto distrusse la chiesa. La Madonna del Conforto venne però ritrovata e trasferita in Santa Maria Nova, costruita da papa Leone IV (847-855) subito dopo ed oggi recante il titolo di Santa Francesca Romana.<br><br>Il punto è che dell’immagine mariana, che sembrava essere stata messa al sicuro, apparentemente sparirono le tracce.<br><br>Passarono così circa mille anni fino a che, nel 1950, Pico Cellini, capo dei restauratori vaticani, si trovò ad intervenire sull’icona del XIII secolo che ancora oggi è possibile ammirare al centro dell’abside di Santa Francesca Romana.<br><br>Il destino volle che intervenendo su questa icona Pico Cellini riportasse alla luce l’Imago Antiqua.<br><br>Dell’originale icona del V secolo si sono in realtà salvati solo i due volti. Quello del Bambino molto deteriorato, quello della Vergine pressoché perfetto.<br><br>Possiamo solo supporre che l’Imago Antiqua sia stata danneggiata nell’incendio che all’inizio del XIII secolo colpì Santa Maria Nova e successivamente, forse in quegli stessi anni, si sia proceduto ad intervenire sull’icona.<br><br>Per capire cosa possa essere avvenuto, la soluzione migliore è leggere insieme quanto scrive Claudio Aita nel suo articolo del 2018 “Il restauro dell’icona di Santa Maria Nova a Roma da parte dell’ISCR”, ovvero:<br><br>“I volti (dell’Imago Antiqua) provengono da un unico tessuto di lino e sono ciò che rimane di una sacra immagine molto antica: vennero incollati come ritagli, in un momento imprecisato, sul piano di una tavola, come dimostrano i margini dei due frammenti, tagliati di netto. A occhio nudo si riesce a intravedere, in zone circoscritte, la struttura dell’ordito e della trama.<br><br>L’orientamento dei filati denuncia che i due lacerti pur appartenendo alla stessa tela antica, non sono disposti sul piano con tessiture parallele. Risulta evidente, perciò, che vennero uniti nell’attuale supporto in una fase successiva alla loro esecuzione e in un rapporto spaziale reciproco diverso da quello originale. Questo antico evento che non è supportato da fonti documentarie, garantì la sopravvivenza di ciò che rimaneva della tela originaria, creando quelle che a tutt’oggi viene considerata una delle più venerate icone romane. ……. Nel secolo VIII l’opera risulta rivestita di una coperta d’argento (riza) da cui emergono solo le due teste. Nel 1216 la chiesa di Santa Maria Nova, che custodisce all’epoca l’icona, subisce un incendio. Fra questo evento e il secolo XV, al di sopra dei due volti probabilmente danneggiati, sarebbero state applicate delle tele sottili con nuovi volti dipinti”.<br><br>A questo punto si colloca la riscoperta dovuta a Pico Cellini. Seguiamola sempre nello scritto di Claudio Aita:<br><br>“Seguiamo ora passo dopo passo le fasi dell’articolato intervento “cellininiano”. Dopo aver rimosso le decorazioni metalliche applicate, Cellini affronta per primi distacco, pulitura e ricollocazione su nuovo supporto delle tele con le pitture dei volti medievali. Il distacco provoca lo strappo di finiture e lumeggiature superficiali della pittura più antica, che, come un’impronte al negativo, rimangono aderenti al retro della tela medievale.<br>Con i volti staccati Pico realizza una nuova icona: le due tele vengono fatte aderire a lastre di plexiglas trasparente per mezzo di colofonia e incastonate in un nuovo sup]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.488587,41.891224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Icone VI-X secolo</name>
+      <Placemark>
+        <name>Volto Santo di Lucca</name>
+        <description><![CDATA[Duomo di San Martino<br>VIII-IX secolo<br><br>Il Volto Santo di Lucca è la scultura lignea più antica d'Occidente. Si tratta di un crocifisso ligneo, dal colore scuro e dai tratti assolutamente unici. Ad aumentare il fascino della reliquia ha contribuito la scienza, mettendola a confronto con il volto della Sindone di Torino attraverso una tecnica di transizione graduale eseguita al computer che ha portato ad un risultato sorprendente: i due visi combaciano alla perfezione. Il Volto Santo lucchese si differenzia notevolmente dagli altri crocifissi: Gesù indossa una tunica manicata, cioè un indumento sacerdotale, anziché il colobio o il più diffuso perizoma.<br><br>Gli occhi sporgenti, come negli idoli precristiani, si fissano sullo spettatore e sembrano seguirlo con lo sguardo. La croce è del genere “a quattro chiodi”, ovvero coi piedi non sovrapposti, ma i chiodi non sono visibili nelle mani e nei piedi perché l’opera vuole rappresentare il cosiddetto Cristo Triumphans, cioè trionfante sulla morte, mentre i crocifissi più comuni sono della tipologia del Cristo Patiens, cioè morto sulla croce.<br><br>La connotazione dell’immagine come acheropita viene accentuata dalla leggenda sulla sua origine, che vuole la statua realizzata da Nicodemo, colui che secondo il Vangelo di Giovanni depose, con Giuseppe d’Arimatea, Gesù nel sepolcro. La leggenda racconta pure che Nicodemo avrebbe beneficiato più della grazia divina che della propria arte: il volto, in particolare, sarebbe stato scolpito dagli angeli durante la notte. Nel secolo XII, per fornire una base documentale alla crescente venerazione tributata all’immagine, fu redatta una Relatio de revelatione sive inventione ac translatione Sacratissimi Vultus (Racconto della creazione, scoperta e traslazione del Santissimo Volto), in cui si narra l’arrivo a Luni, e successivamente a Lucca nel 742, della nave priva di equipaggio che trasportò il Volto Santo.]]></description>
+        <styleUrl>#icon-1623-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            10.505752,43.840663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Volto Santo della cappella Sancta Sancatorum</name>
+        <description><![CDATA[Chiesa di San Lorenzo in Palatio ad Sancta Sanctorum<br>VII-VIII secolo<br><br>Nel VII secolo circa, l’icona del Volto Santo o Acheropirita del Salvatore (cioè, dipinta da mano non umana), proveniente da Costantinopoli, fu collocata nella cappella di San Lorenzo al Patriarchio Lateranense, la cappella privata del papa. Meglio conosciuta come Sancta Sanctorum alla Scala Santa, vale a dire il “luogo più sacro che ci sia al mondo” che per secoli è stato il più grande reliquiario di Roma perché ospitava alcune delle reliquie più importanti della cristianità.<br><br>Non si sa con esattezza dove essa fosse custodita dopo il suo arrivo a Roma da Costantinopoli, ma la sua presenza nella cappella al Laterano è attestata già all’epoca di papa Stefano II (752-757). Fino al IX secolo era in uso che dal Laterano venisse portata in processione per le vie di Roma in occasione delle principali festività mariane. Una di queste processioni è legata a una grazia particolare per la città di Roma e alla memoria di papa Stefano II. Il cuore della cristianità era sotto la minaccia dei Longobardi guidati da Astolfo, che reclamavano la restituzione dei territori che i loro predecessori avevano donato al Papa. Era il 753 e per chiedere la protezione divina, la reliquia fu portata in spalla da papa Stefano, che la portò dal Laterano a Santa Maria Maggiore a piedi nudi e con il capo coperto di cenere. La vicenda ebbe un esito felice, dal momento che Astolfo rinunciò a reclamare i territori contesi e a muovere guerra a Roma, cosa che fu interpretata come un miracolo del Volto Santo. Dalla metà del secolo IX, a partire dal pontificato di Leone IV (847-855) la processione del Volto Santo aveva luogo una sola volta l’anno, in occasione della solennità dell’Assunzione in cielo della Beata Vergine Maria e si teneva nella notte fra il 14 e il 15 agosto. Alla luce delle fiaccole l’immagine usciva dal Sancta Sanctorum a mezzanotte e raggiungeva il Colosseo transitando per via dei Santi Quattro Coronati e San Clemente. Dal Colosseo il corteo passava sotto l’arco di Costantino e, percorrendo la Via Sacra, sotto l’arco di Tito, raggiungeva Santa Maria Nova (denominata anche chiesa Santa Francesca Romana). Durante questo tragitto passava davanti ad un oratorio ormai scomparso, eretto per ricordare la sfida lanciata da Simon Mago - considerato dagli eresiologi come il primo degli gnostici - a san Pietro.<br>Dopo una breve sosta a Santa Maria Nova, il corteo si addentrava nel Foro Romano e arrivava fino all’arco di Settimio Severo, dove il Senato attendeva la preziosa icona del Volto del Salvatore su un palco fatto adibire appositamente: un modo per dimostrare l’omaggio delle autorità civili alla sacra immagine. La processione continuava il suo percorso attraverso la Suburra, la salita di San Martino ai Monti, via di Santa Prassede e arrivava all’alba a Santa Maria Maggiore dove la attendeva il Papa, che già ai tempi di Innocenzo III (1198-1216) non andava più in processione. Nella basilica mariana avveniva la parte più importante del rito: l’incontro con la Madonna, in questo caso con la Salus Popoli Romani, l’icona di Maria più importante e miracolosa di Roma che ancora oggi si trova in questo tempio. L’immagine di Gesù entrava nella Basilica per incontrare e rendere omaggio all’immagine di sua Madre, quindi il corteo imboccava via Merulana e prendeva la strada del ritorno in Laterano, dove l’icona del Salvatore tornava al suo posto sull’altare della Cappella al Sancta Sanctorum.]]></description>
+        <styleUrl>#icon-1623-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            12.506641,41.887157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Madonna Advocata all'Aracoeli]]></name>
+        <description><![CDATA[Basilica di Santa Maria in Ara coeli<br>icona bizantina dell'VI-XI secolo]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.483233,41.893999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna della Clemenza di Santa Maria in Trastevere</name>
+        <description><![CDATA[Basilica di Santa Maria in Trastevere<br>VI-IX secolo<br><br>L’icona di Santa Maria in Trastevere detta “Madonna della Clemenza”occupa un posto eccezionale tra le icone romane del primo Medioevo. Raffigura, tra due angeli in piedi dietro al trono, la Vergine con gli attributi di Regina che tiene sul grembo il Bambino. In basso rivolto verso lo spettatore, come anche gli altri personaggi, la figura di un pontefice in ginocchio davanti alla Vergine. Ai fini della datazione della tavola è piuttosto trascurabile l'identificazione del pontefice, in quanto ben poco rimane della figurina in adorazione, ma valgono altri elementi: intanto è rilevante notare come l'immagine del pontefice abbia un diverso tipo di stilizzazione nei confronti dell'intera tavola; si tratta di una figura autonoma rispetto a tutto il resto. Verrebbe il dubbio che sia stata aggiunta, ma questo non è possibile perché è eseguita con la medesima tecnica. Questo è prova che la tavola riprende un prototipo più antico (forse i mosaici di Santa Maria Maggiore). La datazione della tavola viene quindi dallo stile della figura del papa, autonoma rispetto a tutto il resto, che consente una collocazione cronologica tra la fine del VI secolo e la prima metà del VII.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            12.469749,41.889468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sancta Maria ad Martyres</name>
+        <description><![CDATA[Basilica Sancta Maria ad Martyres (Pantheon)<br>VII secolo<br><br>Il Pantheon costituiva uno dei luoghi più significativi del culto pagano a Roma e sotto il pontificato di Bonifacio IV (608-615) fu destinato al culto cristiano e dedicato alla Vergine Maria e a tutti i martiri. La data della consacrazione della chiesa è dagli studiosi ritenuta il 16 maggio dell'anno 609 ed è probabile che quest'icona facesse parte dei doni offerti in quell'occasione dall'imperatore Foca.<br><br>Ciò che rimane della tavola in esame è solo un frammento di quella originale che per grandezza si può ritenere simile all'icona di Santa Francesca Romana, ma si differenzia da questa per una rigidità che sorge da dettami non solo di derivazione da un prototipo, ma anche di concettualità teologica. La differenza è riscontrabile nel modo in cui la Vergine sostiene il Bambino e nella particolare evidenza della mano, motivi che la fanno rientrare nella tipologia della Madonna Odyghitria.]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.476873,41.898611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna Costantinopolitana - Padova</name>
+        <description><![CDATA[Abbazia di Santa Giustina, Padova<br>VIII-IX secolo?<br>Collocazione: All’interno del Monastero della Basilica (originale); nell’abside del transetto sinistro della Basilica (copia con riza).<br><br>Il tipo iconografico cui collegare questa immagine sarebbe quello della Madre di Dio Odighitria, nella variante dexiokratousa (= che regge il Bambino con la mano destra).<br><br>L’icona è dipinta su una tavola di legno intagliato, con margini dei bordi rialzati e aureole bombate.<br><br>Gli elementi più leggibili sono i volti. Scarsamente leggibili sono i drappeggi, mentre le mani di entrambi i personaggi e i piedi del Bambino mancano totalmente.<br><br>Si presenta attualmente gravemente compromessa: tranne parte del volto della Madonna e di quello del Bambino, poche tracce superstiti delle aureole e alcuni frammenti del maphorion, il resto della tavola appare quasi completamente rovinato. La tavola è molto rovinata e danneggiata da evidenti, gravi e profonde bruciature (che si notano negli orli e nella parte posteriore), tarlature, buchi e corrosioni. Secondo la tradizione, i segni del fuoco sono dovuti al rogo in cui venne gettata a Costantinopoli nel periodo delle lotte iconoclaste. Viene tramandato infatti che la tavola, il cui autore sarebbe per tradizione lo stesso San Luca evangelista, scagliata tra le fiamme sarebbe volata miracolosamente tra le braccia di una donna che l’avrebbe consegnata al prete Urio, custode della Basilica dei Dodici Apostoli di Costantinopoli. Questi, tra l’VIII e il IX secolo avrebbe portato a Padova, a Santa Giustina, il corpo di San Luca, le reliquie di san Mattia e l’icona, per sottrarli alla ferocia iconoclasta.<br><br>Nel Cinquecento l’icona, ormai quasi illeggibile, fu “rinnovata” ricorrendo alla copertura con una tela sottilissima dipinta ad olio con i soli due volti della Madre e del Bambino (perché tutto il resto è stato rivestito da una riza di argento dorato e sbalzato con le due figure della Vergine e del Bambino).<br><br>Nel 1959 si decide di separare l’icona vera e propria dalla sovrastante pittura cinquecentesca e dalla riza di rame sbalzato e dorato che la proteggeva anteriormente. Quest’ultima, con la copertura metallica, ha trovato la sua collocazione definitiva in Basilica : si trova nell’abside del transetto sinistro della Basilica (sorretta da due angeli, sopra l’urna che racchiude il corpo dell’Evangelista san Luca).<br><br>La tavola di legno sottostante fu affidata al restauro del prof. Antonio Lazzarin (1960), che riportò alla luce i volti della Madonna e del Bambino: sotto una patina di resina bruciacchiata si rinvennero alcuni lacerti di pittura originale. Al termine del restauro venne custodita per breve tempo in sagrestia, poi sull’ altare del Coro Vecchio; infine ci si decise per l’attuale collocazione interna al Monastero.<br><br>Il 23 maggio – giorno anniversario della sua incoronazione – si svolge dopo cena una solenne e suggestiva processione con i monaci per i chiostri dell’ Abbazia, che si conclude all’altare di s. Luca con una Liturgia della Parola ed il canto del Magnificat.]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            11.879036,45.396613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salus Populi Romani - Santa Maria Maggiore</name>
+        <description><![CDATA[Basilica di Santa Maria Maggiore, Roma<br>VI secolo?<br>Collocazione: Cappella Paolina<br><br>L'icona della Madonna è collocata sull'altare in una cornice di angeli che la recano in gloria, splendendo sul fondo turchino di un cielo di lapislazzuli. Le lettere greche che campeggiano ai lati della Vergine sono, di nuovo, l'abbreviazione del suo titolo di Madre di Dio, affermazione rovesciata e identica della divinità di Gesù.]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.498034,41.89753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna di San Luca di Bologna</name>
+        <description><![CDATA[Santuario della Madonna di San Luca, Bologna<br>X-XI secolo]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            11.298064,44.479116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Maria in Cosmedin</name>
+        <description><![CDATA[???<br>Ma quale icona? E' menzionata qui:<br>https://it.wikipedia.org/wiki/Iconografia_attribuita_a_san_Luca#Italia<br><br>Ma non ho capito dove si troverebbe nella chiesa?]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.481633,41.888075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna di Lidda a Monte Mario</name>
+        <description><![CDATA[Chiesa di Santa Maria del Rosario (e della Febbre)<br>prima del IX sec.<br>Secondo la tradizione l'icona, opera di san Luca, proverrebbe da Costantinopoli e risalirebbe alla fine del IV o all'inizio del V sec.<br><br>Secondo alcuni studiosi potrebbe provenire dall’area siriano-palestinese. Era collocata anticamente (già nel IX sec.) nella chiesa di Santa Maria in Tempulo. Nel 1221 san Domenico l'avrebbe fatta traslare in San Sisto Vecchio sulla via Appia, dove rimase fino al sacco di Roma del 1527, quando la chiesa venne distrutta dai lanzichenecchi, ma l'icona fu ritrovata intatta. Nel 1575 le suore furono costrette dall’infuriare della malaria a trasferirsi nel monastero di San Sisto Nuovo presso il Quirinale. Con il trattato di Tolentino (1797) le suore dovettero consegnare ai francesi anche la preziosa rizza d'argento che ricopriva il dipinto. Nel 1931 l’immagine passò infine dalla chiesa dei Santi Domenico e Sisto presso il Quirinale alla chiesa del Rosario a Monte Mario.]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.447286,41.920874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Maria di Farfa</name>
+        <description><![CDATA[Abbazia di Farfa<br>VII secolo<br><br>sarebbe stata portata in Italia da san Tommaso di Morienna nel VII secolo; ridotta in frammenti]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.71855,42.221718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna di Costantinopoli - Bari</name>
+        <description><![CDATA[Basilica Pontificia San Nicola Bari<br>VIII secolo<br><br>Un'icona molto venerata che la tradizione vuole fortunosamente giunta a Bari nel 733 ad opera di due monaci sfuggiti alle persecuzioni]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            16.870137,41.130314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santuario della Madonna di Capo Colonna</name>
+        <description><![CDATA[X-XI secolo<br><br>Il santuario di Santa Maria di Capo Colonna si trova vicino all'area archeologica di Capo Colonna, sul promontorio Lacinio, presso Crotone, e custodisce un'icona particolarmente venerata.<br><br>L'icona, probabilmente bizantina, risale al X o all'XI secolo. Il dipinto, che si rifà all'iconografia di San Luca, sarebbe stato donato al santuario, secondo la tradizione, da San Dionigi l'Areopagita. Il quadro subì a sua volta diversi rimaneggiamenti. Un tempo conservata all'interno della chiesa, l'icona è stata successivamente trasferita nel Duomo di Crotone da dove, in occasione della festa della Madonna di Capo Colonna, viene portata in processione fino al santuario.<br><br>La sacra icona della Madonna di Capo Colonna è l'immagine più rappresentativa della città di Crotone e il suo culto è ormai da secoli un simbolo per tutti i crotonesi, anche se non è possibile delinearne un quadro storico preciso. In merito alla sacra immagine, infatti, i racconti giunti sino a noi non sempre risultano attendibili e non è possibile rintracciare notizie negli archivi storici ecclesiastici crotonesi, perché gran parte delle fonti in essi conservate sono andate distrutte in un incendio che divampò nella basilica e nell'episcopio cittadino intorno al XVI secolo. Le notizie giunte sino a noi sono antichi racconti che intrecciano fonti storiche a storie leggendarie. Le fonti storiche più attendibili raccontano che già in tempi antichi, annualmente, i crotoniati facevano pellegrinaggi presso il promontorio di Capo Lacinio per celebrare e ringraziare Hera, la dea della vita e della fertilità. Con l'avvento del cristianesimo questo culto pagano venne sostituito dalla venerazione della Vergine Maria. La tradizione più antica racconta infatti che la sacra immagine di origine bizantina fu portata sul promontorio crotonese da San Dionigi, un giudice ateniese che, dopo esser stato convertito al cristianesimo da San Paolo, giunse a Crotone e ne divenne il primo vescovo.<br><br>Secondo il racconto il Santo, dopo aver trovato l’immagine, la portò nel tempio di Hera Lacinia in cui per secoli si era svolto il culto pagano, iniziando i crotonesi alla venerazione della Sacra Icona. Un'altra versione racconta che il quadro, proveniente dall'oriente, in origine raffigurava la Vergine a mezzo busto; fu ritrovato da un artista crotonese il quale, dopo averlo trasportato su tela, lo completò, ricreando la figura intera della Vergine e abbellendolo infine con una lamina prima dorata e poi argentea. Nemmeno sull'autore dell'opera si hanno notizie certe e attendibili. Un'antica tradizione racconta che la tela originale sarebbe stata realizzata da San Luca evangelista, ma questo racconto sarebbe poco attendibile, perché il dipinto della Vergine di Capo Colonna risalirebbe al X – XI secolo e sarebbe di stile bizantino, quindi realizzato in tempi successivi. Questa versione potrebbe essere influenzata dal fatto che San Luca è conosciuto come un abile pittore che realizzò numerosi dipinti raffiguranti la Vergine Maria. Un altro racconto attribuisce il dipinto a un altro San Luca detto l’Archimatrite, un abate che resse uno dei monasteri basiliani presente un tempo a Capo Colonna. Questa seconda versione sembrerebbe trovare maggiore riscontro perché l’attuale quadro presenta molti caratteri dello stile bizantino, praticato durante l'epoca del monachesimo basiliano; elementi caratteristici di questo stile si possono ritrovare soprattutto nella parte superiore dell'immagine, dove sono raffigurati la testa della Vergine e il volto del Bambino.<br><br>La parte inferiore del dipinto appare poco nitida e sembra esser stata realizzata con tecniche diverse rispetto all'originale : il manto della Vergine non è di stile bizantino e parecchi ritocchi sarebbero riconducibili al XV secolo. Questi dettagli confermerebbero il fatto che il dipinto attuale sia in realtà un trasporto dell'immagine originale. Alcuni episodi storici ci fanno capire che la Sacra Icona era già venerata nel XV secolo. Nel giug]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            17.205578,39.028755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maria Santissima della Civita</name>
+        <description><![CDATA[Santuario Maria Santissima della Civita, Itri<br>VIII secolo???<br><br>Ad una decina di chilometri dal centro abitato di Itri, sulla sommità del monte Fusco (anche chiamato monte Civita) a 673 m s.l.m., sorge il santuario della Madonna della Civita, uno dei più antichi d'Italia; gli fanno corona e sfondo i monti Aurunci ed Ausoni e si può godere di un panorama che va dal Circeo, fino all'isola d'Ischia. Attualmente, il santuario, al cui ingresso è posta la scritta Terribilis est locus iste, è meta di quasi mezzo milione di pellegrini l'anno (non solo dai paesi vicini, ma anche da Campania, Abruzzo e dalla provincia di Frosinone in particolare), di cui non meno del 10% sale ancora a piedi.<br><br>L'origine del santuario è avvolta da un alone di mistero e leggenda, legata alla tradizione popolare. Secondo tradizione, durante la persecuzione iconoclasta ordita dall'imperatore Leone Isaurico a Costantinopoli, VIII secolo, due monaci basiliani vennero sorpresi dai soldati con il dipinto su legno della Madonna. Chiusi in una grande cassa insieme al quadro, furono gettati in mare: "Se veramente è così miracolosa, vi salverà", dissero. Dopo 54 giorni, questa cassa galleggiante toccò la sponde di Messina e successivamente di Gaeta. Qui il quadro fu esposto alla venerazione dei fedeli, ma dopo poco tempo scomparve da quel luogo e venne ritrovato sul monte Civita, presso Itri, da un pastore sordo e muto che era alla ricerca di una sua bestia smarrita. Egli riacquistò l'udito e la parola e corse lieto in paese (a Itri) a dare la notizia del quadro miracoloso trovato su un leccio. Fu così che il quadro fu affidato ai monaci benedettini, che all'epoca erano in Figline, a circa 3 km dalla cima suddetta sulla strada mulattiera che va verso Fondi. Più realisticamente, l'icona di fattura certamente orientale (attribuita addirittura a san Luca per la presenza di tre lettere, ormai sbiadite, poste alla base del quadro[2]: L.M.P. a significare "Lucas Me Pinxit"), raggiunse Gaeta portata da alcuni monaci basiliani che, fuggiti dall'oriente, andavano verso qualche convento del Lazio. Il quadro fu lasciato ai monaci del monastero di San Giovanni in Figline, i quali lo esposero a poca distanza sul monte Civita, in un eremitaggio appartenente al loro monastero.<br><br>Le prime notizie del santuario risalgono al 1147: una donazione, riportata in un documento, fatta da un notaio di Itri e da sua moglie, all'abate del monastero, Riccardo, per il restauro della chiesetta della Madonna della Civita, affidata alla custodia di fra' Bartolomeo. Nel 1491, il santuario iniziò ad avere l'attuale connotazione. I cittadini di Itri, infatti, fecero pressione sul vescovo di Gaeta per avere una chiesa più grande. Gli itrani furono accontentati e la nuova chiesa fu consacrata da mons. Francesco Patrizi, che la intitolò all'Immacolata, come il Concilio di Basilea pochi anni prima aveva incoraggiato a venerare Maria. Il vescovo volle tramandare ai posteri l'impegno degli itrani, confermando, in un documento dell'anno successivo, che gli uomini della terra di Itri sono i fondatori, patroni e sostenitori del santuario. Parlando del quadro della Vergine, nella bolla di consacrazione datata 20 giugno 1491, evidenzia la continua venerazione al santuario e al quadro della Madonna "antique venerationis" (di antica venerazione).<br><br>La chiesa subì alcuni restauri nel corso dei secoli, riportati in una lapide del 1691. Secondo la credenza, tra le numerose e continue grazie che la Vergine elargiva ai devoti, la più grande fu quella del 21 luglio 1527, quando liberò dalla peste tutti gli abitanti dei paesi circostanti. In ricordo di quel giorno la festività liturgica fu fissata da mons. Carlo Pergamo, vescovo di Gaeta, il 21 luglio.<br><br><br>Santuario della Madonna della Civita (monte Civita), pozzo sulla terrazza panoramica.<br>Lo stesso Pergamo rivolse una supplica alle autorità vaticane nel 1775, per chiedere l'autorizzazione per la solenne incoronazione, che avvenne il 20 luglio del 1777. Per il crescente afflu]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            13.520307,41.331222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna Advocata in Campo Marzio</name>
+        <description><![CDATA[Chiesa di Santa Maria della Concezione in Campo Marzio<br>VIII secolo (?)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            12.476523,41.901397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna Nicopeia di Venezia</name>
+        <description><![CDATA[Basilica di San Marco<br>X-XII secolo]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            12.339712,45.434561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna Bizantina di Taormina</name>
+        <description><![CDATA[Duomo di Taormina<br><br>Visibile nella navata di destra, la Madonna non manufatta, opera dipinta su legno con motivi ornamentali in argento come il ricco abito di Maria che risponde ai caratteri dell’arte orafa e pittorica bizantina. I volti della Madonna e di Gesù, sono appena visibili ma questo perché si narra che sia stata ritrovata in un pozzo nella proprietà De Turcis, dove è la Badia Vecchia e che chi ha messo in salvo il quadro, lo ha fatto per risparmiarlo dalla furia degli arabi quando hanno preso Taormina. Degna di nota, è l’iscrizione a fianco dell’immagine, datata gennaio 1693. Una dedica e una preghiera alla Vergine da parte dei Giurati per aver risparmiato la città, dal nefasto terremoto che ha distrutto numerose città della Sicilia orientale tra cui Catania, Ragusa e Noto. Dove c’è l’altare, invece, si possono ammirare i leoni stilofori con lo stemma della Centauressa che fanno parte del trono dei Giurati, la cui funzione originaria potrebbe essere stata quella di reggere un sarcofago. I due leoni provengono anch’essi dalla bottega di Domenico Gagini. Anche la statua della Madonna delle Grazie, posta nell’omonima cappella con la veste ricca e piena di dettagli, il volto addolcito della Madonna e del Bambino, la fanno somigliare ad un’altra opera di bottega, quella della Madonna della Scala nella Chiesa Madre di Ucria. I committenti della Madonna delle Grazie, sono della famiglia Grugno, originaria della Catalogna e giunta nel 1347; il cui stemma con le tre teste di cinghiale, si vede ai due lati della base della statua.]]></description>
+        <styleUrl>#icon-1623-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            15.282918,37.851006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Icone XI-XV secolo</name>
+      <Placemark>
+        <name>Madonna Advocata del Palazzo Barberini</name>
+        <description><![CDATA[Galleria del Palazzo Barberini<br>XII secolo<br>https://artepiu.info/icona-madonna-advocata-palazzo-barberini/<br><br>La Madonna Advocata di Palazzo Barberini (Aghiosoritissa in greco o dell’Intercessione) rappresenta una testimonianza importante per la nostra storia dell’arte. Datata al terzo quarto del XII secolo, risale infatti all’epoca dei nostri primitivi, e ci permette di conoscere quale fosse la produzione artistica a Roma in quegli anni ancora del medioevo.<br><br><br>In realtà la Madonna Advocata, oggi presso la Galleria Nazionale d’Arte Antica di Palazzo Barberini (della quale rappresenta il dipinto più antico) proviene da un luogo che ci ha regalato più di un’opera di epoca alta. Si tratta dell’oratorio (scomparso) dedicato a San Gregorio Nazianzeno presso il convento di Santa Maria in Campo Marzio dove l’immagine era considerata miracolosa. Oggi, in quel luogo, a pochi passi dalla Camera dei Deputati, troviamo la Chiesa di Santa Maria della Concezione in Campo Marzio.<br><br>Da quello stesso oratorio, e di medesima epoca, provengono anche il Giudizio Finale di Nicolò e Giovanni ed il Cristo Benedicente oggi entrambe alla Pinacoteca Vaticana.<br><br>Aghiosoritissa o Madonna dell’Intercessione<br><br>Com’è noto, le icone mariane si rifanno a precisi modelli. In questo caso, come detto, l’icona si rifà al modello dell’Aghiosoritissa o Madonna dell’Intercessione.<br><br>La Vergine da sola, senza Gesù, con le braccia protese in atto, appunto di intercessione. Proprio da quest’azione che la Vergine compie in favore del credente nasce il nome di Madonna Advocata. Peraltro, l’Aghiosoritissa è la forma di rappresentazione della Vergine più diffusa nella quindicina di icone antiche ancora custodite a Roma.<br><br>La Madonna Advocata di Palazzo Barberini<br><br>Si tratta di una tempera su tavola rivestita di tela di 107 x 57,5 cm acquistata dallo Stato Italiano nel 1987.<br><br>Ciò che rende la Madonna Advocata di Palazzo Barberini un unicum è la presenza del Cristo, adulto, nell’angolo in alto a sinistra della tavola. Inoltre, egli compie un gesto con la mano destra (sfiorando l’aureolaicona madonna advocata palazzo barberini della Vergine) come di benedizioni, comunque di contatto, forse per rafforzare la percezione dell’importanza dell’azione di intercessione propria della Vergine.<br><br>Altro elemento particolare è la cornice a palmette che cinge l’immagine e l’iscrizione “SˉCˉAVIRGOVIRGINUM”, presente sul bordo inferiore, “Santa Vergine delle Vergini”, una invocazione propria delle litanie che chiudono il rosario. Ambedue questi elementi non sono frequenti nelle icone, anzi tutt’altro.<br><br>I caratteri bizantini dell’immagine sono incontrovertibili ma, altresì, gli elementi fin qui descritti mostrano il percorso intrapreso a Roma verso scelte iconografiche proprie.<br><br>Merita tener presente, anche per un confronto con altre icone mariane presenti nella Capitale, la tecnica impiegata che risulta molto lineare. Le pieghe della veste della Vergine sono infatti tracciate attraverso poche pennellate scure mentre sia nel Cristo che nella Madonna la separazione tra le sopracciglia è ottenuta con l’inserimento di un semplice triangolo scuro. Peraltro, questa soluzione si ritrova analoga nell’icona della Madonna Odigitria custodita nel Monastero di Santa Maria di Grottaferrata.<br><br>Così, sia nella Vergine che nel Cristo, le pieghe del collo sono rese con pochi tratti essenziali. Manca poi del tutto la resa dell’incarnato nei due volti. Spicca, all’orecchio sinistro della Vergine, un grande orecchino d’oro: un oggetto anch’esso presente in modo non comune nelle icone mariane.]]></description>
+        <styleUrl>#icon-1899-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.489845,41.903294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basilica Parrocchiale Santa Maria del Popolo</name>
+        <description><![CDATA[XIII secolo<br><br>http://www.turismoitalianews.it/arte-architettura/840-roma-madonna-di-san-luca-in-santa-maria-del-popolo-il-capolavoro-medievale-e-di-filippo-rusuti-nuova-atttribuzione]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.476656,41.911491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna del Popolo a Marino</name>
+        <description><![CDATA[Basilica di San Barnaba<br><br>La prima menzione dell'immagine risalirebbe ad un rogito notarile del 1280, rogato da un tale Pietro notaio in Roma, che asserisce come l'immagine stessa fosse stata portata da un esponente della famiglia Colonna a Roma da Costantinopoli, in un'epoca non meglio identificata.[1] L'immagine venne traslata in Marino dai Colonna, forse al tempo di papa Martino V, e collocata in un monumentale altare laterale collocato nella chiesa di Santa Lucia, oggi utilizzata come Museo Civico Umberto Mastroianni. L'altare pare fosse eretto con i marmi del tempio pagano di Diana Aricina ad Aricia, secondo quanto riferiscono Flavio Biondo e Leon Battista Alberti.[2]<br><br>Nel 1526, durante la guerra tra papa Clemente VII e l'imperatore Carlo V d'Asburgo, conflitto terminato nell'autunno dell'anno successivo con il famigerato sacco di Roma del 1527, un contingente di soldati provenienti da Velletri al soldo del Papa venne inviato a saccheggiare Marino, feudo dei Colonna fedeli agli imperiali. Nel saccheggio, la leggenda vuole che i velletrani sottrassero alla chiesa di Santa Lucia una campana e la venerata immagine della Madonna del Popolo, dando vita al detto "velletrani, rubba Madonne e rubba campane". L'immagine tuttavia ritornò da sola nel proprio posto a Marino, e subito si gridò al miracolo. Questo racconto venne raccolto nel 1648 partendo dalle testimonianze di alcuni testimoni degnissimi[3]: Giovambattista Gagliardi, di 84 anni (nato dunque nel 1564); Bernardino Antonozzi, di anni 80 (nato nel 1568); Giovambattista De Angelis di anni 70 (classe 1578); Alfonso Manfroni di anni 76 (nato nel 1572); Cesare Farina di anni 80.[3]<br><br>Nel 1583 gli inventari della chiesa di Santa Lucia menzionavano l'immagine come "Maria Santissima di Santa Lucia", e già da allora era attorniata da una grande aura di immagine miracolosa, e circondata da ex voto, stampelle e doni miracolosi.[4]<br><br>Il 10 dicembre 1662 l'immagine venne traslata solennemente dalla chiesa di Santa Lucia, sconsacrata nel 1636, alla nuova parrocchiale, la Basilica Collegiata di San Barnaba. Dopo aver cantato il vespro nella Basilica di San Barnaba più presto del solito, i canonici salirono in processione alla vecchia chiesa di Santa Lucia, dove trovarono ad aspettarli la Confraternita del Gonfalone di Marino e le altre confraternite locali, il capitolo dei chierici, il clero di Albano Laziale, i frati Romitani di Marino, i Cappuccini di Santa Maria ad Nives di Palazzolo, quelli di Castel Gandolfo, di Genzano di Roma e di Velletri, i Carmelitani di Albano, il cardinal Ginneti vescovo di Albano, il vicario generale della diocesi di Albano monsignor Carlo Taurigi, e tutta la famiglia Colonna al gran completo. Le autorità laiche e religiose erano tutelate da 70 alabardieri. Si intonò l'Ave maris stella e la processione partì al seguito della Madonna montata su un baldacchino offerto dal Connestabile Colonna. Infine percorso l'attuale Corso Trieste, all'epoca chiamato Strada Larga, l'immagine venne depositata nel suo altare, nella terza campata sulla destra. Nei tre giorni seguenti venne celebrato un solenne triduo.[5]<br><br>La Madonna del Popolo venne più volte invocata dal popolo marinese per vari motivi, per lo più strettamente connessi alla principale attività economica del luogo, la vitivinicoltura: nel 1632, nel 1643 e nel 1655 venne invocata la Madonna perché mantenesse un tempo clemente[6], mentre nel 1638 si chiese la pioggia[6]; anche la fine della pestilenza del 1656, che a Marino stroncò oltre metà della popolazione, venne salutata come un dono della Madonna del Popolo.[6] Nel 1672 i marinesi richiesero alla stessa Madonna la fine delle piogge eccessive[7], nel 1685 invece volevano la pioggia[7]; lo stesso accadde negli anni 1734, 1755, 1761 e 1791.[7] Nel 1837 la popolazione marinese accordò alla Madonna del Popolo il privilegio di aver salvato la città dalla grave epidemia di colera che si era abbattuta sulla zona[8].<br><br>Nella notte tra venerdì 17 novembre e sabato 18 n]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.659948,41.769915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santissima Icone - Spoleto</name>
+        <description><![CDATA[Cappella della Santissima Icone, Duomo di Spoleto<br>XI-XII secolo<br><br>Ambiente patrocinato dalla famiglia Mauri con architetture di Giovan Battista Mola del XVII secolo e dipinti raffiguranti storie della Beata Vergine Maria, opere di scuola romana. La sopraelevazione presenta colonne scanalate sormontate da doppio timpano triangolare, sovrapposto, spezzato e simmetrico, stele intermedia con iscrizione delimitata da puttini e volute, chiusa superiormente da timpano ad arco e croce apicale. La calotta interna della cupola presenta un ricco reticolo e rosette in stucco indorate. Nelle nicchie laterali dell'incasso statue coronate indicano il centro dell'edicola ove, sotto la raffigurazione del paraclito, è custodita la Icone bizantina del XI-XII secolo donata da Federico Barbarossa nel 1185 alla città in segno di riconciliazione, dopo averla saccheggiata trenta anni prima. La cappella è adorna di stucchi, affreschi ed un tabernacolo opera di vari artisti. Le statue sono opere realizzate da Alessandro Algardi, i busti raffigurano i committenti Andrea Mauri e Livia Zucconi da Camerino.]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            12.74016,42.735175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna delle Vittorie - Piazza Armerina</name>
+        <description><![CDATA[Cattedrale Madonna delle Vittorie, Piazza Armerina<br>XII secolo?<br><br>La storia<br><br>Nel giugno del 1063 Cerami, piccolo paese alle spalle dell’Etna, fu teatro di una decisiva battaglia fra le truppe normanne del Gran Conte Ruggero e l’esercito d’occupazione arabo in Sicilia. La notte precedente lo scontro decisivo, narra la leggenda, l’arcangelo Michele apparve al condottiero normanno, promettendo aiuto e rassicurandolo sull’esito positivo della battaglia. Fu una vittoria schiacciante che Ruggero, visto il suo potente alleato, volle condividere con Alessandro II, all’epoca sommo pontefice romano. Parte del bottino, assieme a 4 cammelli, fu inviata a Roma. Grande fu il gradimento del papa, che vedeva con sommo interesse tutte le imprese belliche considerate vantaggiose per la causa cristiana. Il santo padre promise indulgenze plenarie al Conte e a tutti coloro che avevano combattuto al suo fianco e conferì al condottiero normanno, come Vessillo papale, un’icona bizantina dipinta su tela e raffigurante l’immagine della Beata Vergine Maria col Bambino Gesù. Nella tradizione bizantina l’icona della Vergine con il Bambino era associata ai trionfi dell’imperatore. La presenza delle Icone in battaglia veniva spesso considerata come la presenza del Prototipo rappresentato nell’Icona; una miniatura della Cronaca di Skylitzés (Biblioteca Nazionale di Madrid, fol. 172v) illustra l’ingresso trionfale di Giovanni Tzimiskès su un cavallo bianco preceduto da un’Icona della Vergine posta su una carrozza. O ancora, qualche decennio prima, dopo la sconfitta di Antiochia, l’imperatore Romano III ricevendo in dono un’Icona della Vergine detta “Generale” o “Guardiana degli eserciti”, vide mutare i suoi sentimenti di disperazione nella gioia più piena, sentendosi enormemente confortato e rassicurato dalla protezione che derivava dall’Amore della Vergine.<br>Allo stesso modo Ruggero, con immensa fede e pieno affidamento, accettò il dono papale e lo portò con sè in ogni battaglia. A Plutia, l’odierna Piazza Armerina, strenuamente difesa dalle truppe arabe, venne combattuta una delle battaglie cruciali per la conquista dell’isola. Palese fu su quel terreno l’aiuto della Beata Vergine, che assieme alla collaborazione dei plutiesi portò il principe normanno ad una vittoria schiacciante. La riconoscenza di Ruggero verso i plutiesi fu così grande da spingerlo a promettere che, alla fine di tutte le operazioni di conquista della Sicilia, la custodia dell’Icona miracolosa sarebbe stata conferita a questa città. Conquistata tutta la Sicilia, intorno al 1091, l’Icona venne affidata alle migliori truppe normanne, le gallo-italiche o lombarde, che come promesso la deposero per la venerazione sull’altare della chiesa di Plutia e si stabilirono nella città di Piazza Armerina.<br>Nell’anno 1161 i plutiesi, rei di avere cospirato all’autorità del re, per la compiacente politica filo saracena di Guglielmo il Malo (già da allora i Lumbard erano diffidenti verso gli immigrati nord africani), nell’imminenza del pericolo della distruzione della città, nascosero l'Icona. “L’onore reso a una Immagine risale al Modello originale”(San Basilio, De Spiritu Sancto);per paura che le profanazioni rese all'Immagine dalle truppe saracene consistessero in un'offesa della tutta Santa Madre di Dio, o per evitare che l’Icona venisse rubata, o cadesse in mano al Re che la voleva portare a Palermo, la rinchiusero segretamente in una cassa di legno e la seppellirono all'’interno dell'eremo di Santa Maria in contrada Piazza Vecchia. Per capire meglio l’operato dei plutiesi si consideri ciò che San Giovanni Damasceno sosteneva: “L’Icona è come riempita di energia e di grazia”, cioè l’Immagine di Maria e del Bambino comunica almeno in parte la sua santità alla materia su cui è dipinta, senza però mai essere consustanziale al Prototipo. Per i due secoli a venire non si seppe più nulla dell’Icona.<br>Nel 1348 la Sicilia venne colpita dalla tremenda “peste nera” ed anche la città di Piazza, assieme alle altre,]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            14.364186,37.38485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maria Santissima di Montevergine</name>
+        <description><![CDATA[Santuario di Maria Santissima di Montevergine, Avellino<br>XIII-XIV secolo<br><br>La Madonna di Montevergine è l'appellativo con cui si venera, nell'omonimo santuario a Mercogliano, il quadro raffigurante la vergine Maria seduta su un trono con in braccio il bambino Gesù, risalente al XIII - XIV secolo[1]: oltre al nome consueto è anche conosciuta come Madonna Nera o ancora, maggiormente, come Mamma Schiavona[2]. Contrariamente a quanto può pensarsi, il culto della Madonna di Montevergine non è legato ad alcuna apparizione, ma solamente dalla volontà di un monaco eremita, Guglielmo da Vercelli, di dedicare la propria vita alla preghiera tramite il culto di Maria, formando in poco tempo un vero e proprio ordine monastico.<br><br>La storia dell'icona della Madonna di Montevergine è incerta[1]: secondo la leggenda, il quadro sarebbe stato direttamente dipinto da San Luca a Gerusalemme, per poi essere trasportato prima ad Antiochia e poi a Costantinopoli: nell'VIII secolo però con la salita al trono di Michele Paleologo e l'inizio dell'iconoclastia, il fuggitivo re Baldovino II recise il capo della Madonna dal quadro per metterla in salvo. Giunta a Caterina II di Valois per eredità, questa fece terminare l'opera da Montano d'Arezzo, per poi donarla ai monaci di Montevergine nel 1310, esponendola nella cappella gentilizia dei D'Angiò. La prima vera valutazione storica dell'icona si ebbe soltanto durante il Concilio Vaticano II, negli anni sessanta, quando su ordine delle autorità ecclesiastiche un team di storici e critici analizzarono il quadro: ben presto la leggenda risultò totalmente infondata in quanto la data di donazione al santuario non poteva essere esatta perché Caterina II avrebbe avuto solamente dieci anni ed inoltre da uno scritto conservato nel monastero irpino, il quadro era già presente dalle fine del XIII secolo[1]. Nel 1964 Giovanni Mongelli, padre della Congregazione di Montevergine, ipotizzò che l'opera potesse essere stata realizzata da Pietro Cavallini, o comunque dalla sua scuola, visti i numerosi elementi artistici tipico del pittore romano, come lo stile bizantino ed il modo di panneggiare, ma quest'ipotesi fu dettata anche dal fatto che Cavallini era stato spesso commissionato a realizzare opere dai D'Angiò, famiglia sicuramente a cui l'opera appartiene vista la presenza dei gigli angioini; nel 1997 padre Placido Maria Tropeano, ha però dichiarato che l'opera potrebbe essere anche attribuita a Montano d'Arezzo, ma che a seguito dei continui rimaneggiamenti abbia perso la sua fisionomia iniziale. Altra leggenda, anch'essa esclusa dagli storici, vuole che il quadro sia giunto a Montevergine perché il mulo che lo trasportava non avrebbe eseguito gli ordini del padrone e si sarebbe incamminato per la montagna giungendo fino al santuario<br><br>L'immagine della Madonna di Montevergine è stata realizzata su due tavole di pino tenute insieme da alcune sbarre nel retro[3] ed ha una altezza di 4 metri e 30 per una larghezza di 2 metri e 10[4]. La raffigurazione rappresenta la Madonna, seduta su un trono, con in braccio il bambino Gesù, posto sulla sua gamba sinistra ed il fanciullo tiene, nella sua mano destra, il manto della mamma[5]: sia il capo del bambino che quello della Madonna sono aureolati, ma mentre nel primo caso è ancora presente una corona d'oro donata nel 1712 dal Capitolo di San Pietro in Vaticano, mentre nel secondo è assente a causa di un furto avvenuto nel 1799. Il volto della Vergine è di forma ovoidale[2] e gli occhi sono in nero con la caratteristica di osservare nello stesso momento sia il cielo che il bambino che reca in braccio. Nella parte superiore del quadro sono presenti due angeli che volano sul bordo del trono, mentre altri sei si trovano ai piedi in segno di venerazione e preghiera[2]; ai due lati del trono sono disposti due medaglioni che conservavano rispettivamente il latte materno della Vergine e un pezzo del suo mantello[5]. Durante il corso degli anni il dipinto ha subito numerosi rifacimenti, che n]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            14.72869,40.936138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Maria di San Luca - Valenzano</name>
+        <description><![CDATA[XVII secolo quella attualmente esposta<br>l'originale doveva essere del IX secolo secondo la leggenda, ma documentata per la prima volta nel XIV secolo<br><br>La chiesa Santa Maria di San Luca, non appartenente più ai frati minori della Provincia Francescana di Puglia e Molise ma di proprietà della diocesi di Bari , è oggi la seconda chiesa cittadina per numero di frequentatori, dopo la chiesa matrice di San Rocco. Costruita, secondo la leggenda, sui resti di un'antica cappella peuceta per volere del fondatore Valentiniano, le vicende storiche della chiesa s'intrecciano con quelle di un'icona dipinta da san Luca, ad oggi presente all'interno come pala d'altare. La struttura, esempio di romanico pugliese, comprende una delle torri campanarie più alte della provincia (~70 m).<br><br>Nella piazza antistante a tale chiesa si trova il Monumento all'emigrante che ricorda l'emigrazione dei valenzanesi nelle Americhe fra Ottocento e Novecento.<br><br>Opere conservate sono:<br><br>Sacro Cuore di Gesù, Gesù Crocifisso (venerato da secoli per uno storico miracolo e sino al '700 era usato nel Venerdì Santo), Gesù Cristo Morto ligneo attribuito a Pier Paolo Pica o a Pietro Surgente di fine '700 donato nel 1976 dalla famiglia proprietaria Troccoli (esce nella processione dei Misteri nel Venerdì Santo mattina insieme ad altri 49 statue), Santa Maria di San Luca (statua), l'Addolorata (minuscola statua differente all'altra di S.Rocco), San Giuseppe, Transito di San Francesco, San Francesco d'Assisi (con processione), Santa Elisabetta d'Ungheria, Sant'Antonio di Padova (processione) e i Santi Medici e Martiri Cosma e Damiano simili a quelli di Bitonto (tempo fa vi era una processione).<br><br>I Frati erano presenti a Valenzano da quando il P. Custode della “Provincia di S. Nicolò di Bari”, P. Bernardino de Monti di Corigliano d’Otranto (1605 -1607), inoltrò domanda alle autorità amministrative di Valenzano, intesa ad ottenere il suolo necessario per l’edificazione di una chiesa con annesso convento costruito su progetto di fr. Francesco da Martina Franca. Le leggi eversive allontanarono i Frati e il Convento per 81 anni fu adibito a usi diversi. I frati vi ritornarono il 2 ottobre 1946. Con decreto dell’Arcivescovo di Bari, Mons. Marcello Mimmi, in data 1 giugno 1949 è stata istituita anche la Parrocchia. Il Convento, attualmente è diviso in due parti: nella prima, vede la presenza dei Frati, nella seconda, con ingresso in via S. Antonio, operano le Suore Francescane del Cuore di Gesù di Malta, con annessa Scuola Materna.]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            16.884203,41.043781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna della Cattedrale di Palermo</name>
+        <description><![CDATA[XII secolo<br><br>Secondo le fonti, il dipinto fu commissionato a San Luca da Santa Tecla, discepola di San Paolo Apostolo. Fu portata a Palermo da S. Angelo Carmelitano. Il dipinto fu donato a S.Angelo da Atanasio Chiaramonte, patriarca di Alessandria d'Egitto e fu trasferito, una volta giunto in Italia, nella città d'origine dei Chiaramonte per volere di Federico Chiaramonte, fratello dell'arcivescovo.<br><br>Monreale, 26 settembre 2017 – Viene restituita al culto, dopo 206 anni, la Madonna Odigitria, (etimologicamente “colei che indica la via”), l’icona dinanzi alla quale Guglielmo II avrebbe offerto la bolla d’oro della fondazione dell’Abbazia di Monreale nel lontano 1176.<br><br>E proprio nella ricorrenza del 750° anniversario della dedicazione della Basilica, quest’icona , a seguito di un lungo intervento di restauro promosso dalla Fondazione Sicilia sotto l’egida del prof. Sebastianelli, è stata al centro di una cerimonia di accoglienza e benedizione, svoltasi questo pomeriggio al Duomo, alla presenza delle autorità religiose e civili, e presieduta dall’Arcivescovo Mons. Pennisi.<br><br>Quest’opera d’arte, precedentemente ascritta alla produzione iconografica bizantina risalente al XIII sec, è stata recentemente retrodatata alla seconda metà del XII sec. Sulla scorta di interessanti indagini condotte sui pigmenti delle tavole lignee sembra infatti che l’icona, non solo sia coeva dell’epoca della fondazione e quindi compatibile con la tradizione che ne riconosce il “capezzale” del re Guglielmo, ma sia un’opera di fattura siciliana, come suggerisce del resto l’impiego dell’abete dei Nebrodi, obbediente ai canoni stilistici della temperie artistica di età normanna.<br><br>La Tavola, posta in origine nell’area absidale e spostata in epoca postridentina nella controfacciata, rimase all’interno del Duomo fino all’incendio da cui fu danneggiata nel 1811; la sala rossa del Palazzo Arcivescovile prima e il Museo Diocesano dopo l’hanno custodita fino ad oggi.<br><br>Il tema iconografico della Theotòkos che indica la via, largamente diffuso nell’Italia Meridionale e nel mondo ortodosso, unitamente a quello dell’Eleusa (la Vergine che intercede), di cui l’icona presenta i tratti, evoca, come ha sottolineato l’Arciprete don Nicola Gaglio, una forte relazione con l’icona del Cristo nella misura in cui l’arte visiva diventa veicolo privilegiato della parola e le immagini teologia in forma iconica.<br><br>Citando Gregorio Magno secondo cui “l’immagine ha una doppia valenza, retroattiva e prospettica”, l’Arcivescovo ha posto l’attenzione sul valore dell’icona come sigillo del vincolo che lega la Vergine al Cristo e alla Chiesa e come ipostasi che rende visibile l’invisibile.<br><br>Al termine della liturgia, il vicedirettore della Scuola teologica di base dell’Arcidiocesi, don Simone Billeci, ha dato lettura della prolusione dell’anno accademico che, come da programma, avrebbe dovuto essere tenuta da Mons, Chrysostomos Savatos, Metropolita della diocesi di Messinia in Grecia, non presente per ragioni di salute. La lectio magistralis, “La dimensione antropologica delle icone sacre”, ha sviluppato una riflessione teologica sulla funzione pedagogica delle icone cui, a partire dai dettami del VII Sinodo ecumenico, viene riconosciuto un enorme valore educativo in ragione della potenza espressiva delle immagini che, più della parola, possono interpretare le Sacre Scritture.]]></description>
+        <styleUrl>#icon-1553-01579B</styleUrl>
+        <Point>
+          <coordinates>
+            13.356003,38.11437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna Damascena</name>
+        <description><![CDATA[Greek Catholic Church Our Lady Of Damascus<br>XII secolo]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.514546,35.898832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna di Kazan</name>
+        <description><![CDATA[Pontificio Collegio Greco di Sant'Atanasio<br>L'originale era precedente all'epoca dell'invasione tartara (forse XI-XII secolo?)<br>La copia custodita nel Collegio Greco è del XX secolo, opera del monaco Gregorio Krug.<br><br>Il tipo iconografico è pienamente rispettato...]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            12.479841,41.907639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Panaghia dell'Axion Estin]]></name>
+        <description><![CDATA[Santuario "MADONNA DELLA MISERICORDIA"<br>Copia dell'icona del Monte Athos, eseguita in Grecia nel 1973, è una replica fedele.<br><br>Il quadro rappresenta la Brephocratousa.<br>Il tipo dell'icona è quello dell'Eleousa, ma nella sua variante più umanizzata della Glycophilousa.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            16.092618,39.722999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna Consolata - Torino</name>
+        <description><![CDATA[Santuario della Consolata<br>XV secolo<br><br>L'immagine appartiene al gruppo della Brephocratousa nella versione dell'Odigitria]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            7.679111,45.076767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna delle Grazie - Roma</name>
+        <description><![CDATA[Chiesa Santa Maria delle Grazie al Trionfale<br>XII secolo<br><br>La tipologia dell'icona è quella della Brephocratousa nella versione della Galactotrofousa, o Allattante.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            12.449189,41.907253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

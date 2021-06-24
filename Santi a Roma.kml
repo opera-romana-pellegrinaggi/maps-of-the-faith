@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Santi a Roma</name>
+    <description><![CDATA[https://www.operaromanapellegrinaggi.org<br>https://www.omniaforitaly.org<br>https://www.omniavaticanrome.org<br><br>Si prendono in considerazione soprattutto i luoghi dove sono venerati i resti mortali o le reliquie più significative dei santi, e non tutti i luoghi dove hanno soggiornato o vissuto.]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-795046-normal">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-795046-highlight">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-795046">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-795046-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-795046-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-7C3592-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-7C3592-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-7C3592">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7C3592-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7C3592-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>I-V secolo</name>
+      <Placemark>
+        <name><![CDATA[St Peter's Basilica]]></name>
+        <description><![CDATA[Saints to Visit <br>*St Peter <br>*St John Paul II <br>*St John XXIII <br>*Sts Simon and Jude <br>*St Gregory Nazianzen <br>*St Gregory the Great <br>*St John Chrysostom <br>*St Pius X <br>*St Leo the Great <br>*St Josaphat <br>*St John I (Crypt) <br>*St Luke (Treasury Museum) <br>*St Sebastian (Treasury Museum) ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4538821,41.902138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Sebastian & St Fabian]]></name>
+        <description><![CDATA[San Sebastiano Fuori Le Mura <br>136 Via Appia Antica <br><br>*The last chapel on the right side of the nave is dedicated to the pope, St Fabian (d. 250). Also a reliquary chapel near the center of the church on the right side of the nave contains relics of the saint. St Fabian was originally buried in the Catacombs of San Callisto but later his remains were moved to this church. Also within this same chapel are the column to which St Sebastian was tied, an arrow that pierced his flesh, and some small relics from a number of other saints including St Peter, St Paul, and St Andrew. *Directly across from this chapel and on the left side of the nave is a chapel dedicated to St Sebastian (d. 288). St Sebastian was originally buried in the catacombs located under this church. At some point, however, these remains were removed. Some of these remains are now located within an urn in this chapel below the very impressive statue of St Sebastian created by Giuseppe Giorgetti.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.513921,41.857759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Sebastian</name>
+        <description><![CDATA[Santi Quattro Coronati <br>20 Piazza dei Santi Quattro Coronati <br><br>*For centuries the skull of St Sebastian (d. 288) was venerated within the crypt of this church. Signage at an altar on the left side of the nave continues to indicate its presence. However, at some point in the last century the skull was removed. It can now be found within a reliquary in the Treasury Museum of St Peter’s Basilica.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.498879,41.888038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Agnes</name>
+        <description><![CDATA[Sant' Agnese Fuori le Mura <br>Via S Agnese 315 <br> <br>*The bones of St Agnes (d. 304) rest in the crypt under the main sanctuary.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.518706,41.922333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Agnes</name>
+        <description><![CDATA[Sant' Agnese in Agone <br>Piazza Navona <br> <br>*According to tradition St Agnes was martyred at this location in 304 AD. A relic of her skull is present in a chapel located to the left of the main sanctuary.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.472572,41.898739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Paul</name>
+        <description><![CDATA[St Paul Outside the Walls <br>186 Via Ostiense <br><br>*St Paul is buried in the confessio. Above his tomb are the chains that were used to imprison him prior to his martyrdom. These chains were placed in this prominent location in 2008.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.476671,41.858407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Peter and St Paul</name>
+        <description><![CDATA[Basilica of St John Lateran <br>Piazza San Giovanni in Laterano 4 <br><br>*Positioned above the Papal Altar are two busts of St Peter and St Paul. According to tradition the skulls or parts of the skulls of St Peter and St Paul are within these busts. Also located within the Papal Altar is a wooden table that St Peter and many of the earliest popes are said to have celebrated the Eucharist upon. *Located to the left of the Papal Altar is another very ancient table. This table rests above the altar where the Blessed Sacrament is reserved. It is placed directly behind a bronze relief of the Last Supper. Tradition claims that it was upon this table that Jesus and the apostles celebrated the Last Supper.*Also the tomb of Pope Leo XIII (d. 1903) is to the left of the Papal Altar.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.506046,41.886304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Clement & St Ignatius of Antioch]]></name>
+        <description><![CDATA[Basilica di San Clemente <br>Via di San Giovanni in Laterano <br><br>*The remains of St Clement I (d. 80) and of St Ignatius of Antioch (d. 107) rest beneath the main altar. <br>*A chapel on the right side of the nave is dedicated to Saints Cyril (d. 869) and Methodius (d. 885). The relic of St Cyril found in the 1960’s rests within the altar of this chapel.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4974033,41.8894212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St George</name>
+        <description><![CDATA[San Giorgio in Velabro <br>19 Via del Velabro <br><br>*Part of the skull of St George rests beneath the main altar. <br>*History is filled with legends surrounding this early Christian martyr. The most famous involves him slaying a dragon. Critical research in the last century has upheld the existence of St George; however, it has cast doubts upon many of his legendary accounts. (Note: Other shrines throughout the world also claim to have the relic of his skull.)]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.48314,41.889533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Jerome, St Matthias</name>
+        <description><![CDATA[Basilica of St Mary Major <br>42 Piazza di Santa Maria Maggiore <br><br>*Some relics of St Matthias rest within the porphyry urn that makes up the base of the Papal Altar. Also in the confessio below this altar are five pieces of wood believed to be from the crib of Jesus Christ. <br>*Enshrined within the large chapel in the right transept is the body of St Pius V (d. 1572). His remains rest within an urn on the left side of this chapel. <br>*The remains of St Jerome (d. 420) were brought to this basilica in the 12th century. There is some doubt as to their exact location. They either rest under the Papal Altar within the main body of the church or within the confessio in the right transept.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4987398,41.8975136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Saints Philip & James the Less]]></name>
+        <description><![CDATA[Santi Apostoli <br>Piazza dei Santi Apostoli 51 <br><br>*Relics of St Philip and St James the Less rest within the confessio of this church. During the 6th century they were transferred from Constantinople to Rome by Pope Pelagius I (d. 561). In 1873, as excavations commenced below the central altar, their relics were unearthed. They were then carefully examined and repositioned within the confessio where they rest today.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.483172,41.897861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Pancras</name>
+        <description><![CDATA[San Pancrazio <br>Piazza San Pancrazio 5/D <br><br>*The church was built on the site of St Pancras’ tomb. <br>*In 1798 a general under Napoleon Bonaparte invaded Rome and established the Roman Republic. During this time intruders entered the church of San Pancrazio and severely damaged the remains of St Pancras. His head, however, was left untouched since it was kept at the Basilica of St John Lateran from 850 to 1966. In 1966 Pope Paul VI restored the head of St Pancras to the church of San Pancrazio. It now rests within a reliquary bust on the right side of the nave<br>.*The porphyry urn that makes up the base of the main altar is said to contain relics from early martyrs including a few relics from St Pancras.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.454247,41.884627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saints Nereus and Achilleus</name>
+        <description><![CDATA[Chiesa Nuova <br>Via del Governo Vecchio 134 <br><br>*In 1597 the skulls of Saints Nereus and Achilleus were given to this church. They rest within reliquaries in the sacristy and are sometimes brought out for public veneration on May 12th. <br>.*The additional remains of Saints Nereus and Achilleus had been stolen in 1870 from the church of Santi Nereo e Achilleo. These remains were recovered and are now said to rest within a porphyry urn under the main altar of Chiesa Nuova. <br>*The body of St Philip Neri (d. 1595) is enshrined in the left transept of this church. His private rooms can be visited on certain days of the week. They are located in the right wall of the left transept.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4690773,41.8982924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Lawrence & St Stephen]]></name>
+        <description><![CDATA[San Lorenzo fuori le Mura <br>3 Piazzale del Verano <br><br>*The remains of St Lawrence, St Stephen, and St Justin lie in the confessio below the main altar. (Note: The relics are labeled as St Justin the Presbyter. Therefore, it is likely that this is not St Justin the Martyr.) <br>*A marble stone slab beneath the choir floor is said to be the stone on which St Lawrence was placed after his execution. Also enshrined in this lower area is the body of Blessed Pius IX (d. 1878).]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.5204534,41.9024987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St John the Baptist & St Sylvester I]]></name>
+        <description><![CDATA[San Silvestro in Capite<br>Piazza San Silvestro <br><br>*A relic of the skull of St John the Baptist is within the chapel to the left of the main entrance. The authenticity is uncertain since this same relic is said to be located at a number of other places throughout the world including the Cathedral of Amiens in France, the Residenz Museum in Munich, Germany, and the Umayyad Mosque in Damascus, Syria. <br>*The remains of St Sylvester I (d. 335) rest in the confessio below the main altar. A relic of his skull is also brought out on his feast day for veneration. Also a work from 1688 depicting the legend of St Sylvester I baptizing Constantine can be seen in the apse vault.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.48064,41.902868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Sixtus II</name>
+        <description><![CDATA[San Sisto Vecchio<br>8 Piazzale Numa Pompilio <br><br>*The relics of St Sixtus II (d. 258) were moved from the Catacombs of San Callisto to this church. A small stone located within the wall on the left side of the nave marks their location. <br>*Pope Honorius III gave this church to the Dominican order with the issue of a Papal Bull dated December 3, 1218. This was the first Dominican monastery in Rome. <br>*The Miracle of the Bread attributed to St Dominic occurred within the refectory of this monastery. This room can be visited.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4959087,41.8805138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bartholomew</name>
+        <description><![CDATA[San Bartolomeo all'Isola <br>Piazza San Bartolomeo <br> <br>*An arm of St Adalbert (d. 997) is currently enshrined in the chapel to the left of the main sanctuary. It rests within a little metal box placed under the altar of this chapel. <br>*Relics of the apostle, St Bartholomew, rest within the red porphyry basin that supports the main altar.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4780862,41.8903035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Monica</name>
+        <description><![CDATA[Sant Agostino <br>Piazza Sant Agostino <br><br>*Relics of St Monica (d. 387), the mother of Augustine, rest in the chapel to the left of the main altar.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4742304,41.9008258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Saints Cosmas & Damian]]></name>
+        <description><![CDATA[Santi Cosma e Damiano <br>Via dei Fori Imperiali 1 <br><br>*Relics of Saints Cosmas and Damian (d. 287) rest under the altar in the lower church. Each year for the feast of Saints Cosmas and Damian these relics are brought out for public veneration.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.487346,41.892095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Callistus I & St Cornelius]]></name>
+        <description><![CDATA[Santa Maria in Trastevere <br>Via della Paglia 14 <br><br>*Relics of the two popes St Callistus I (d. 222) and St Cornelius (d. 253) rest under the main altar of this church. These relics are joined by others in particular those of the priest and martyr St Calepodius (d. 232).]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.469633,41.889491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Cecilia</name>
+        <description><![CDATA[Santa Cecilia in Trastevere <br>22 Piazza di Santa Cecilia <br><br>*In 821 the body of St Cecilia was exhumed from the Catacombs of San Callisto by St Paschal I (d. 824) and brought to this church. Today her body rests within the crypt under the main altar. ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.476059,41.887439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Pope Damasus I</name>
+        <description><![CDATA[San Lorenzo in Damaso <br>1 Piazza della Cancelleria <br> <br>*This church is believed to have been founded in the very home of St Damasus I (d. 384) whose remains now rest under the main altar.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.471703,41.896863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Mary Magdalene</name>
+        <description><![CDATA[San Giovanni Battista dei Fiorentini <br>2 Via Acciaioli <br><br>*A relic of St Mary Magdalene’s foot rests in a shrine to the left of the main sanctuary. Also the left transept chapel is dedicated to St Mary Magdalene.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.464837,41.89949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas</name>
+        <description><![CDATA[Santa Croce in Gerusalemme<br>12 Piazza di Santa Croce in Gerusalemme <br><br>*A bone from the index finger of St Thomas the Apostle is located here. It is said that this is the same finger that he inserted into the side of the Risen Christ. <br>*Also found here are relics of the True Cross brought to Rome by St Helena in 325. These relics include: the Titulus Crucis (This is the sign that hung over the head of Christ and that declared him to be the King of the Jews), a Crucifixion nail, a relic of the True Cross, two thorns from the Crown of Thorns, the greater part of the sponge used to give Christ vinegar, and a piece of the cross from the good thief (St Dismas). <br>*This chapel can be accessed by the staircase on the left side of the sanctuary.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.515509,41.888301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Justin the Martyr</name>
+        <description><![CDATA[Chiesa dell’Immacolata Concezione della Beata Vergine Maria <br>27 Via Veneto <br><br>*Relics of St Justin the Martyr rest under the altar located behind the main altar. Kindly ask the sacristan for access. The remains of St Justin the Martyr were temporarily transferred in 1992 to the parish church of San Giustino a Centocelle in Rome. However, they have now been returned to this church. <br>*The bones of nearly 4,000 Capuchin friars are located in the crypt.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4884294,41.9049127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Gregory Nazianzen</name>
+        <description><![CDATA[Santa Maria in Campo Marzio <br>Piazza Campo Marzio 45 <br><br>*Basilian nuns brought the relics of St Gregory Nazianzen (d. 389) to Rome in the 8th century. They were kept in Rome at Campo Marzio and eventually placed within this church. <br>*With the exception of one arm the remains of St Gregory Nazianzen were transferred to St Peter’s Basilica in 1580. This arm remained at Santa Maria della Concezione as compensation and was eventually placed in the nearby church of San Gregorio. This relic, however, is not accessible to the general public since San Gregorio is the church used by the Deputies of the Italian Parliament.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4764306,41.9013905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Polycarp</name>
+        <description><![CDATA[Sant’Ambrogio della Massima <br>Via San Ambrogio 3 <br><br>*This church is located west of Piazza Venezia near the Fontana delle Tartarughe. It is set behind some buildings and is not easy to notice from the street. <br>*The relics of St Polycarp (d. 155) are set in a marble memorial stone under the high altar. <br>*Tradition also holds that this church rests on land that was formerly the location of a house owned by St Ambrose’s father and occupied by his older sister.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4780994,41.8932223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Cornelius</name>
+        <description><![CDATA[Santi Celso e Giuliano <br>12 Vicolo del Curato <br><br>*Some relics of St Cornelius (d. 253) were transferred to this church in the 18th century. These relics are located in an urn to the right of the entrance.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4666542,41.9007636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Saints Marcellinus & Peter]]></name>
+        <description><![CDATA[Santi Marcellino e Pietro <br>Via Merulana 162 <br><br>*Relics of Saints Marcellinus and Peter (d. 304) are preserved within the main altar of this church. Typically on their feast day these relics are brought out and exposed for public veneration. *Above the main altar is a large painting depicting their martyrdom.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.5031321,41.8891307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Jude</name>
+        <description><![CDATA[San Salvatore in Lauro <br>Piazza San Salvatore in Lauro 15 <br><br>*A small bone fragment from an arm of St Jude rests within this church.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.469515,41.900704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Blaise</name>
+        <description><![CDATA[San Carlo ai Catinari <br>Piazza Benedetto Cairoli 117 <br><br>*On February 3rd several relics of St Blaise are presented for veneration within this church. Of special note is a reliquary which contains a bone from the throat of St Blaise. This relic is used to bless the throats of the faithful.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.475158,41.894211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Tarcisius</name>
+        <description><![CDATA[Basilica San Silvestro in Capite<br><br>He was originally buried in the Catacombs of San Callisto and the inscription by Damasus was placed later on his tomb. Some time later his relics were moved to Basilica of San Silvestro in Capite.<br><br>Tarcisius was a martyr of the early Christian church who lived in the 3rd century. The little that is known about him comes from a metrical inscription by Pope Damasus I (366–384). In the poem composed in his honour, Pope Damasus compares him to the deacon Saint Stephen and says that, as Stephen was stoned by a crowd, so Tarcisius, carrying the Blessed Sacrament, was attacked by a group and beaten to death.<br><br>According to one version of the detailed legend that developed later, Tarsicius was a young boy during one of the fierce 3rd-century Roman persecutions, probably during the reign of Emperor Valerian (253–259). One day, he was entrusted with the task of bringing the Eucharist to condemned Christians in prison. He preferred death at the hands of a mob rather than deliver to them the Blessed Sacrament which he was carrying.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4807446,41.9028671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catacombe di San Callisto</name>
+        <description><![CDATA[* The body of Saint Ciprian (d. 253 at Civitavecchia) was buried here in the year 283.<br>* Saint Cecilia was buried here<br><br>Le catacombe di San Callisto hanno ospitato le sepolture di 16 papi, anche se non è certo il luogo di inumazione di San Zefirino:<br><br>San Zefirino (?)<br>Sant'Urbano I<br>San Ponziano<br>Sant'Antero<br>San Fabiano<br>San Cornelio<br>San Lucio I<br>Santo Stefano I<br>San Sisto II<br>San Dionisio<br>San Felice I<br>San'Eutichiano<br>San Caio<br>Sant'Eusebio<br>San Milziade<br>San Damaso I<br><br>Non ci sono più resti umani nelle catacombe (perlomeno nella zona già scavata) in quanto la sovrintendenza ha deciso di traslare tutti i resti nella basilica di Santa Prassede (per evitare che i turisti potessero profanare le sepolture asportando frammenti e reliquie).]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.5087505,41.8608245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Valentine</name>
+        <description><![CDATA[Basilica Santa Maria in Cosmedin<br><br>In a side altar on the left of the church is kept the flower-crowned skull attributed to St Valentine.<br><br>Saint Valentine was a clergyman – either a priest or a bishop – in the Roman Empire who ministered to persecuted Christians. He was martyred in the year 269 AD, and his body buried at a Christian cemetery on the Via Flaminia on February 14, which has been observed as the Feast of Saint Valentine (Saint Valentine's Day) since 496 AD.<br><br>Relics of him were kept in the Church and Catacombs of San Valentino in Rome, which "remained an important pilgrim site throughout the Middle Ages until the relics of St. Valentine were transferred to the church of Santa Prassede during the pontificate of Nicholas IV". His skull, crowned with flowers, is exhibited in the Basilica of Santa Maria in Cosmedin, Rome; other relics of him were taken to Whitefriar Street Carmelite Church in Dublin, Ireland, where they remain; this house of worship continues to be a popular place of pilgrimage, especially on Saint Valentine's Day, for those seeking love. At least two different Saint Valentines are mentioned in the early martyrologies: Saint Valentine of Rome and Saint Valentine of Terni.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4816333,41.8880752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basilica of Saint Praxedes</name>
+        <description><![CDATA[Le origini delle due basiliche intitolate a Santa Prassede e a Santa Pudenziana sono strettamente correlate: le due sante romane erano sorelle, figlie del Senatore Pudente e vedremo che il vincolo parentale risulterà rilevante soprattutto nella ricostruzione della genesi delle due chiese. La Basilica di Santa Pudenziana, una delle più antiche di Roma, sorge nella zona dell’Antico Vicus Patricius nel Rione Monti, presso l’attuale via Urbana, quasi all’inizio della valle fra i colli Viminale ed Esquilino; si trova, quindi, alle spalle della grandiosa Basilica di Santa Maria Maggiore. E’ possibile che il Titulus Pudentis, istituito da Papa Damaso alla fine del IV secolo, di cui esistono indubbi documenti storici, le derivi dall’alterazione del nome della originaria domus ecclesiae posta in quel luogo.<br><br>Santa Pudenziana quindi, tra le prime “chiese domestiche” istituite nelle case di famiglie cristiane delle origini, sarebbe stata eretta da Papa Pio I nel 145 d.C., per volontà delle due sorelle nella casa lasciata loro in eredità dal padre Pudente, membro della potente famiglia degli Acilii Glabriones, in ricordo dell’ospitalità che il Senatore dette, per diversi anni, a San Pietro intorno al 70 d.c, e a San Paolo, che cita Pudente al termine della sua II Lettera a Timoteo. Ciò che è certo è che gli scavi archeologici, e anche recentissimi e approfonditi studi, hanno confermato la presenza di due domus romane sotto le fondamenta della Basilica, una di età repubblicana (II sec. a. C.) ed una di età imperiale (I-II sec. d. C.), che coinciderebbe così con la tradizione del Titulus Pudentis. La giovane Santa Prassede nel vicus lateranus, non molto distante quindi dalla domus della sorella, sempre utilizzando un lascito paterno, fece innalzare una costruzione destinata alle celebrazioni eucaristiche, titulus Praxedis, mentre il titulus Pudentis sembrerebbe fosse destinato esclusivamente ai riti battesimali.<br><br>Santa Prassede utilizzò questa chiesa per nascondere i cristiani perseguitati dall’allora Imperatore Antonino Pio, provvedendo alla sepoltura dei martiri presso il Cimitero di Priscilla, le catacombe di Santa Priscilla sulla via Salaria. In questo Cimitero la stessa Santa Prassede fu sepolta con la sorella per poi essere riportata nella sua chiesa riedificata da Pasquale I, eletto Papa nell’817. L’esistenza del Titulus Praxedis è testimoniato in un epitaffio datato 491 che conferma l’importanza, sia nel periodo repubblicano che imperiale, di tutta l’area dell’attuale zona di S.Martino ai Monti, importanza aumentata dalla costruzione, come dicevamo, della Basilica di Santa Maria Maggiore voluta da Sisto III (432-440).]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4987254,41.8964622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sette fratelli maccabei</name>
+        <description><![CDATA[Basilica di San Pietro in Vincoli<br><br>La cripta, piccolo spazio sotto l'altare centrale, sembra secondo la tradizione, sia stato il primo carcere di san Pietro a Roma, prima di essere trasferito nel Carcere Mamertino. All'interno della Cripta è custodito il sarcofago dei Sette Fratelli Maccabei, ebrei martirizzati nel secondo secolo a.c., venerati anche dai cristiani e da altre religioni orientali. Il sarcofago, probabilmente portato da Antiochia a Roma da Papa Pelagio II. Fu ritrovato nel 1876 durante i lavori di rifacimento del presbiterio, è diviso in sette scomparti contenenti dei resti umani e con dei sigilli che indicano con sicurezza la sua autenticità. Sul sarcofago sono scolpite cinque scene: La resurrezione di Lazzaro, La moltiplicazione dei pani e dei pesci, La Samaritana, L'annuncio di Gesù a Pietro della rinnegazione, La consegna della legge. Sopra al sarcofago, un affresco di Silverio Capparoni del 1876-77 che rappresenta il Martirio dei fratelli Maccabei con loro madre che implora per la salvezza dell'ultimo figlio. La cripta completamente affrescata con motivi floreali è dello stesso periodo.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.4930662,41.8938554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>VI-X secolo</name>
+      <Placemark>
+        <name><![CDATA[St Peter's Basilica]]></name>
+        <description><![CDATA[Saints to Visit <br>*St Peter <br>*St John Paul II <br>*St John XXIII <br>*Sts Simon and Jude <br>*St Gregory Nazianzen <br>*St Gregory the Great <br>*St John Chrysostom <br>*St Pius X <br>*St Leo the Great <br>*St Josaphat <br>*St John I (Crypt) <br>*St Luke (Treasury Museum) <br>*St Sebastian (Treasury Museum)]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            12.4539712,41.9021371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Cyril</name>
+        <description><![CDATA[Basilica di San Clemente <br>Via di San Giovanni in Laterano <br><br>*The remains of St Clement I (d. 80) and of St Ignatius of Antioch (d. 107) rest beneath the main altar. <br>*A chapel on the right side of the nave is dedicated to Saints Cyril (d. 869) and Methodius (d. 885). The relic of St Cyril found in the 1960’s rests within the altar of this chapel.]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            12.4975401,41.8894142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Martin I</name>
+        <description><![CDATA[San Martino ai Monti <br>28 Viale Monte Oppio <br><br>*The greater part of the remains of St Martin I (d. 655) were transferred from Crimea to this church in Rome. They now rest in the confessio below the main altar. This confessio also houses the relics of many other saints taken from the Catacombs of Priscilla.]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            12.4982681,41.8946005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Adalbert</name>
+        <description><![CDATA[San Bartolomeo all'Isola <br>Piazza San Bartolomeo <br> <br>*An arm of St Adalbert (d. 997) is currently enshrined in the chapel to the left of the main sanctuary. It rests within a little metal box placed under the altar of this chapel. <br>*Relics of the apostle, St Bartholomew, rest within the red porphyry basin that supports the main altar.]]></description>
+        <styleUrl>#icon-503-7C3592</styleUrl>
+        <Point>
+          <coordinates>
+            12.478162,41.890306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>XI-XV secolo</name>
+      <Placemark>
+        <name><![CDATA[St Peter's Basilica]]></name>
+        <description><![CDATA[Saints to Visit <br>*St Peter <br>*St John Paul II <br>*St John XXIII <br>*Sts Simon and Jude <br>*St Gregory Nazianzen <br>*St Gregory the Great <br>*St John Chrysostom <br>*St Pius X <br>*St Leo the Great <br>*St Josaphat <br>*St John I (Crypt) <br>*St Luke (Treasury Museum) <br>*St Sebastian (Treasury Museum)]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.4540537,41.90214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Frances of Rome</name>
+        <description><![CDATA[Santa Francesca Romana <br>Piazza di Santa Francesca Romana 4 <br><br>*The remains of St Frances of Rome (d. 1440) are in the crypt below the main sanctuary. Her skeleton is vested in the habit of the Oblate Sisters.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.488666,41.891169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Catherine of Siena</name>
+        <description><![CDATA[Santa Maria Sopra Minerva <br>35 Via del Beato Angelico <br> <br>*The body of St. Catherine of Siena (d. 1380) rests under the main altar.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.477819,41.897893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bridget</name>
+        <description><![CDATA[Santa Brigida a Campo de'Fiori <br>96 Piazza Farnese <br><br>*Following the death of her husband, St Bridget of Sweden (d. 1373) devoted herself completely to a life of prayer and service. After founding the Bridgettine Sisters in Sweden she felt compelled to visit Rome in order to seek official approval for her community. Her visit resulted in her permanently remaining in the city for the next twenty-four years until her passing in 1373. Today a few of her relics rest within this Bridgettine convent which still to this day is occupied by members of her community. Her body was returned to Sweden shortly after her death.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.4707002,41.8953117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Catherine of Siena</name>
+        <description><![CDATA[Monastero della Madonna del Rosario a Monte Mario <br>Via Alberto Cadlolo, 51 <br><br>*The left hand of St Catherine of Siena (d. 1380) rests within this monastery.]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <Point>
+          <coordinates>
+            12.4471474,41.9209134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>XVI-XXI secolo</name>
+      <Placemark>
+        <name><![CDATA[St Peter's Basilica]]></name>
+        <description><![CDATA[Saints to Visit <br>*St Peter <br>*St John Paul II <br>*St John XXIII <br>*Sts Simon and Jude <br>*St Gregory Nazianzen <br>*St Gregory the Great <br>*St John Chrysostom <br>*St Pius X <br>*St Leo the Great <br>*St Josaphat <br>*St John I (Crypt) <br>*St Luke (Treasury Museum) <br>*St Sebastian (Treasury Museum)]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4541382,41.9021405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St John Baptist de La Salle</name>
+        <description><![CDATA[Casa Generalizia dei Fratelli delle Scuole Cristiane <br>Via Aurelia, 476 <br><br>*The remains of St John Baptist de la Salle (d. 1719) were transferred here in 1937. They now rest in the sanctuary of the church. <br>*During the early 18th century he founded a community of consecrated laymen commonly referred to as the Christian Brothers. This community pioneered many educational reforms within France.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4231125,41.8986313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Pius V</name>
+        <description><![CDATA[Basilica of St Mary Major <br>42 Piazza di Santa Maria Maggiore <br><br>*Some relics of St Matthias rest within the porphyry urn that makes up the base of the Papal Altar. Also in the confessio below this altar are five pieces of wood believed to be from the crib of Jesus Christ. <br>*Enshrined within the large chapel in the right transept is the body of St Pius V (d. 1572). His remains rest within an urn on the left side of this chapel. <br>*The remains of St Jerome (d. 420) were brought to this basilica in the 12th century. There is some doubt as to their exact location. They either rest under the Papal Altar within the main body of the church or within the confessio in the right transept.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4986325,41.8974257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Philip Neri</name>
+        <description><![CDATA[Chiesa Nuova <br>Via del Governo Vecchio 134 <br><br>*In 1597 the skulls of Saints Nereus and Achilleus were given to this church. They rest within reliquaries in the sacristy and are sometimes brought out for public veneration on May 12th. <br>.*The additional remains of Saints Nereus and Achilleus had been stolen in 1870 from the church of Santi Nereo e Achilleo. These remains were recovered and are now said to rest within a porphyry urn under the main altar of Chiesa Nuova. <br>*The body of St Philip Neri (d. 1595) is enshrined in the left transept of this church. His private rooms can be visited on certain days of the week. They are located in the right wall of the left transept.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4692221,41.8982844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blessed Piux IX</name>
+        <description><![CDATA[San Lorenzo fuori le Mura <br>3 Piazzale del Verano <br><br>*The remains of St Lawrence, St Stephen, and St Justin lie in the confessio below the main altar. (Note: The relics are labeled as St Justin the Presbyter. Therefore, it is likely that this is not St Justin the Martyr.) <br>*A marble stone slab beneath the choir floor is said to be the stone on which St Lawrence was placed after his execution. Also enshrined in this lower area is the body of Blessed Pius IX (d. 1878).]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.5203408,41.9024967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Robert Bellarmine, St Aloysius Gonzaga, St John Berchmans</name>
+        <description><![CDATA[Sant' Ignazio <br>8/a Via del Caravita <br><br>*The remains of St Aloysius Gonzaga (d. 1591) rest under the altar in the right transept. His rooms are next to the church and can be visited by appointment. <br> *The body of St Robert Bellarmine (d. 1621), a highly regarded Jesuit cardinal and theologian, rests under the altar in the third chapel on the right side of the nave. <br>*The remains of St John Berchmans (d. 1621), the patron saint of altar servers, rest under the altar in the left transept.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.479782,41.898963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Camillus de Lellis</name>
+        <description><![CDATA[La Maddalena <br>Piazza della Maddalena, 53 <br><br>*In the third chapel on the right side of the nave are the remains of St Camillus de Lellis. He lived in the adjacent monastery and died here in 1614. His rooms can be visited by asking the sacristan. One of these rooms has been transformed into a chapel and contains the relic of his heart.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4768659,41.9001287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Ignatius of Loyola & St Frances Xavier]]></name>
+        <description><![CDATA[Gesu <br>16 Via degli Astalli <br><br>*An arm of St Francis Xavier (d. 1552) rests within a reliquary above the altar in the right transept. With this arm he baptized thousands of individuals in India and the Far East. <br> *St Ignatius of Loyola (d. 1556), the founder of the Jesuits, is buried under the altar in the left transept. His rooms are located in the Generalate next to the church and may be visited.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.479514,41.895793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Joseph Calasanz</name>
+        <description><![CDATA[San Pantaleo <br>Piazza San Pantaleo / Piazza dei Massimi 4 <br><br>*The relics of St Joseph Calasanz (d. 1648) rest under the main altar of this church. His rooms can be visited in the adjacent convent. <br>*St Joseph Calasanz is uniquely known for setting up the first free public school in modern Europe. During his lifetime it was highly controversial to educate the poor. Some thought that it would only leave the poor more dissatisfied with their lowly tasks in society. Education was not seen as an opportunity for advancement. St Joseph Calasanz nevertheless persevered and was eventually appreciated and honored for his work.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.473109,41.897164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St John Leonardi </name>
+        <description><![CDATA[Santa Maria in Campitelli <br>9 Piazza di Campitelli <br><br>*The body of St John Leonardi (d. 1609) is enshrined in the second chapel on the left side of the nave.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4792935,41.8930874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Teresa of Avila</name>
+        <description><![CDATA[Santa Maria della Scala <br>23 Piazza della Scala <br><br>*The right foot of St Teresa of Avila (d. 1582) rests within this church in a beautiful chapel to the left of the main sanctuary. It was gifted to this church in 1617. (This chapel is not visible from the nave of the church and it is rarely open to the public. However, if one kindly asks the sacristan access may be granted. If the sacristan is not present he or she can be called at the neighboring convent door.)]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4679009,41.8912011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Paul of the Cross</name>
+        <description><![CDATA[Santi Giovanni e Paolo <br>Piazza dei Santi Giovanni e Paolo 13 <br><br>*St Paul of the Cross (d. 1775) is buried under the altar in the large side chapel on the right side of the nave. Upon request one can visit the room in which he died in the monastery adjacent to the church. <br>*Located beneath this church is a complex of well preserved ancient Roman houses. Among these is an ancient house church. These ruins can be visited.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4922195,41.8865347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Charles Borromeo</name>
+        <description><![CDATA[San Carlo ai Corso <br>437 Via del Corso <br><br>*St Charles Borromeo, the great 16th century Archbishop of Milan, is honored in a special way within this church. A relic of his heart rests in a reliquary within an altar located behind the main sanctuary.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4782121,41.9054313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Frances Xavier Cabrini </name>
+        <description><![CDATA[Chiesa del Santissimo Redentore e Santa Francesca Cabrini <br>Via Sicilia 215 <br><br>*The skull of St Frances Xavier Cabrini (d. 1917) rests within this church. It is placed within a statue of her likeness that reposes within an urn on the right side of the nave.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4963099,41.9098583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Peter Julian Eymard</name>
+        <description><![CDATA[Chiesa San Claudio <br>Via del Pozzetto 160 <br><br>*A relic of St Peter Julian Eymard (d. 1868) is placed within a statue of his likeness that rests within an urn on the right side of the nave. <br>*This church is managed by priests from the Congregation of the Blessed Sacrament which St Peter Julian Eymard founded in 1856.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.481552,41.902221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Josemaria Escriva</name>
+        <description><![CDATA[Santa Maria della Pace <br>Viale Bruno Buozzi, 75 <br><br>*The remains of St Josemaria Escriva (d. 1975) rest within this church. The church is not visible from the street. To enter ring at  Viale Bruno Buozzi, 75. A secretary will then direct you to the chapel.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.483779,41.92194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Benedetto Giuseppe Labre</name>
+        <description><![CDATA[Chiesa di Santa Maria ai Monti<br><br>San Benedetto Giuseppe Labre, detto il "vagabondo di Dio" (Amettes, 26 marzo 1748 – Roma, 16 aprile 1783), nacque in una famiglia numerosa, nella quale i genitori riuscivano a tirare avanti a fatica coltivando un pezzetto di terra e gestendo una piccola merceria. Uno zio parroco si incaricò di dargli i primi insegnamenti scolastici.<br><br>Fece domanda per entrare in un monastero trappista ma non fu accolto, provò con altri monasteri ma fu sempre respinto, fece un mese di prova in un monastero certosino ma fu giudicato non idoneo. Riuscì a entrare come novizio nell'abbazia trappista di Sept-Fons, ma dopo otto mesi dovette lasciare il monastero.<br><br>Nel 1770, mentre si trovava a Chieri, capì che la sua reale vocazione era di essere come vagabondo di Dio, predicando il Vangelo con l'esempio di un'umiltà e povertà estreme. Cominciò così a viaggiare per visitare i più famosi santuari europei, e fece pellegrinaggi in Germania, Francia, Spagna e Italia: si calcola che in poco meno di 14 anni abbia percorso circa 30.000 chilometri.<br><br>In Italia, il santuario a cui era più legato era quello di Loreto, ma visitò spesso anche Assisi e Bari, per vedere le spoglie di San Nicola. Nel 1771 si recò a Leuca, per pregare presso il famoso santuario di Santa Maria de Finibus Terrae.<br><br>Dormiva per strada, vivendo di offerte anche se non chiedeva l'elemosina, e donava ad altri tutto quello che considerava superfluo. Si vestiva in maniera semplice, sulle spalle portava un sacco in cui aveva qualcosa da mangiare e le uniche cose che possedeva erano: un Vangelo, un breviario, il libro Imitazione di Cristo, alcuni libri di devozione spirituale e il rosario che portava al collo.<br><br>Il 3 dicembre 1770 arrivò per la prima volta a Roma, dove si fermò stabilmente dal 1777, stabilendosi sotto un'arcata del Colosseo. In breve tempo la sua fama spirituale si diffuse nella città e i suoi consigli spirituali furono richiesti da nobili e cardinali. Un abate, che gestiva un ospizio per vagabondi vicino alla chiesa di San Martino ai Monti, lo convinse tempo dopo a stabilirsi lì.<br><br>I romani lo conoscevano come "il pellegrino della Madonna", o "il povero delle Quarantore", o "il penitente del Colosseo". Lo si poteva incontrare nelle chiese dove si svolgevano le quarantore. Secondo i trinitari apparteneva anche al terzo Ordine della Santissima Trinità.<br><br>Viste le condizioni di stenti in cui era vissuto, la sua salute peggiorò e il giorno di mercoledì santo del 1783 si sentì male nella chiesa di Santa Maria ai Monti. Fu trasportato nel retrobottega di un macellaio di via dei Serpenti, Francesco Zaccarelli, il quale provvide a chiamare prima un medico, poi un prete. Verso le otto di quella sera il Labre morì, a soli 35 anni.<br><br>I suoi funerali videro la presenza di un'enorme folla di ogni ceto. Tanta fu la gente che si recò a visitare le sue spoglie nella chiesa di Santa Maria ai Monti, dove fu esposto il suo corpo, che non fu possibile la celebrazione degli uffici della Settimana Santa. Subito dopo i romani cominciarono a invocarne l'intercessione, recandosi in pellegrinaggio presso la sua tomba.<br><br>La sua fama di santità si diffuse rapidamente in tutta Europa, tanto che il processo di beatificazione incominciò un anno dopo la sua morte. L'8 luglio 1796 fu effettuata la ricognizione giuridica del corpo, per invocare la protezione del futuro santo in vista dell'imminente e temuto arrivo delle truppe francesi. Il giorno dopo, 9 luglio, incominciarono i noti miracoli mariani del 1796. È stata sottolineata la contiguità delle due date. Fu beatificato il 20 maggio 1860 e canonizzato l'8 dicembre 1881 da papa Leone XIII. La sua memoria liturgica è il 16 aprile.]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <Point>
+          <coordinates>
+            12.4905539,41.8946901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Tutti i santi a Roma</name>
+      <Placemark>
+        <name><![CDATA[St Peter's Basilica]]></name>
+        <description><![CDATA[Saints to Visit <br>*St Peter <br>*St John Paul II <br>*St John XXIII <br>*Sts Simon and Jude <br>*St Gregory Nazianzen <br>*St Gregory the Great <br>*St John Chrysostom <br>*St Pius X <br>*St Leo the Great <br>*St Josaphat <br>*St John I (Crypt) <br>*St Luke (Treasury Museum) <br>*St Sebastian (Treasury Museum)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.453872,41.902165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Sebastian & St Fabian]]></name>
+        <description><![CDATA[San Sebastiano Fuori Le Mura <br>136 Via Appia Antica <br><br>*The last chapel on the right side of the nave is dedicated to the pope, St Fabian (d. 250). Also a reliquary chapel near the center of the church on the right side of the nave contains relics of the saint. St Fabian was originally buried in the Catacombs of San Callisto but later his remains were moved to this church. Also within this same chapel are the column to which St Sebastian was tied, an arrow that pierced his flesh, and some small relics from a number of other saints including St Peter, St Paul, and St Andrew. *Directly across from this chapel and on the left side of the nave is a chapel dedicated to St Sebastian (d. 288). St Sebastian was originally buried in the catacombs located under this church. At some point, however, these remains were removed. Some of these remains are now located within an urn in this chapel below the very impressive statue of St Sebastian created by Giuseppe Giorgetti.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.513921,41.857759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Sebastian</name>
+        <description><![CDATA[Santi Quattro Coronati <br>20 Piazza dei Santi Quattro Coronati <br><br>*For centuries the skull of St Sebastian (d. 288) was venerated within the crypt of this church. Signage at an altar on the left side of the nave continues to indicate its presence. However, at some point in the last century the skull was removed. It can now be found within a reliquary in the Treasury Museum of St Peter’s Basilica.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.498879,41.888038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Agnes</name>
+        <description><![CDATA[Sant' Agnese Fuori le Mura <br>Via S Agnese 315 <br> <br>*The bones of St Agnes (d. 304) rest in the crypt under the main sanctuary.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.518706,41.922333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Agnes</name>
+        <description><![CDATA[Sant' Agnese in Agone <br>Piazza Navona <br> <br>*According to tradition St Agnes was martyred at this location in 304 AD. A relic of her skull is present in a chapel located to the left of the main sanctuary.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.472572,41.898739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Paul</name>
+        <description><![CDATA[St Paul Outside the Walls <br>186 Via Ostiense <br><br>*St Paul is buried in the confessio. Above his tomb are the chains that were used to imprison him prior to his martyrdom. These chains were placed in this prominent location in 2008.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.476671,41.858407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Peter and St Paul</name>
+        <description><![CDATA[Basilica of St John Lateran <br>Piazza San Giovanni in Laterano 4 <br><br>*Positioned above the Papal Altar are two busts of St Peter and St Paul. According to tradition the skulls or parts of the skulls of St Peter and St Paul are within these busts. Also located within the Papal Altar is a wooden table that St Peter and many of the earliest popes are said to have celebrated the Eucharist upon. *Located to the left of the Papal Altar is another very ancient table. This table rests above the altar where the Blessed Sacrament is reserved. It is placed directly behind a bronze relief of the Last Supper. Tradition claims that it was upon this table that Jesus and the apostles celebrated the Last Supper.*Also the tomb of Pope Leo XIII (d. 1903) is to the left of the Papal Altar.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.506046,41.886304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Clement, St Cyril, & St Ignatius of Antioch]]></name>
+        <description><![CDATA[Basilica di San Clemente <br>Via di San Giovanni in Laterano <br><br>*The remains of St Clement I (d. 80) and of St Ignatius of Antioch (d. 107) rest beneath the main altar. <br>*A chapel on the right side of the nave is dedicated to Saints Cyril (d. 869) and Methodius (d. 885). The relic of St Cyril found in the 1960’s rests within the altar of this chapel.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.497528,41.889531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Frances of Rome</name>
+        <description><![CDATA[Santa Francesca Romana <br>Piazza di Santa Francesca Romana 4 <br><br>*The remains of St Frances of Rome (d. 1440) are in the crypt below the main sanctuary. Her skeleton is vested in the habit of the Oblate Sisters.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.488666,41.891169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St John Baptist de La Salle</name>
+        <description><![CDATA[Casa Generalizia dei Fratelli delle Scuole Cristiane <br>Via Aurelia, 476 <br><br>*The remains of St John Baptist de la Salle (d. 1719) were transferred here in 1937. They now rest in the sanctuary of the church. <br>*During the early 18th century he founded a community of consecrated laymen commonly referred to as the Christian Brothers. This community pioneered many educational reforms within France.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.42337,41.898252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Martin I</name>
+        <description><![CDATA[San Martino ai Monti <br>28 Viale Monte Oppio <br><br>*The greater part of the remains of St Martin I (d. 655) were transferred from Crimea to this church in Rome. They now rest in the confessio below the main altar. This confessio also houses the relics of many other saints taken from the Catacombs of Priscilla.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.498429,41.894331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St George</name>
+        <description><![CDATA[San Giorgio in Velabro <br>19 Via del Velabro <br><br>*Part of the skull of St George rests beneath the main altar. <br>*History is filled with legends surrounding this early Christian martyr. The most famous involves him slaying a dragon. Critical research in the last century has upheld the existence of St George; however, it has cast doubts upon many of his legendary accounts. (Note: Other shrines throughout the world also claim to have the relic of his skull.)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.48314,41.889533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Catherine of Siena</name>
+        <description><![CDATA[Santa Maria Sopra Minerva <br>35 Via del Beato Angelico <br> <br>*The body of St. Catherine of Siena (d. 1380) rests under the main altar.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.477819,41.897893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Jerome, St Matthias, & St Pius V]]></name>
+        <description><![CDATA[Basilica of St Mary Major <br>42 Piazza di Santa Maria Maggiore <br><br>*Some relics of St Matthias rest within the porphyry urn that makes up the base of the Papal Altar. Also in the confessio below this altar are five pieces of wood believed to be from the crib of Jesus Christ. <br>*Enshrined within the large chapel in the right transept is the body of St Pius V (d. 1572). His remains rest within an urn on the left side of this chapel. <br>*The remains of St Jerome (d. 420) were brought to this basilica in the 12th century. There is some doubt as to their exact location. They either rest under the Papal Altar within the main body of the church or within the confessio in the right transept.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.499008,41.89727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Saints Philip & James the Less]]></name>
+        <description><![CDATA[Santi Apostoli <br>Piazza dei Santi Apostoli 51 <br><br>*Relics of St Philip and St James the Less rest within the confessio of this church. During the 6th century they were transferred from Constantinople to Rome by Pope Pelagius I (d. 561). In 1873, as excavations commenced below the central altar, their relics were unearthed. They were then carefully examined and repositioned within the confessio where they rest today.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.483172,41.897861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Pancras</name>
+        <description><![CDATA[San Pancrazio <br>Piazza San Pancrazio 5/D <br><br>*The church was built on the site of St Pancras’ tomb. <br>*In 1798 a general under Napoleon Bonaparte invaded Rome and established the Roman Republic. During this time intruders entered the church of San Pancrazio and severely damaged the remains of St Pancras. His head, however, was left untouched since it was kept at the Basilica of St John Lateran from 850 to 1966. In 1966 Pope Paul VI restored the head of St Pancras to the church of San Pancrazio. It now rests within a reliquary bust on the right side of the nave<br>.*The porphyry urn that makes up the base of the main altar is said to contain relics from early martyrs including a few relics from St Pancras.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.454247,41.884627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Saint Philip Neri & Saints Nereus and Achilleus]]></name>
+        <description><![CDATA[Chiesa Nuova <br>Via del Governo Vecchio 134 <br><br>*In 1597 the skulls of Saints Nereus and Achilleus were given to this church. They rest within reliquaries in the sacristy and are sometimes brought out for public veneration on May 12th. <br>.*The additional remains of Saints Nereus and Achilleus had been stolen in 1870 from the church of Santi Nereo e Achilleo. These remains were recovered and are now said to rest within a porphyry urn under the main altar of Chiesa Nuova. <br>*The body of St Philip Neri (d. 1595) is enshrined in the left transept of this church. His private rooms can be visited on certain days of the week. They are located in the right wall of the left transept.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.469139,41.897957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Lawrence & St Stephen]]></name>
+        <description><![CDATA[San Lorenzo fuori le Mura <br>3 Piazzale del Verano <br><br>*The remains of St Lawrence, St Stephen, and St Justin lie in the confessio below the main altar. (Note: The relics are labeled as St Justin the Presbyter. Therefore, it is likely that this is not St Justin the Martyr.) <br>*A marble stone slab beneath the choir floor is said to be the stone on which St Lawrence was placed after his execution. Also enshrined in this lower area is the body of Blessed Pius IX (d. 1878).]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.520208,41.902357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Robert Bellarmine & St Aloysius Gonzaga]]></name>
+        <description><![CDATA[Sant' Ignazio <br>8/a Via del Caravita <br><br>*The remains of St Aloysius Gonzaga (d. 1591) rest under the altar in the right transept. His rooms are next to the church and can be visited by appointment. <br> *The body of St Robert Bellarmine (d. 1621), a highly regarded Jesuit cardinal and theologian, rests under the altar in the third chapel on the right side of the nave. <br>*The remains of St John Berchmans (d. 1621), the patron saint of altar servers, rest under the altar in the left transept.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.479782,41.898963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St John the Baptist & St Sylvester I]]></name>
+        <description><![CDATA[San Silvestro in Capite<br>Piazza San Silvestro <br><br>*A relic of the skull of St John the Baptist is within the chapel to the left of the main entrance. The authenticity is uncertain since this same relic is said to be located at a number of other places throughout the world including the Cathedral of Amiens in France, the Residenz Museum in Munich, Germany, and the Umayyad Mosque in Damascus, Syria. <br>*The remains of St Sylvester I (d. 335) rest in the confessio below the main altar. A relic of his skull is also brought out on his feast day for veneration. Also a work from 1688 depicting the legend of St Sylvester I baptizing Constantine can be seen in the apse vault.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.48064,41.902868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Camillus de Lellis</name>
+        <description><![CDATA[La Maddalena <br>Piazza della Maddalena, 53 <br><br>*In the third chapel on the right side of the nave are the remains of St Camillus de Lellis. He lived in the adjacent monastery and died here in 1614. His rooms can be visited by asking the sacristan. One of these rooms has been transformed into a chapel and contains the relic of his heart.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.476652,41.900234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Bridget</name>
+        <description><![CDATA[Santa Brigida a Campo de'Fiori <br>96 Piazza Farnese <br><br>*Following the death of her husband, St Bridget of Sweden (d. 1373) devoted herself completely to a life of prayer and service. After founding the Bridgettine Sisters in Sweden she felt compelled to visit Rome in order to seek official approval for her community. Her visit resulted in her permanently remaining in the city for the next twenty-four years until her passing in 1373. Today a few of her relics rest within this Bridgettine convent which still to this day is occupied by members of her community. Her body was returned to Sweden shortly after her death.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.470727,41.895114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Ignatius of Loyola & St Frances Xavier]]></name>
+        <description><![CDATA[Gesu <br>16 Via degli Astalli <br><br>*An arm of St Francis Xavier (d. 1552) rests within a reliquary above the altar in the right transept. With this arm he baptized thousands of individuals in India and the Far East. <br> *St Ignatius of Loyola (d. 1556), the founder of the Jesuits, is buried under the altar in the left transept. His rooms are located in the Generalate next to the church and may be visited.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.479514,41.895793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Sixtus II</name>
+        <description><![CDATA[San Sisto Vecchio<br>8 Piazzale Numa Pompilio <br><br>*The relics of St Sixtus II (d. 258) were moved from the Catacombs of San Callisto to this church. A small stone located within the wall on the left side of the nave marks their location. <br>*Pope Honorius III gave this church to the Dominican order with the issue of a Papal Bull dated December 3, 1218. This was the first Dominican monastery in Rome. <br>*The Miracle of the Bread attributed to St Dominic occurred within the refectory of this monastery. This room can be visited.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.495961,41.880362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Bartholomew & St Adalbert]]></name>
+        <description><![CDATA[San Bartolomeo all'Isola <br>Piazza San Bartolomeo <br> <br>*An arm of St Adalbert (d. 997) is currently enshrined in the chapel to the left of the main sanctuary. It rests within a little metal box placed under the altar of this chapel. <br>*Relics of the apostle, St Bartholomew, rest within the red porphyry basin that supports the main altar.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.478162,41.890306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Joseph Calasanz</name>
+        <description><![CDATA[San Pantaleo <br>Piazza San Pantaleo / Piazza dei Massimi 4 <br><br>*The relics of St Joseph Calasanz (d. 1648) rest under the main altar of this church. His rooms can be visited in the adjacent convent. <br>*St Joseph Calasanz is uniquely known for setting up the first free public school in modern Europe. During his lifetime it was highly controversial to educate the poor. Some thought that it would only leave the poor more dissatisfied with their lowly tasks in society. Education was not seen as an opportunity for advancement. St Joseph Calasanz nevertheless persevered and was eventually appreciated and honored for his work.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.473109,41.897164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Monica</name>
+        <description><![CDATA[Sant Agostino <br>Piazza Sant Agostino <br><br>*Relics of St Monica (d. 387), the mother of Augustine, rest in the chapel to the left of the main altar.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.474225,41.900696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Saints Cosmas & Damian]]></name>
+        <description><![CDATA[Santi Cosma e Damiano <br>Via dei Fori Imperiali 1 <br><br>*Relics of Saints Cosmas and Damian (d. 287) rest under the altar in the lower church. Each year for the feast of Saints Cosmas and Damian these relics are brought out for public veneration.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.487346,41.892095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St John Leonardi </name>
+        <description><![CDATA[Santa Maria in Campitelli <br>9 Piazza di Campitelli <br><br>*The body of St John Leonardi (d. 1609) is enshrined in the second chapel on the left side of the nave.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.479374,41.892732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St Callistus I & St Cornelius]]></name>
+        <description><![CDATA[Santa Maria in Trastevere <br>Via della Paglia 14 <br><br>*Relics of the two popes St Callistus I (d. 222) and St Cornelius (d. 253) rest under the main altar of this church. These relics are joined by others in particular those of the priest and martyr St Calepodius (d. 232).]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.469633,41.889491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Teresa of Avila</name>
+        <description><![CDATA[Santa Maria della Scala <br>23 Piazza della Scala <br><br>*The right foot of St Teresa of Avila (d. 1582) rests within this church in a beautiful chapel to the left of the main sanctuary. It was gifted to this church in 1617. (This chapel is not visible from the nave of the church and it is rarely open to the public. However, if one kindly asks the sacristan access may be granted. If the sacristan is not present he or she can be called at the neighboring convent door.)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.467862,41.89129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Paul of the Cross</name>
+        <description><![CDATA[Santi Giovanni e Paolo <br>Piazza dei Santi Giovanni e Paolo 13 <br><br>*St Paul of the Cross (d. 1775) is buried under the altar in the large side chapel on the right side of the nave. Upon request one can visit the room in which he died in the monastery adjacent to the church. <br>*Located beneath this church is a complex of well preserved ancient Roman houses. Among these is an ancient house church. These ruins can be visited.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.492528,41.886352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Charles Borromeo</name>
+        <description><![CDATA[San Carlo ai Corso <br>437 Via del Corso <br><br>*St Charles Borromeo, the great 16th century Archbishop of Milan, is honored in a special way within this church. A relic of his heart rests in a reliquary within an altar located behind the main sanctuary.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.478361,41.905588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Cecilia</name>
+        <description><![CDATA[Santa Cecilia in Trastevere <br>22 Piazza di Santa Cecilia <br><br>*In 821 the body of St Cecilia was exhumed from the Catacombs of San Callisto by St Paschal I (d. 824) and brought to this church. Today her body rests within the crypt under the main altar.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.476059,41.887439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Pope Damasus I</name>
+        <description><![CDATA[San Lorenzo in Damaso <br>1 Piazza della Cancelleria <br> <br>*This church is believed to have been founded in the very home of St Damasus I (d. 384) whose remains now rest under the main altar.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.471703,41.896863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Mary Magdalene</name>
+        <description><![CDATA[San Giovanni Battista dei Fiorentini <br>2 Via Acciaioli <br><br>*A relic of St Mary Magdalene’s foot rests in a shrine to the left of the main sanctuary. Also the left transept chapel is dedicated to St Mary Magdalene.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.464837,41.89949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Catherine of Siena</name>
+        <description><![CDATA[Monastero della Madonna del Rosario a Monte Mario <br>Via Alberto Cadlolo, 51 <br><br>*The left hand of St Catherine of Siena (d. 1380) rests within this monastery.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.447016,41.921097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas</name>
+        <description><![CDATA[Santa Croce in Gerusalemme<br>12 Piazza di Santa Croce in Gerusalemme <br><br>*A bone from the index finger of St Thomas the Apostle is located here. It is said that this is the same finger that he inserted into the side of the Risen Christ. <br>*Also found here are relics of the True Cross brought to Rome by St Helena in 325. These relics include: the Titulus Crucis (This is the sign that hung over the head of Christ and that declared him to be the King of the Jews), a Crucifixion nail, a relic of the True Cross, two thorns from the Crown of Thorns, the greater part of the sponge used to give Christ vinegar, and a piece of the cross from the good thief (St Dismas). <br>*This chapel can be accessed by the staircase on the left side of the sanctuary.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.515509,41.888301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Justin the Martyr</name>
+        <description><![CDATA[Chiesa dell’Immacolata Concezione della Beata Vergine Maria <br>27 Via Veneto <br><br>*Relics of St Justin the Martyr rest under the altar located behind the main altar. Kindly ask the sacristan for access. The remains of St Justin the Martyr were temporarily transferred in 1992 to the parish church of San Giustino a Centocelle in Rome. However, they have now been returned to this church. <br>*The bones of nearly 4,000 Capuchin friars are located in the crypt.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.488365,41.904752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Gregory Nazianzen</name>
+        <description><![CDATA[Santa Maria in Campo Marzio <br>Piazza Campo Marzio 45 <br><br>*Basilian nuns brought the relics of St Gregory Nazianzen (d. 389) to Rome in the 8th century. They were kept in Rome at Campo Marzio and eventually placed within this church. <br>*With the exception of one arm the remains of St Gregory Nazianzen were transferred to St Peter’s Basilica in 1580. This arm remained at Santa Maria della Concezione as compensation and was eventually placed in the nearby church of San Gregorio. This relic, however, is not accessible to the general public since San Gregorio is the church used by the Deputies of the Italian Parliament.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.476727,41.9022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Polycarp</name>
+        <description><![CDATA[Sant’Ambrogio della Massima <br>Via San Ambrogio 3 <br><br>*This church is located west of Piazza Venezia near the Fontana delle Tartarughe. It is set behind some buildings and is not easy to notice from the street. <br>*The relics of St Polycarp (d. 155) are set in a marble memorial stone under the high altar. <br>*Tradition also holds that this church rests on land that was formerly the location of a house owned by St Ambrose’s father and occupied by his older sister.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.478255,41.893392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Cornelius</name>
+        <description><![CDATA[Santi Celso e Giuliano <br>12 Vicolo del Curato <br><br>*Some relics of St Cornelius (d. 253) were transferred to this church in the 18th century. These relics are located in an urn to the right of the entrance.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.466913,41.900534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Frances Xavier Cabrini </name>
+        <description><![CDATA[Chiesa del Santissimo Redentore e Santa Francesca Cabrini <br>Via Sicilia 215 <br><br>*The skull of St Frances Xavier Cabrini (d. 1917) rests within this church. It is placed within a statue of her likeness that reposes within an urn on the right side of the nave.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.495296,41.909511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Saints Marcellinus & Peter]]></name>
+        <description><![CDATA[Santi Marcellino e Pietro <br>Via Merulana 162 <br><br>*Relics of Saints Marcellinus and Peter (d. 304) are preserved within the main altar of this church. Typically on their feast day these relics are brought out and exposed for public veneration. *Above the main altar is a large painting depicting their martyrdom.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.503053,41.888932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Peter Julian Eymard</name>
+        <description><![CDATA[Chiesa San Claudio <br>Via del Pozzetto 160 <br><br>*A relic of St Peter Julian Eymard (d. 1868) is placed within a statue of his likeness that rests within an urn on the right side of the nave. <br>*This church is managed by priests from the Congregation of the Blessed Sacrament which St Peter Julian Eymard founded in 1856.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.481552,41.902221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Jude</name>
+        <description><![CDATA[San Salvatore in Lauro <br>Piazza San Salvatore in Lauro 15 <br><br>*A small bone fragment from an arm of St Jude rests within this church.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.469515,41.900704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Blaise</name>
+        <description><![CDATA[San Carlo ai Catinari <br>Piazza Benedetto Cairoli 117 <br><br>*On February 3rd several relics of St Blaise are presented for veneration within this church. Of special note is a reliquary which contains a bone from the throat of St Blaise. This relic is used to bless the throats of the faithful.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.475158,41.894211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Josemaria Escriva</name>
+        <description><![CDATA[Santa Maria della Pace <br>Viale Bruno Buozzi, 75 <br><br>*The remains of St Josemaria Escriva (d. 1975) rest within this church. The church is not visible from the street. To enter ring at  Viale Bruno Buozzi, 75. A secretary will then direct you to the chapel.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            12.483779,41.92194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

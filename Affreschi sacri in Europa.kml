@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Affreschi sacri in Europa</name>
+    <description><![CDATA[https://www.operaromanapellegrinaggi.org<br>https://www.omniaforitaly.org<br>https://www.omniavaticanrome.org<br><br>Si prendono in considerazione gli affreschi sacri più significativi, dall'antichità fino al rinascimento]]></description>
+    <Style id="icon-1509-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1509-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1509-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1509-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1509-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1509-F57C00-nodesc-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1509-F57C00-nodesc-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1509-F57C00-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1509-F57C00-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1509-F57C00-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Affreschi significativi</name>
+      <Placemark>
+        <name>Vergine con il Bambino</name>
+        <description><![CDATA[Catacombe di Priscilla<br>III secolo<br><br>Il più antico affresco della Vergine Maria ad oggi conosciuto si trova presso le Catacombe di Priscilla.]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.508532,41.929622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di Santa Maria Antiqua - sec VI</name>
+        <description><![CDATA[Ciò che rende importante Santa Maria Antiqua è proprio il fatto di potervi ancora leggere affreschi risalenti a secoli della cui arte ci è rimasto pochissimo.<br><br>Santa Maria Antiqua nasce in un momento particolare per Roma. Nel 552 d.C. l’esercito Bizantino strappa definitivamente la città al dominio di Goti e, tra il 555 d.C. ed il 561, riporta l’Italia nel controllo dell’Impero Romano d’Oriente. La Penisola è però stremata da una guerra (quella greco-gotica, appunto) che va avanti da venti anni. Roma – la più grande metropoli del mondo con un milione e mezzo di abitanti – è ridotta ad una popolazione di trentamila ed ha subito danni immisurabili.<br><br>E’ in questo contesto che, proprio ad opera dei Bizantini, nasce Santa Maria Antiqua. Essa, nel ripristino degli antichi palazzi imperiali, ne diviene (probabilmente) la cappella palatina, cioè la cappella di palazzo. Ne consegue l’attenzione dei papi che negli anni ne favoriscono il continuo abbellimento.<br><br>Poi, nell’847, un terremoto la seppellisce nascondendola agli occhi del mondo fino alla fine del XIX secolo. Tanto che, sempre nel Foro Romano, verrà costruita una nuova chiesa dal nome (appunto) di Santa Maria Nova.<br><br>Posta a destra dell’abside, questa parete deve la sua importanza al fatto di conservare ben sette diversi strati di intonaco di epoche via via successive.<br><br>Appartiene al terzo strato la Madonna in Trono col Bambino in abiti bizantini. Risale alla fondazione della chiesa (siamo quindi tra il 550 e il 560 d.C.) o forse addirittura a qualche lustro prima. Infatti quegli ambienti erano l’atrio o la sede del corpo di guardia che presidiava l’accesso alla residenza del governatore bizantino di Roma.<br><br>La postura e gli ornamenti sono quelli tipici dell’arte bizantina. Coevo è anche l’angelo alla sua destra che faceva parte della medesima scena. Di questo angelo dobbiamo però notare la maggior plasticità rispetto alla figura della Vergine, la posizione di tre quarti, il colorito dell’incarnato del volto.<br><br>Al di sopra di lui vediamo (nell’angolo di destra) ciò che resta del volto del cd. Angelo Bello e di fronte (angolo di sinistra) il viso della Vergine. Erano i due protagonisti di un’Annunciazione appartenente al quarto strato e databile alla prima metà del VII secolo, anteriormente a papa Martino I (649-655). E’ evidente il richiamo all’arte “classica”, non a caso la figura è anche detta l’angelo pompeiano.<br><br>Perché qui sta il punto. Era ancora sopravvissuto qualcosa dell’antica arte dell’affresco greco e romano in quei travagliati VI e VII secolo? Esistevano ancora maestranze capaci di cimentarsi con la tecnica posseduta dai loro predecessori (clicca per l’articolo “Gli straordinari affreschi romani del Metropolitan Museum”)?<br><br>Non è facile rispondere a questa domanda. Merita però porre a confronto quattro immagini. I volti dei due angeli di cui abbiamo detto (metà VI secolo il primo, inizio VII il secondo); l’Arcangelo Gabriele databile ai primissimi anni del VIII secolo e, infine, il busto di Apostolo coevo dell’appena citato Arcangelo Gabriele. Potete vedere le immagini degli affreschi in questione inserite in questo articolo.<br><br>Per quanto riguarda l’Arcangelo Gabriele, per inciso, merita raffrontarlo con gli affreschi ellenistici di Santa Maria Foris Portas a Castelseprio anch’essi databili tra il VII e l’VIII secolo.<br><br>E’ evidente che qualcosa sopravvive. Come è difficile dire. Dobbiamo però tener presente che gli affreschi di cui stiamo parlando sono anteriori all’iconoclastia (o coevi) e che, quindi, sia Santa Maria Antiqua che Santa Maria Foris Portas ci raccontano, probabilmente, qualcosa dell’arte dell’affresco bizantina prima dell’iconoclastia.<br><br>Il Primicerius Teodoto potrebbe essere addirittura lo zio e padre adottivo di papa Adriano I. Una figura di spicco tra i prelati romani e dunque in condizione di intervenire sugli ornamenti della cappella che (oggi) prende il suo nome. Devoto a San Quirico e Santa Giulitta, fece dipingere la scena del loro martirio. Siamo al]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.48588,41.891339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di Santa Maria Foris Portas</name>
+        <description><![CDATA[VII-VIII secolo<br><br>A differenza di altre testimonianze coeve, gli affreschi di Santa Maria Foris Portas si discostano significativamente dai canoni bizantini e dalla rappresentazione frontale delle figure per percorrere strade che hanno fatto si che venissero da alcuni individuati come ellenicizzanti.<br><br>Partiamo da qualche secolo prima dei nostri affreschi. Il III secolo d.C. vede l’inizio delle invasioni barbariche e la necessità di costruire sistemi di difesa  lungo le vie d’accesso da nord alla Pianura Padana.<br><br>Nel IV secolo sorge così un’ampia area fortificata (oggi compresa nell’area archeologica di Castelseprio) governando un territorio che si spingeva a nord fino al Lago Maggiore ed al Lago di Lugano. Con la caduta dell’Impero Romano, i Goti e i Longobardi riutilizzeranno al loro volta queste strutture militari.<br><br>Proprio con i Longobardi (che invadono l’Italia nella seconda metà del VI secolo), Castelseprio assurge al ruolo di capoluogo della Giudicaria longobarda di Seprio. Un territorio particolarmente ampio che si spingeva a nord fino alle valli alpine e fino ai fiumi Ticino e Seveso ad ovest e ad est. Gli studi indicano che il ruolo di Castelseprio rimase significativo fino al IX secolo per poi subire la pressione espansiva di Milano.<br><br>Proprio nel IX secolo – a partire dal 961 – fanno la loro comparsa i Conti del Seprio, famiglia franco-longobarda che assunse il controllo della contea in via ereditaria che mantenne fino al 1044 quando la stessa venne annessa dalla Signoria di Milano.<br><br>Foris portas rispetto all’antico castrum, questa chiesa risale secondo la tradizione al VII-VIII secolo anche se studi più recenti la daterebbero al secondo quarto del IX. Siamo, cioè, tra l’825 e l’850 d.C. in epoca carolingia. Circa cinquant’anni dopo la presa di Pavia e del Regno d’Italia da parte di Carlo Magno.<br><br>In realtà, la questione sulla datazione dell’edificio e degli affreschi in esso contenuti è assolutamente aperta e si espande su un arco di circa tre secoli. Il tema è particolarmente complesso anche perché ci troviamo nel medesimo periodo nel quale l’Impero Romano d’Oriente era percorso dal movimento dell’iconoclastia.<br><br>Da qui prende corpo anche l’ipotesi che autori degli affreschi possano essere artisti che lasciarono Bisanzio per operare in occidente.<br><br>Resta il fatto, qualsiasi punto di vista si assuma sulla datazione, che la qualità degli affreschi è importante.<br><br>Il ciclo di affreschi si dispiega nell’abside della chiesa su due livelli, partendo dal lato sinistro. Alcune scene sono andate perdute, ma quelle giunte fino a noi rappresentano L’Annunciazione, Maria supera la prova delle acque amare, l’Angelo appare a Giuseppe, l’Adorazione dei Magi, la Presentazione di Gesù al tempio, il Viaggio a Betlemme, la Natività, il Trionfo di Cristo e gli Angeli Trionfanti. Al centro dell’abside il Cristo Pantocratore.<br><br>Quello che colpisce in numerose parti del ciclo è il collegamento di questi affreschi all’arte antica. La presenza dell’uso della prospettiva, il realismo nella rappresentazione dei personaggi e degli animali, il drappeggio delle tuniche sono come un filo rosso che unisce i secoli delle civiltà romana e greca ad un mondo dove tutto è cambiato e che sta cercando la sua nuova dimensione anche artistica.]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            8.855908,45.7298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abbazia di San Vincenzo al Volturno</name>
+        <description><![CDATA[VIII secolo<br><br>L’ Abbazia di San Vincenzo al Volturno ha una storia antica ed un’origine longobarda. Nel 703, infatti, tre giovani nobili beneventani – Paldo, Taso e Tato – l’avrebbero fondata dove già esisteva un oratorio dedicato a San Vincenzo di Saragozza voluto addirittura dall’imperatore Costantino. A questo luogo i tre giovani sarebbero giunti seguendo un consiglio del tutto particolare. Quello di Tommaso di Moriana, abate della potente Abbazia di Farfa.<br><br><br>Un consiglio avveduto che avrà certamente considerato diversi fatti. La posizione favorevole nei pressi delle fonti del Volturno, la fertilità della zona e, magari, anche la potenza politica del Ducato di Benevento nel cui territorio si trovava.<br><br>A tali origini non poteva che seguire un’affermazione importante. Così, in quei complessi secoli che precedettero l’anno mille, l’ Abbazia di San Vincenzo al Volturno divenne una potenza politica ed economica non meno delle sue omologhe Montecassino e Farfa.<br><br>I suoi possedimenti si estendevano in molte regioni dell’Italia centro-meridionale e con essi crebbero anche le dimensioni dell’insediamento originario. Un’abbazia fortificata con accanto un villaggio e una popolazione che nel complesso superava probabilmente le mille anime. L’insediamento conteneva nove chiese. Tra di esse una basilica (San Vincenzo Maggiore) di dimensioni ed architettura imponenti. Ma anche opifici che permettevano ai monaci di produrre e commerciare manufatti di grande valore artistico grazie alla competenza nella fusione del bronzo e nella lavorazione del vetro.<br><br>Poi, nel 881, arrivarono i Saraceni. Dopo una distruzione che accomuna San Vincenzo, anche questa volta, a Montecassino e Farfa, i monaci vi tornarono solo trent’anni più tardi. Diminuiti nel numero, decisero di costruirsi una realtà più a loro misura sulla riva opposta (la destra) del Volturno (San Vincenzo Nuovo). Per farlo, smontarono e riutilizzarono San Vincenzo Maggiore. Siamo nel 1114 ma la storia di San Vincenzo è ormai segnata da un inesorabile declino.<br><br>Sebbene la storia di San Vincenzo sia affascinante, la nostra visita ha un motivo artistico. Infatti, qui si conserva, quasi intatto, un ciclo di affreschi altomedievali pressoché unico. E’ la Cripta di Epifanio, dal nome dell’abate che la volle negli anni nei quali guidò l’abbazia (824-842).<br><br>La descrizione puntuale degli affreschi presenti nella cripta richiede un saggio e non un articolo. Oltre agli aspetti artistici vanno poi considerati quelli teologici. Infatti, Ambrogio Autperto, precettore di Carlo Magno e poi suo cancelliere, abbracciata la sua vocazione, nel 777 divenne abate proprio di San Vincenzo al Volturno. Ambrogio scrisse un commento all’Apocalisse di San Giovanni che ispirò Epifanio nella concezione del ciclo di affreschi della cripta. E’ probabile, poi, che la cripta contenesse anche la tomba di Epifanio. Una tomba particolare, ne vedete i resti sotto l’affresco dell’Annunciazione, dove il corpo era in posizione seduta. Quella è anche la posizione dalla quale il ciclo di affreschi andrebbe osservato: come li avrebbe visti Epifanio dopo la sua morte. Non secondaria è poi l’illuminazione della cripta che avviene attraverso due finestrelle. Ciascuna indirizza la luce in modo particolare, in primis quella collocata verso l’esterno (l’altra affacciava sull’interno della chiesa).<br><br>La cripta ha la forma di una croce e, girando lungo il suo perimetro, i principali affreschi sono disposti come segue. Si accede dalla fine del braccio sinistro e, di fronte, il primo affresco rappresenta quattro sante vergini. Poi, proseguendo lungo il perimetro, nell’abside formata dalla parte alta del braccio verticale della croce, sono raffigurati sui due lati due arcangeli per parte. Al centro l’Angelo giudicatore, ovvero il Cristo. Al di sotto, due aquile.<br><br>Proseguendo lungo il “transetto” (ovvero il braccio orizzontale di destra della croce), il martirio di San Lorenzo e quello di Santo Stefano. Di fronte, in una nicchia, Cristo risorto t]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            14.087859,41.649963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonifacio VIII indice il giubileo del 1300</name>
+        <description><![CDATA[Basilica di San Giovanni in Laterano<br>XIV secolo<br><br>Affresco frammentario staccato (110x110 cm) attribuito a Giotto, databile al 1300 circa e conservato in San Giovanni in Laterano a Roma.<br><br>Da una copia di Jacopo Grimaldi in un manoscritto della Biblioteca Ambrosiana (Instrumenta translationum, MS. 1622, f. inf 227) si può ricostruire l'aspetto originale dell'affresco, molto più grande del frammento conosciuto, mostrante papa Bonifacio VIII nell'atto di indire il primo Giubileo e di benedire la folla dall'altro della loggia lateranense, affiancato da un chierico e da un cardinale (forse Francesco Caetani) e, al di fuori del baldacchino papale, numerosi altri prelati disposti in due gruppi simmetrici a destra e a sinistra. Il Panvinio inoltre, nel 1570, ricordò come la scena facesse parte di un vero e proprio ciclo assieme al Battesimo di Costantino e all'Edificazione della basilica lateranense, e che decorasse originariamente la loggia chiamata thalamo o pulpitum Bonifacii, eretta dal papa stesso sul fronte del palazzo che aveva fatto aggiungere al vecchio Laterano. La commissione doveva cadere a ridosso del giubileo o durante lo svolgimento dello stesso e tutti gli studiosi (con la sola eccezione di Meiss, 1960) sono concordi nel riferirlo al 1300 circa.<br><br>L'ispirazione per la composizione doveva provenire dal rilievo della Premiazione della corsa dei carri del Dado di Teodosio a Costantinopoli, nota a Giotto probabilmente tramite una copia presente all'epoca a Roma.<br><br>Vasari (1550) parlò di un ritratto del papa in San Giovanni eseguito da Giottino. Quando la loggia venne demolita, nel 1586, la parte centrale dell'affresco fu staccata a massello, trasportata nel chiostro e solo due secoli dopo trasferita all'interno della basilica dove, per conto della famiglia Caetani, venne sistemata in un'edicola addossata a un pilastro.<br><br>Scrittori successivi, tra XVI e XVII secolo, menzionarono l'affresco riferendolo a Cimabue (Panvinio, 1570, Santorio, 1595) o a Giotto (Chacon, 1630 e 1677) o riportando entrambe le ipotesi (Rasponi, 1657). Più tardi venne riaffermato il rapporto diretto con Giotto. Nel 1952 il frammento fu restaurato e alleggerito dalle numerose ridipinture. Le precarie condizioni di conservazione però hanno impedito una piena valutazione del frammento, oscillando nell'attribuzione tra la mano diretta del maestro o quella degli assistenti di bottega.]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.506108,41.886056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cappella Sistina</name>
+        <styleUrl>#icon-1509-F57C00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.454261,41.902969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giudizio Universale - Pietro Cavallini</name>
+        <description><![CDATA[Basilica Santa Cecilia in Trastevere<br>XIII secolo<br><br>il Giudizio Universale di Pietro Cavallini è una pietra miliare, un passaggio epocale, della pittura italiana che – superata Bisanzio – trainava la rinascita dell’arte occidentale. Purtroppo oggi ne vediamo soltanto una porzione, perché nel XVI secolo fu costruito un coro per le monache che produsse danni e mutilazioni all’affresco. Il destino ha voluto che, comunque, dell’affresco giungesse fino a noi la parte più significativa, ovvero Gesù tra gli Apostoli. Cavallini costruisce infatti l’opera in adesione alle Scritture: “II Figlio dell’Uomo seduto sul trono della sua gloria e dodici suoi apostoli, seduti con lui a giudicare le dodici tribù del suo popolo” (Vangelo di Matteo 19,28).<br><br>Infatti, come potete leggere nella descrizione dell’affresco sul sito delle monache benedettine di Santa Cecilia, che qui vi ripropongo perché perfetta:<br><br>“Al centro appare la figura di Cristo giudice seduto su un prezioso trono tempestato di gemme. Al di sotto vi è l’altare, alla maniera bizantina, con gli strumenti della passione: la spugna, il vasetto del fiele, i chiodi, la lancia che aprì il costato di Gesù in croce. La mandorla ovale in cui è raffigurato il Cristo è contornata da otto serafini. A sinistra, per chi guarda ma alla destra di Cristo, in piedi, si trova la Vergine in preghiera e rivolta all’Eterno; accanto a lei: Paolo Apostolo, Taddeo, Giacomo Maggiore, Matteo, Bartolomeo e Filippo. A destra per chi guarda ma alla sinistra di Cristo, ci sono, in piedi: S. Giovanni Battista, e gli apostoli Pietro, Giovanni, Tommaso, Giacomo minore, Andrea e Simone.<br>Nella fascia inferiore, alla destra del Redentore, sono raffigurati i beati accolti dagli angeli, divisi in tre gruppi, tra cui i più vicini a Cristo sono i santi diaconi Lorenzo e Stefano primo martire. Dietro ad essi è raffigurata una santa coronata e accolta da un angelo, probabilmente Santa Cecilia.<br>A sinistra di Cristo sono affrescate le anime dei dannati, divise anche queste in tre gruppi, con gli angeli intenti a respingerle. Il primo angelo spinge i dannati con le mani, il secondo con la lancia e il terzo con l’arma infilza il corpo del diavolo”.<br><br>Sull’innovazione che Cavallini e Giotto portano nell’arte del XIII secolo sono stati scritti innumerevoli libri. Credo che, in estrema sintesi, si possa dire che quello che affascina di questo Giudizio Universale è che Pietro Cavallini, soprattutto nelle figure degli Apostoli, inventa il volume: il volume della carne.<br><br>Non è solo il passaggio dalla frontalità dei volti alla loro angolazione, non è solo la ricerca dell’espressione dei sentimenti (ancora agli inizi) ma è il volume a fare la differenza. Qui non siamo di fronte a figure iconiche ma a uomini di carne, a quei “pescatori di uomini” che seguirono Gesù nella sua vita terrena.<br><br>Per comprendere, per toccare con mano completamente, la differenza provate a guardare la famosa Madonna Advocata oggi custodita a Palazzo Barberini e che vi da il senso preciso di cosa si dipingesse a Roma un secolo prima.<br><br>Oppure, confrontate gli Apostoli di Cavallini con quelli del Giudizio Finale di Nicolò e Giovanni dei Musei Vaticani. Il tema è analogo e questo rende il confronto ancor più cogente. Mentre nel Giudizio Finale gli Apostoli sembrano uscire da un mosaico bizantino rispettoso degli antichi precetti, quelli del Cavallini si sono ormai affrancati da quei modelli.<br><br>Se vogliamo continuare nel parallelo con il mosaico, allora l’affresco del Cavallini ha la “modernità” (considerate il temine applicato all’arte musiva del XII secolo) dei mosaici della Cappella Palatina di Palermo. Del resto, natura non facit saltus e la rivoluzione artistica del XIII secolo trova le sue basi nelle elaborazioni che la precedettero.<br><br>Al di là di ogni considerazione, un momento di puro piacere estetico è generato dalle ali dei serafini. Nei secoli che seguiranno, le ali degli angeli rappresenteranno spesso gioielli preziosi all’interno di composizioni più ampie ma]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.476574,41.887186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di San Domenico Maggiore</name>
+        <description><![CDATA[XIV secolo<br><br>Pietro Cavallini (1240-1330 circa), maggior esponente della Scuola Romana a cavallo tra ‘200 e ‘300, lavorò a lungo a Napoli al tempo degli angioini (tra il 1308 e il 1317). La Cappella Brancaccio, nella Chiesa di San Domenico Maggiore è, con gli affreschi della chiesa di Donnaregina, la sola testimonianza rimasta di quegli anni fecondi. Fecondi perché la pittura italiana stava trovando una sua strada che si dipartiva da quella dettata dalla tradizione bizantina: quella che il Vasari chiamava la maniera greca.<br><br>Si trattava di una tradizione forte, fatta di presenza attiva sulla scena artistica italiana. Racconta infatti Giorgio Vasari nella biografia di Cimabue come, probabilmente intorno al 1255, essendo chiamati in Firenze da chi allora governava la città alcuni pittori di Grecia, non per altro che per rimettere in Firenze la pittura piuttosto perduta che smarrita il padre di Cimabue accondiscese all’inclinazione del figlio per il disegno e gli consentì di andar a imparare da costoro ma, narra ancora il Vasari, che di continuo esercitandosi, lo aiutò in poco tempo talmente la natura, che passò di gran lunga, sì nel disegno come nel colorire, la maniera dei maestri che gl’insegnavano: e perché sebbene imitò que’ greci, aggiunse molta perfezione all’arte, levandole gran parte della maniera loro goffa…<br><br>Cimabue (1240-1302) era coetaneo di Pietro Cavallini il quale, però, avendo avuto vita lunghissima, poté pienamente attraversare anche gli anni caratterizzati dall’affermarsi di Giotto (1267-1337).<br><br>Ben mi guarderò dall’infilarmi nella querelle delle influenze tra questi grandi maestri la quale, peraltro, è resa particolarmente ispida dallo scarseggiare di date certe epietro cavallini cappella brancaccio san domenico maggiore napoli attribuzioni altrettanto sicure.<br><br>E’ noto, comunque, come tutti e tre viaggiassero e lavorassero in giro per la Penisola ed è dunque del tutto logico che esistesse una condivisione di quella nuova estetica che si dipartiva dalla maniera greca. Tra l’altro, Cimabue è attestato a Roma nel 1272. Poi, vi è il famoso cantiere della Basilica di Assisi dove tutti e tre hanno operato.<br><br>Pietro Cavallini (o Pietro de’ Cerroni), pictor romanus, lascia proprio nella Città Eterna la maggior parte delle sue opere sopravvissute fino ai nostri giorni. Nel 1308 si reca però a Napoli, chiamato da Carlo II pietro cavallini cappella brancaccio san domenico maggiore napolid’Angiò e qui, l’anno dopo, nella chiesa di San Domenico Maggiore (che si andava completando proprio in quegli anni), affresca la cappella voluta dal cardinale Landolfo Brancaccio. E’ proprio un documento della corte angioina a darci la certezza degli eventi. Infatti, Carlo II decreta il pagamento di una pensione annua a Magister Petrus Cavallinus de Roma Pictor.<br><br>Sempre tenendoci lontani dalla querelle di cui sopra, è evidente come Bisanzio sia ben distante dalla Cappella Brancaccio. Qui, con una determinata ricerca delle emozioni umane e della prospettiva, Pietro Cavallini racconti gli animi ancor prima che gli eventi.<br><br>Gli affreschi adornano completamente la cappella posta quasi all’inizio della navata di destra della chiesa.<br><br>La parete di sinistra è dedicata a San Giovanni e, dall’alto a scendere, troviamo San Giovanni Evangelista immerso nell’olio bollente a Porta Latina a Roma; l’Assunzione in cielo di San Giovanni e la (bella) Crocifissione che da sola merita il viaggio a Napoli per essere vista dal vivo.<br><br>La parete centrale è invece dedicata a Sant’Andrea. Essa accoglie in alto Due Profeti; la Vocazione di Sant’Andrea e San Pietro; Sant’Andrea di fronte al prefetto Aegeas. Al di sotto, sono collocati la Crocifissione di Sant’Andrea e il prefetto Aegeas strangolato dal demonio (una scena alquanto rara se non unica, quest’ultima); un miracolo pietro cavallini cappella brancaccio san domenico maggiore napolipostumo di Sant’Andrea che si presenta dopo la morte nelle sembianze di pellegrino presso l’abitazione di un vescovo per avvertirlo]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            14.254422,40.848884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duomo di Orvieto</name>
+        <description><![CDATA[La cappella di San Brizio, o cappella Nova, si trova nel transetto destro del duomo di Orvieto. È celebre per il ciclo di affreschi con Storie degli ultimi giorni, avviato nelle vele da Beato Angelico e Benozzo Gozzoli nel 1447 e completato da Luca Signorelli nel 1499-1502.<br><br>Per l'originalità spaziale e iconografica e per la singolarità del tema, la cappella costituisce un unicum nell'arte.<br><br>Le volte sono organizzate in vele su fondo oro, divise da costoloni con motivi vegetali e da cornici in stile gotico, con fasce a sfondo rosso decorate da motivi tratti dalla miniatura, intervallati da esagoni con testine[2].<br><br>Le pareti sono dipinte con lunettoni nella parte superiore, inquadrati da arconi dipinti con cassettoni con rosette sporgenti; essi sono idealmente arretrati di circa due metri, lasciando un ampio palcoscenico alla base degli affreschi in cui le figure si muovono come se stessero uscendo dai dipinti. Si tratta di un'originale soluzione compositiva che, sebbene non sia calibrata per il punto di vista ribassato dello spettatore, ha il merito di trasformare l'architettura gotica della cappella in uno spazio rinascimentale, quadrandone le misure come se fosse tanto largo quanto alto[9]. Signorelli concepì la cappella "non come una scatola, ma come una sfera in cui tutti i punti hanno lo stesso valore attorno al fulcro rappresentato dall'uomo-spettatore".[10]<br><br>Tutte le ombre sono generate da una medesima fonte di luce, situata in corrispondenza delle finestre della parete di fondo[9].<br><br>Le scene sono:<br><br>Predica e fatti dell'Anticristo<br>Finimondo<br>Resurrezione della carne<br>Dannati[11]<br>Beati<br>Paradiso<br>Inferno<br>La fascia inferiore è scandita da un finto colonnato di paraste reggenti una trabeazione dipinta con un ricchissimo fregio a grottesche su fondo oro. La zoccolatura è dipinta a lastre che imitano i rilievi di sarcofagi romani, intervallate dalle basi delle paraste. I riquadri sono decorati da partiture a grottesche in cui sono inserite, al centro, finestre con ritratti di uomini illustri, poeti e scrittori. Molti di essi sono ritratti in maniera da confondere l'occhio dello spettatore, sfogliando libri che pare escano dal davanzale in scorcio[9]. Alcuni di loro hanno vicini anche dei medaglioni in grisaille che commentano la loro opera o illustrazioni della Divina Commedia[6].<br><br>Completano la figurazione, negli sguanci delle finestre, gli arcangeli Raffaele con Tobiolo e Gabriele (a destra), Michele in atto di pesare le anime e in atto di respingere un demonio (a sinistra) e i santi vescovi Brizio e Costanzo, protettori di Orvieto (al centro), mentre nella cappellina ricavata nello spessore della parete laterale si trova un Compianto sul Cristo morto tra i santi Parenzo e Faustino[6].<br><br>L'effetto generale è di altissimo coinvolgimento dello spettatore, che ha la sensazione di entrare nella scena dipinta come parte di essa[9].<br><br>Da un punto di vista pittorico, il ciclo mostra una qualità altalenante e una certa macchinosità teatrale, che però è bilanciata da idee figurative di indimenticabile efficacia, spesso novità assolute per l'arte italiana. Se la vista d'insieme può apparire tumultuosa e confusa, nel dettaglio si può comprendere appieno la genialità di Signorelli quale "inventore" e "illustratore", come lo definì Berenson.]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.113078,42.716989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna con Bambino - Pietro Cavallini</name>
+        <description><![CDATA[Basilica di Santa Maria in Ara coeli<br>XIV secolo<br><br>La Madonna con Bambino tra San Giovanni Battista e San Giovanni Evangelista, attribuita a Pietro Cavallini, appare quasi inaspettata e metafisica sul fondo della cappella dedicata a San Pasquale Baylon subito prima del transetto destro della Basilica di Santa Maria in Aracoeli.<br><br>San Pasquale Baylon (1540-1592), francescano spagnolo, venne proclamato beato da Paolo V nel 1610 e santo da Alessandro VIII nel 1690. Di qui la dedicazione di una cappella nella basilica francescana di Santa Maria all’Aracoeli.<br><br>Dobbiamo immaginare che fu in quegli anni che, per allestire la cappella dedicata al nuovo santo, vennero ricoperti gli affreschi di Pietro Cavallini. Solo nel 2000, grazie agli studi avviati da Tommaso Strinati, è avvenuto il fortunato ritrovamento.<br><br>Sono così riemersi, in ottimo stato di conservazione, una Madonna con Bambino tra San Giovanni Battista (a sinistra guardando) e San Giovanni Evangelista.<br><br>Malinconicamente, non ci resta che leggere il passaggio dedicato fa Giorgio Vasari al Cavallini dell’Aracoeli:<br><br>“Ma la migliore opera che in quella città facesse fu nella detta chiesa d’Araceli sul Campidoglio, dove dipinse in fresco nella volta della tribuna maggiore la Nostra Donna col Figliuolo in braccio circondata da un cerchio di sole, e a basso Ottaviano imperador, al quale la sibilla Tiburtina mostrando Gesù Cristo, egli l’adora; le quali figure in quest’opera, come si è detto in altri luoghi, si sono conservate molto meglio che l’altre, perché quelle che sono nelle volte, sono meno offese dalla polvere, che quelle che nelle facciate si fanno”.<br>__________________________<br>Il monumento funebre del Cardinale d’Acquasparta (Matteo Bentivegna d’Acquasparta 1240-1302) nella Basilica dell’Aracoeli a Roma si trova al termine del transetto di sinistra. Posto in posizione elevata su un piedistallo, il monumento funebre in stile gotico rappresenta il cardinale disteso su un broccato e vegliato da due angeli all’interno di una camera funebre retta da due colonne. Al di sotto del broccato è ripetuto più volte lo stemma dei Signori d’Acquasparta.<br><br>Al di sopra del corpo del cardinale una lunetta ad affresco contiene la Vergine ed il Bambino con ai San Matteo e San Francesco.<br><br>Nella cuspide del monumento funebre, oltre la lunetta, un tondo accoglie l’immagine di Cristo benedicente. Motivi cosmateschi (in parte a mosaico in parte a pittura) ornano il monumento.<br>Membro della famiglia Bentivegna, signori d’Acquasparta, nei pressi di Todi, Matteo prese giovanissimo i voti nell’ordine francescano.<br><br><br>Studiò a Parigi e nel 1279 venne nominato maestro di teologia presso lo Studium Curiae. Ciò lo rendeva consigliere del papa in questioni teologiche e maestro di teologia dei chierici della Curia Vaticana. Fu in effetti uno dei maggiori teologi dei suoi tempi.<br><br>Nel 1287 fu eletto Generale dei Francescani e l’anno dopo venne nominato cardinale da Niccolò IV.<br><br>Morto Niccolò IV, fu tra i possibili candidati alla successione. Venne invece eletto, anche con il suo appoggio, Pietro da Morrone con il nome di Celestino V. Quando questi rinunciò, Matteo d’Acquasparta appoggiò la candidatura di Benedetto Caetani che venne eletto con il nome di Bonifacio VIII. Morì a Roma nel 1302.<br><br>Nella lunetta è rappresentata la Vergine in trono con il Bambino tra i Santi Matteo e Francesco. Inginocchiato accanto a quest’ultimo è ritratto Matteo d’Acquasparta che San Francesco presenta alla Vergine e al Figlio. In realtà nessuno di loro offre particolare considerazione al cardinale. La Madonna guarda verso il possibile spettatore mentre il figlio guarda la madre.<br><br>L’attribuzione della lunetta e del tondo con il volto di Cristo a Pietro Cavallini è alquanto condivisa dagli storici dell’arte.<br><br>Va però anche evidenziato come probabilmente vi sia stato un intervento significativo della bottega. Infatti, se da un lato San Francesco mostra la solennità cavalliniana e lo sguardo della Vergine rimanda alla Madonna della Bocciata,]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.482848,41.893967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madonna della Bocciata - Pietro Cavallini</name>
+        <description><![CDATA[La Madonna della Bocciata, attribuita a Pietro Cavallini o alla sua bottega, è posta sopra l’altare della cappella più antica tra quelle che circondano la tomba di San Pietro nelle Grotte Vaticane. Consumata dai secoli e danneggiata dagli spostamenti impostigli dall’incessante attività della Fabbrica di San Pietro, ci racconta però particolari importanti dell’attività artistica della Roma dei primi del ‘300.<br><br>Dobbiamo ad un tedesco appassionato di antichità, Nicolaus Muffel (1409-1469) il racconto del miracolo all’origine del nome di Madonna della Bocciata. Il Muffel era infatti al seguito di Federico III d’Asburgo quando questi ricevette la corona imperiale da Nicolò V nel 1452. Da quel viaggio trasse un libro (Descrizione della città di Roma nel 1452 : delle indulgenze e dei luoghi sacri) che narra di un miracolo avvenuto nel 1440.<br><br>Un soldato ubriaco, stizzito per le perdite subite al gioco, avrebbe tirato una pietra (o una boccia, appunto) contro l’affresco mariano. La Vergine, colpita sulla guancia destra, sanguinò. Il segno del colpo, vuole la leggenda, è quello che ancora oggi compare sulla guancia della Madonna.<br><br>Sulla veridicità del miracolo sospenderei il giudizio. Come vedremo, l’affresco si trovava in un luogo che mal si prestava al gioco e tanto meno al lancio di sassi.<br><br>In realtà, quella che vediamo oggi è solo la parte centrale dell’affresco. Ci viene però in soccorso Tiberio Alfarano (1525-1596). Questi fu canonico della Basilica di San Pietro dal 1567 ed autore dell’opera De basilicae vaticanae antiquissima et nova structura. Un libro prezioso perché descrive minutamente la struttura di San Pietro prima del rifacimento avvenuto tra XVI e XVII secolo.<br><br>Alfarano, arrivato a Roma nel 1544 per restarvi fino alla morte, parla di cose viste con i suoi occhi. La Madonna della Bocciata sarebbe stato un affresco assai più ampio contenente, oltre alle figure della Vergine con il Bambino, anche san Pietro, san Paolo e san Teodoro. Quest’ultimo, vissuto nel VI secolo, era il mansionario (il sacrestano) della basilica di San Pietro. Nell’affresco veniva rappresentato nell’atto di accendere delle lampade. Infatti, stando al racconto di San Gregorio Magno, San Pietro apparve al mansionario Teodoro mentre questi era intento ad accendere le lampade della basilica. Dunque un affresco molto più ampio di quello che conosciamo oggi.<br><br>Purtroppo Tiberio Alfarano nulla ci dice delle posizioni di San Pietro e Paolo ne di quella di San Teodoro. Possiamo immaginare i due Apostoli ai lati della Vergine e del Bambino. Per San Teodoro vedremo qualche ipotesi in più.<br><br>Il lungo viaggio della Madonna della Bocciata<br>Sempre grazie all’Alfarano sappiamo che l’affresco della Madonna della Bocciata decorava una cappelletta posta nel portico di San Pietro. Nel 1574 venne rimosso da lì a causa del rifacimento del portico stesso e trasferito nel Secretarium. Questa era la cappella – nota anche come Santa Maria della Febbre – adiacente al portico dove si preparavano per le funzioni i canonici della basilica (quale l’Alfarano era).<br><br>Evidentemente, però, la Madonna della Bocciata non doveva trovare pace. Nel 1608 vengono demolite sia la facciata della basilica che il Secretarium e l’affresco prende la strada delle Grotte Vaticane.<br><br>Sappiamo dagli archivi della Fabbrica di San Pietro che nel 1617 Benedetto Drei, architetto e capo della Floreria Apostolica, venne pagato per aver posizionato una Madonna di pittura che si trovava in fondo alle grotte vecchie nella cappella dove la vediamo oggi.<br><br>Tiberio Alfarano morì nel 1596 senza nulla dire del danneggiamento dell’affresco al momento in cui si trovava nel Secretarium (che conosceva bene). Dobbiamo quindi immaginare che il disastro sia avvenuto nel distacco del 1608 o negli anni da lì al 1617.<br><br>Peraltro, quelli non furono momenti facili per le opere presenti nel portico della basilica. Questo conservava infatti anche il prezioso Mosaico della Navicella che si vuole realizzato da Giotto ma nel quale anche]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.452933,41.902138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Affreschi della Torre Romana</name>
+        <description><![CDATA[Monastero di Torba<br>VIII secolo<br><br>https://artepiu.info/monastero-torba-torre-romana-affreschi/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            8.863526,45.729618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cripta del Duomo di Siena</name>
+        <description><![CDATA[XIII secolo<br><br>https://artepiu.info/cripta-duomo-siena-affreschi/<br><br>Guido da Siena, Dietisalvi di Speme, Guido di Graziano e Rinaldo da Siena. Ovviamente, nulla vieta che al cantiere partecipasse anche un giovane Duccio di Buoninsegna che certamente da quei maestri imparò.]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            11.328907,43.317702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Leonardo di Noblat a Montorio Romano</name>
+        <description><![CDATA[XVI secolo<br><br>https://artepiu.info/montorio-romano-chiesa-san-leonardo-torresani/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.805946,42.140846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>chiesa di san Paolo - Poggio Mirteto</name>
+        <description><![CDATA[XVI secolo<br><br>http://www.salutepiu.info/chiesa-di-san-paolo-poggio-mirteto/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.685606,42.267877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di san Rocco - Poggio Catino</name>
+        <description><![CDATA[XVI secolo<br><br>https://www.salutepiu.info/la-chiesa-di-san-rocco-poggio-catino/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.690212,42.295851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di Santa Maria in Legarano</name>
+        <description><![CDATA[XVI secolo<br><br>https://www.salutepiu.info/santa-maria-di-legarano/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.674888,42.354854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cappella Farnese</name>
+        <description><![CDATA[XVII secolo<br>Domenichino<br><br>https://artepiu.info/cappella-farnese-san-nilo-grottaferrata/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.666783,41.785782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa della Compagnia di San Sebastiano</name>
+        <description><![CDATA[XVII secolo<br><br>Oratorio di San Sebastiano in Camollia<br><br>https://artepiu.info/siena-san-sebastiano-camollia/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            11.329055,43.324492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abbazia di Monte Oliveto Maggiore</name>
+        <description><![CDATA[Giovanni Antonio Bazzi detto il Sodoma<br>XVI secolo<br><br>https://artepiu.info/affreschi-abbazia-monte-oliveto/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            11.544765,43.175771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Comunale, Pinacoteca, Torre Grossa</name>
+        <description><![CDATA[XVI secolo<br>Giovanni Antonio Bazzi detto il Sodoma<br>Sant’Ivo in atto di rendere giustizia dal suo tribunale<br><br>https://artepiu.info/sodoma-san-gimignano-affreschi/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            11.043119,43.467626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa Parrocchiale di San Giovanni Battista dei Fiorentini</name>
+        <description><![CDATA[XVII secolo<br>Orazio Gentileschi<br><br>https://artepiu.info/orazio-gentileschi-cappella-firenzuola-roma/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.464725,41.899521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di Santa Bibiana</name>
+        <description><![CDATA[XVII secolo<br>Pietro da Cortona<br><br>https://artepiu.info/pietro-da-cortona-chiesa-santa-bibiana/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.509222,41.895554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa San Francesco a Ripa</name>
+        <description><![CDATA[XVI-XVII secolo<br>Cappella dell'Annunciazione<br><br>Giovan Battista Ricci coinvolse nell’opera il collega comasco Cristoforo Greppi<br><br>https://artepiu.info/san-francesco-a-ripa-cappella-annunciazione-affreschi/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.473229,41.88522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa Parrocchiale di San Giovanni Battista</name>
+        <description><![CDATA[XV secolo<br><br>https://artepiu.info/stazzano-affreschi-santa-caterina/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.773949,42.091387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Giorgio in Velabro</name>
+        <description><![CDATA[XIII secolo<br>Affresco dell'abside di Pietro Cavallini<br><br>https://artepiu.info/pietro-cavallini-affresco-san-giorgio-velabro/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.483198,41.889569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di Santa Maria della Vittoria</name>
+        <description><![CDATA[XVII secolo<br>Affresco della volta di Gian Domenico Cerrini<br><br>https://artepiu.info/affresco-volta-santa-maria-della-vittoria/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.494181,41.904684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa del Gesù</name>
+        <description><![CDATA[Gloria del nome di Gesù<br>XVII secolo<br>Affresco della volta di Baciccio<br><br>https://artepiu.info/chiesa-del-gesu-affresco-volta-baciccio/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.479524,41.895894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basilica Santi XII Apostoli</name>
+        <description><![CDATA[Trionfo dell’Ordine Francescano<br>XVII secolo<br>Affresco della volta, di Baciccio<br><br>https://artepiu.info/chiesa-santi-apostoli-affresco-volta-baciccio/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.483359,41.898084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Chiesa di Sant' Ignazio di Loyola]]></name>
+        <description><![CDATA[Gloria di Sant’Ignazio <br>XVII secolo<br>Affresco della volta di Andrea Pozzo<br><br>https://artepiu.info/chiesa-sant-ignazio-roma-affreschi/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.479869,41.898753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sant'Andrea della Valle]]></name>
+        <description><![CDATA[XVII secolo<br>Affresco della cupola, di Lanfranco]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.474348,41.896219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parrocchia Santa Maria in Vallicella</name>
+        <description><![CDATA[XVII secolo<br><br>Affreschi della volta e della cupola di Pietro da Cortona]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.46916,41.898483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trionfo della Provvidenza</name>
+        <description><![CDATA[XVII secolo<br>Pietro da Cortona]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.490108,41.903317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Stanze di Sant'Ignazio]]></name>
+        <description><![CDATA[XVII secolo<br>Andrea Pozzo<br>https://www.chiesadelgesu.org/le-stanze-di-santignazio/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.480082,41.895696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di San Pietro in Montorio</name>
+        <description><![CDATA[La Flagellazione, di Sebastiano Luciani<br>XVI secolo<br><br>https://artepiu.info/flagellazione-sebastiano-del-piombo-san-pietro-montorio/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.466376,41.888694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tabernacolo di Pacher</name>
+        <description><![CDATA[Chiesa di Santa Margherita di Monguelfo<br>XV secolo<br><br>https://artepiu.info/tabernacolo-monguelfo-pacher/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.104463,46.756791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trinità dei Monti</name>
+        <description><![CDATA[L'Assunzione e la Deposizione, di Daniele da Volterra (Daniele Ricciarelli)<br>XVI secolo<br><br>https://artepiu.info/daniele-da-volterra-assunzione-trinita-dei-monti-roma/<br><br>https://artepiu.info/daniele-da-volterra-deposizione-trinita-dei-monti/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.483664,41.906273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo Civico Sansepolcro</name>
+        <description><![CDATA[Resurrezione, di Piero della Francesca<br>XV secolo]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.14144,43.571579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Complesso Monumentale Sant'Anna dei Lombardi]]></name>
+        <description><![CDATA[Sascrestia del Vasari<br>XVI secolo<br><br>https://artepiu.info/affreschi-vasari-sant-anna-lombardi-napoli/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            14.250712,40.844922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sant'Agnese in Agone]]></name>
+        <description><![CDATA[Sagrestia del Borromini<br>con affreschi di Francesco Allegrini<br>XVII secolo<br><br>https://www.santagneseinagone.org/la-sagrestia-del-borromini/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.472552,41.898844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oratorio Santissimo Crocifisso</name>
+        <description><![CDATA[Affreschi Girolamo Muziano XVI secolo (con la collaborazione di Pomarancio ed altri)<br><br>Eretto da Giacomo della Porta nel XVI secolo<br>fu costruito per ospitare le riunioni della Confraternita del Santissimo Crocifisso, sorta all'inizio del XVI secolo come Compagnia, nella Chiesa di San Marcello al Corso, a ricordo di un "prodigio"[1] ivi manifestatosi nel 1519; la chiesa fu pressoché distrutta da un furioso incendio (a seguito del quale dovette poi essere ristrutturata dal Sansovino e da Antonio da Sangallo), si salvò solo una parete che ospitava un crocifisso ligneo del Quattrocento. Il Crocifisso fu poi più volte portato in processione da San Marcello a San Pietro durante la pestilenza che attinse la Città negli anni successivi, con ampio seguito devozionale<br><br>Il soffitto attuale ha sostituito quello realizzato da Flaminio Boulanger, ebenista, nel 1584, e andato distrutto nel XVIII secolo; fu costruito alla fine del XIX secolo e dipinto da Giovanni Gagliardi con un Trionfo della Croce.<br><br>Le pareti ospitano affreschi (Storie della croce) incentrati sul tema della croce e del suo ritrovamento: il ciclo pittorico è frutto dell'elaborazione del letterato, amico di Michelangelo, Tommaso de' Cavalieri e realizzato da Girolamo Muziano tra il 1578 e il 1584. All'opera hanno partecipato i maggiori pittori manieristi operanti a Roma alla fine del XVI secolo: Giovanni de Vecchi, il Pomarancio, Cesare Nebbia.<br><br>Sull'altare maggiore è posta una copia del miracoloso crocifisso di San Marcello al Corso.]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.482056,41.899552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basilica di San Marco</name>
+        <description><![CDATA[Pala d'Altare del Beato Angelico<br>XV secolo<br><br>La Pala di San Marco è stata eseguita tra il 1438 e il 1443 per l’altare maggiore della chiesa di San Marco a Firenze. Nel 1438 Cosimo e Lorenzo de’ Medici ottengono il patronato della cappella maggiore della chiesa, che decidono di rinnovare affidandosi all’opera di Michelozzo.]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            11.258969,43.778362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Santa Maria dell'Ammiraglio]]></name>
+        <description><![CDATA[XVIII secolo<br>Affreschi barocchi accanto ai mosaici bizantini<br>Guglielmo Borremans, Antonio Grano e Olivio Sozzi]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            13.362774,38.114785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo degli Affreschi della Cripta di Santa Maria degli Angeli</name>
+        <description><![CDATA[XI secolo?<br>affreschi con influenza normanna?<br><br>Nell’XI secolo i normanni si insediano in Puglia e nel Salento. Portarono nei loro occhi l’arte delle loro terre settentrionali, degli antichi franchi. Il rapporto con i monaci di rito greco è buono (nonostante gli stretti rapporti con il papato fautore dell’estensione del rito latino) e forse la loro contaminazione trova spazio in quel particolare San Giorgio di Poggiardo.<br><br>https://artepiu.info/poggiardo-cripta-santa-maria-affreschi/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            18.378808,40.052421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di San Pietro a Crepacore</name>
+        <description><![CDATA[Affreschi forse lombardi IX-X secolo<br><br>Un tempo l’intera chiesa doveva essere coperta di affreschi. Oggi, a parte una serie di piccoli lacerti, ne sopravvivono solo due databili tra il IX ed il X secolo e di chiara matrice bizantina.<br><br>Il primo è quello dell’abside. Un’ascensione che vede al centro il Cristo circondato dagli Apostoli e dagli arcangeli Raffaele e Gabriele. I dodici Apostoli sono divisi in due gruppi da sei ai lati opposti dell’abside e posizionati in una sorta di piramide umana formata da tre livelli costituiti rispettivamente tra tre, due ed una figura.<br><br>chiesa san pietro a crepacore torre santa susanna brindisi salento pugliaGli Apostoli sono identificabili dalle loro iniziali inserite in greco all’interno delle aureole. Infatti, ì sei Apostoli a sinistra sono (divisi per livello): Luca, Matteo e Marco; Taddeo e Tommaso; Bartolomeo. I primi tre reggono in mano il Vangelo.<br><br>Nel lato destro, invece, si possono identificare Giovanni (anche lui con in mano il Vangelo), con la tunica scura, Andrea, che regge una croce, e Giacomo.<br><br>Se l’influenza bizantina è evidente, va notato come gli affreschi denotino una ricerca di volume nelle tuniche (ottenuta con lunghe pennellate nere) e la particolarità dei grandi occhi bianchi degli Apostoli: intorno al modello, ciascuno innesta la propria sensibilità.<br><br>Un secondo affresco – posizionato sul lato sinistro della navata principale nella seconda campata, vede ritratte tre figure. In realtà ne sono giunte fino a noi solo due, chiesa san pietro a crepacore torre santa susanna brindisi salento pugliaovvero San Pietro e il committente degli affreschi stessi. Quest’ultimo indossa gli abiti del dignitario bizantino e, caso unico, è rappresentato accanto al santo con le sue stesse dimensioni e non, com’è più comune, di dimensioni più piccole e nell’atto di pregare.<br><br>La presenza di una scritta dedicatoria, posta alla base degli affreschi dell’abside, consente di identificare come Veneria la moglie del committente ma il nome di quest’ultimo non è giunto fino a noi.<br><br>https://artepiu.info/san-pietro-crepacore-ponte-bisanzio-longobardi/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            17.763297,40.500404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santuario della Santa Casa di Loreto</name>
+        <description><![CDATA[Affreschi di Luca Signorelli ed altri<br><br>intero bene - committenza - secolo XV - La chiesa fu ideata e promossa, poco dopo la metà del XV sec. dal vescovo di Recanati Nicolò delle Aste (1440-1469). Dopo la sua morte, avvenuta il 6 ottobre 1469, papa Paolo II riservò a sé l'iniziativa con un decreto del 2 novemnbre nel quale nominava Francesco Morosini commissario della fabbrica.<br>cupola - realizzazione affresco originario - secolo XVII - Tra il 1609 e il 1615 Cristoforo Roncalli, detto Pomarancio, affrescò la cupola. Parte degli affreschi cadde per incuria e parte venne rimossa in occasione dei restauri alla fine del XIX sec..<br>sacrestia di S. Giovanni - affresco e tarsie degli armadi - secolo XV - Tra il 1477 e il 1480 ca. Luca Signorelli affrescò la cosiddetta Sacrestia di S. Giovanni con angeli musicanti, i quattro evangelisti, dottori della chiesa e scene del Nuovo Testamento. Le tarsie degli armadi furono realizzate da artefici fiorentini tra il 1476 e il 1507 (stemma del vescovo Girolamo Basso Della Rovere).<br>intero bene - committenza dei restauri - secolo XIX - Il 10 ottobre 1860, Vittorio Emanuele II concesse 50.000 lire per i restauri decorativi della basilica. Domenico Ferri, architetto e decoratore dei palazzi regi di Torino, fu incaricato di effettuare un sopralluogo e in due relazione, datate 1° e 15 dicembre 1860, rilevava il grave stato di abbandono della basilica, tanto nelle strutture architettoniche quanto nell'apparato decorativo.<br>intero bene - inizio dei lavori di restauro - secolo XIX - I lavori di restauro iniziarono nell`aprile 1886. Il principio ispiratore del progetto fu quello di esaltare le forme gotiche del tempio, ritenute originarie, cancellando, per quanto possibile, le testimonianze rinascimentali. Furono eliminati gli elementi di rinforzo a sostegno della cupola costruiti dal Sangallo<br>area di sedime - costruzione prima chiesa - secolo XIV - Sull`area dell`attuale chiesa ne esisteva un`altra fatta costruire probabilmente sotto l'episcopato di Angelo Rinaldi (1383-1412).<br>prospetto principale - realizzazione porte - secolo XVI - Tra il 1590 e il 1610, Antonio di Girolamo Lombardi e i figli Pietro, Paolo e Giacomo realizzarono la porta centrale della facciata. La porta nord fu costruita invece tra il 1590 e il 1596 da Tiburzio Vergelli con la collaborazione di Giovanni Battista Vitali, mentre quella sud fu realizzata tra il 1590 e il 1600 da Antonio Calcagni con la collaborazione di Sebastiano Sebastiani e Tarquinio Iacometti. Furono tutte realizzate in bronzo con riquadri contenenti scene bibliche.<br>navata - realizzazione medaglioni delle volte - secolo XVI - All`inizio del XVI sec. furono affrescati i 28 medaglioni in monocromo delle volte attribuiti a Luca Signorelli. L'opera fu conclusa entro il 1507.<br>intero bene - progetto dei restauri - secolo XIX - Il 25 agosto 1863 i lavori di restauro vennero affidati a Nicola Matas di Ancona che approntò un progetto di risanamento della cupola. I lavori non ebbero seguito. Nel 1882, a cura di Luigi Fontana di Montesampietrangeli, fu redatto un nuovo progetto che non fu approvato dal competente ministero. Il 18 luglio 1885 il ministero della Pubblica Istruzione incaricò l'architetto Giuseppe Sacconi di stilare un nuovo progetto.<br>intero bene - fasi di sviluppo - secolo XV - Il 29 luglio 1479 è documentata la presenza a Loreto di Giuliano da Maiano che vi figurerà anche nell'aprile 1482. Alcuni documenti datati 1481 testimoniano che i lavori non furono mai interrotti. Il primo intervento di Giuliano da Maiano nella fabbrica della basilica è documentato solo dal 1483 quando cominciò a coprire l'abside arrivando fino al tamburo. Le volte delle navate furono coperte nel 1489.<br>camminamento di ronda - costruzione - secolo XV - Il 14 marzo 1485, il card. Girolamo Basso della Rovere delibera di fortificare la basilica. Nella primavera 1486 Giuliano da Maiano fece ritorno a Loreto con i disegni delle fortificazioni della chiesa che probabilmente iniziò a costruire. Nel 14]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            13.610315,43.441048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duomo di Lecce - Cattedrale Maria Santissima Assunta</name>
+        <description>https://artepiu.info/duomo-lecce-cappella-crocifisso-affresco/</description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            18.169217,40.351668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basilica superiore di San Francesco</name>
+        <description>Giotto, Cimabue...</description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.606402,43.074683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa Rupestre di San Vito Vecchio alle Fornaci</name>
+        <description>https://artepiu.info/cripta-san-vito-vecchio-gravina/</description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            16.412641,40.812709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abbazia di Pomposa</name>
+        <description><![CDATA[I giotteschi del refettorio<br><br>https://artepiu.info/abbazia-pomposa-affreschi-giotteschi-refettorio/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.176,44.831917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duomo di Spoleto</name>
+        <description>https://artepiu.info/duomo-spoleto-cappella-sant-anna/</description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.740471,42.735185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di Santa Eufemia</name>
+        <description>https://artepiu.info/filippo-lippi-storie-vergine-duomo-spoleto/</description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.73849,42.734828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tempietto sul Clitunno</name>
+        <description>https://artepiu.info/tempietto-del-clitunno-campello/</description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            12.756897,42.842257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacro Monte di Orta</name>
+        <description><![CDATA[XVII-XVIII secolo<br>ciclo di San Francesco<br><br>https://artepiu.info/sacro-monte-orta-boschi-statue/]]></description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            8.409973,45.79652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa Collegiata dei Santi Stefano e Lorenzo</name>
+        <description>https://artepiu.info/castiglione-olona-collegiata-masolino/</description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            8.864866,45.7576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Pubblico</name>
+        <description>https://artepiu.info/la-maesta-simone-martini-un-gotico-siena/</description>
+        <styleUrl>#icon-1509-F57C00</styleUrl>
+        <Point>
+          <coordinates>
+            11.332026,43.317991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

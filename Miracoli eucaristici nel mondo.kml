@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Miracoli eucaristici nel mondo</name>
+    <description><![CDATA[https://www.operaromanapellegrinaggi.org<br>https://www.omniaforitaly.org<br>https://www.omniavaticanrome.org<br><br>Si prendono in considerazione i miracoli eucaristici più significativi fino al XVIII secolo.]]></description>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Miracoli eucaristici in Italia</name>
+      <Placemark>
+        <name>Miracolo Eucaristico di Lanciano</name>
+        <description><![CDATA[Santuario Miracolo Eucaristico Lanciano<br><br>Il più antico miracolo eucaristico della Penisola. Risale all’VIII secolo e si verifica di fronte a un religioso assalito da forti titubanze. L’ostia e il vino che oggi sono esposti in un ostensorio d’argento e in un calice di cristallo sono davvero carne e sangue, ha stabilito uno studio scientifico del 1971. E i luminari non sono riusciti a spiegare come il «tessuto vivente» possa essere rimasto immutato.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            14.390003,42.230341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Bolsena</name>
+        <description><![CDATA[Basilica di Santa Cristina Santuario del Miracolo Eucaristico<br>XIII secolo<br><br>Nella Basilica di Santa Cristina a Bolsena le quattro «pietre sacre» con il sangue sgorgato dall’ostia sollevata dal sacerdote Pietro da Praga, prigioniero dei dubbi sulla presenza reale di Cristo nel Sacramento dell’altare, sono il sigillo del prodigio che dal 1263 ha fatto della cittadina in provincia di Viterbo una delle principali mete eucaristiche d’Italia. E nella vicina Orvieto che di quella traccia soprannaturale custodisce il «santissimo corporale» intorno a cui è stato edificato il suo Duomo dorato è la terra del Corpus Domini, la solennità che l’anno successivo all’evento viene estesa a tutta la Chiesa da Urbano IV, il Pontefice che per primo si inginocchia davanti alle reliquie di Bolsena. Proprio nell’inno per la liturgia della festa san Tommaso d’Aquino chiamerà l’Eucaristia il «Pane degli angeli» e in una sua riflessione la definirà «la più grande di tutte le meraviglie operate dal Cristo».<br><br>Il “segno” di Bolsena è passato alla storia come uno dei miracoli eucaristici che puntellano da milletrecento anni l’Italia.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            11.989343,42.643405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Bolsena - Orvieto</name>
+        <description><![CDATA[Duomo di Orvieto<br><br>Vi è custodito il corporale del miracolo di Bolsena]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            12.113343,42.716993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santa Chiara allontana i saraceni</name>
+        <description><![CDATA[San Damiano<br><br>nel 1240 la preghiera di Chiara sul «Corpo del santo dei santi» allontana i saraceni dalla città]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            12.618054,43.061495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Miracolo eucaristico di Sant'Antonio]]></name>
+        <description><![CDATA[Tempietto di Sant'Antonio, Rimini<br><br>Il Tempietto di Sant'Antonio è una piccola cappella ottagonale dedicata a Sant'Antonio da Padova, situata a Piazza Tre Martiri, nella città di Rimini, nella regione italiana dell'Emilia Romagna.<br><br>La sua costruzione è iniziata nel 1518, commissionata da Pietro Ricciardelli. La cappella è stata ricostruita durante il periodo Barocco a seguito del terremoto del 1672. La leggenda riporta che la cappella sia stata costruita nel punto ove è situata a seguito di un miracolo eucaristico avvenuto in questo luogo.<br><br><br>L'altare e la statua di Sant'Antonio<br>La leggenda, che viene chiamata anche Miracolo del Mulo, narra che, durante il XIII secolo, Sant'Antonio da Padova, a seguito di un sermone pubblico, stava distribuendo la comunione ai fedeli radunati nella piazza, quando un cittadino lo ignorò mentre camminava con il suo mulo. Il mulo, tuttavia, miracolosamente e ostinatamente si sedette prostrato di fronte al santo.[1]<br><br>Altre storie ricordano che il sermone era stato contro un eretico di Pataro (o Cataro), Bonvillo, il quale negava la natura dell'eucaristia e che l'altare nel tempietto serviva a sostenere il Santo mentre pronunciava il suo Sermone. La cappella è adiacente alla chiesa di San Francesco di Paola ed è affiancato al più grande Santuario di Sant'Antonio, che è posizionato dietro al Tempietto.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            12.568938,44.059087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Trani</name>
+        <description><![CDATA[Chiesa di Sant'Andrea<br>XI secolo<br><br>una donna pugliese tenta di friggere un’ostia che nella padella inizia a spargere sangue senza cuocersi.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            16.418711,41.277011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Alatri</name>
+        <description><![CDATA[Cattedrale di San Paolo<br>XIII secolo<br>Per raggiungere l’ingresso della Cattedrale di San Paolo, occorre percorrere una scalinata che invita ad alzare lo sguardo. Quasi un richiamo a quell’«ostia incarnata» che il Duomo conserva in una teca di vetro.<br>La chiamano «porziuncola» e gli affreschi raccontano il prodigio di cui è stata protagonista. È il 1228 quando una giovane, sotto l’influenza di una «donna malvagia», compie il furto della particola e la avvolge in un panno. L’ostia resta lì per tre giorni e diventa carne. Con questa “forma” continua a mostrarsi oggi all’interno della cappella costruita nel 1997. Papa Gregorio IX evidenzia nel mandatum che i fatti di Alatri sono «eventi straordinari» che vogliono «risaldare la fede nella verità della Chiesa cattolica», «ravvivare la sapienza» e «riaccendere la carità». Parole che possono essere associate a tutti gli interventi divini che rimandano al «farmaco d’immortalità» innalzato nella Messa e che hanno fatto dei luoghi in cui sono avvenuti autentiche “città del Pane”.La tradizione ci consegna miracoli legati a profanazioni delle specie eucaristiche oppure a paesi in pericolo che trovano nel Santissimo Sacramento il loro viatico. Ma il prodigio può trasformarsi anche nel monito per confermare la presenza reale di Cristo nel pane e nel vino consacrati.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            13.344334,41.72482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Macerata</name>
+        <description><![CDATA[Cattedrale di San Giuliano<br>XIV secolo<br><br>lino striato di sangue nel 1356 per le perplessità di un prete]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            13.456657,43.300763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Torino</name>
+        <description><![CDATA[Basilica del Corpus Domini<br>XV secolo<br><br>Il miracolo eucaristico di Torino avvenne il 6 giugno 1453 a Torino. Sul luogo fu eretta in seguito una chiesa, poi divenuta basilica del Corpus Domini.<br><br>Durante una guerra scoppiata nel 1453 tra il Delfinato e il Ducato di Savoia, la città di Exilles fu saccheggiata da truppe armate savoiarde (come risulta da un riassunto conservato nell'archivio municipale di Torino, in una cassetta di cipresso costruita appositamente per questo). Secondo quanto tramandato dalla tradizione, della soldataglia, fatta irruzione nella chiesa del paese, sottrasse gli oggetti di valore, tra cui il Santissimo Sacramento. Per rivendere la refurtiva fu scelta Torino, raggiunta il 6 giugno 1453, giorno della ricorrenza del Corpus Domini di quell'anno.<br><br>Gli oggetti trafugati erano stati caricati su un mulo che, secondo il racconto, si fermò stranamente davanti alla chiesa di san Silvestro, sordo alle invettive dei soldati, che cercarono in tutti i modi di farlo proseguire. Padre Giovan Battista Semeria, che redasse una Storia della Chiesa Metropolitana di Torino, così ricorda ciò che avvenne immediatamente dopo:<br><br>«Quando il mullo fu intrato in porta Sussina per gratia e volunttà de Dio nostro se fermò insino che innanci la Giesa di Santo Silvestro, e yvi se gittò a terra, e furono disligate le balle per voluntà de Dio senza adjuto humano ed usì fori il vero Corpus Domini cum il reliqujario in laere miraculosamente cum grande splendore et ragij che parìa il sole...»<br>(G.B.Semeria)<br><br>In effetti, l'ostia non cadde a terra ma, secondo le testimonianze, sarebbe rimasta sospesa in aria per lungo tempo, tra l'ammirazione dei presenti.<br><br>La notizia fece scalpore e il vescovo Ludovico da Romagnano accorse di tutta fretta, organizzando una processione: alzato al Cielo un calice, l'ostia vi si sarebbe depositata, per essere poi portata trionfalmente in Duomo.<br><br>Lo stesso Semeria riporta una lunga serie di testimoni dell'evento:<br><br>«...fra li quali erano questi in testimonio, cioè Patrino Gorzano: Petrino Daero: Gasparino Miolero: Martino Bellanda: Filippo Valle: Georgio Gastaldo, il speciale M.r. Michaele Burry: Gioanni Falconino: Bonifatio Cassano: Bartolomeo Carrarino: il nobile M.r Murriero de Millano, e molti altri magnifici cittadini d'essa inclita città...»<br>(G.B.Semeria)<br><br>Luigi Cibrario, dovendo raccogliere materiali per la sua Storia di Torino, nel commentare l'evento così si espresse:<br><br>«Di questo fatto con tutte le circostanze narrate non risulta, ch'io sappia, da documenti contemporanei [...] Ma che un miracolo seguisse in occasione che fu rinvenuta l'ostia sacrosanta, lo dichiara un documento del 1454 [...] in cui si dice che Tommaso Solero di Rivarolo donò ai Canonici un grosso cero perché ardesse innanzi all'ostia miracolosamente trovata.»<br>(Luigi Cibrario)<br><br>Il documento di cui accenna il Cibrario è un atto capitolare (Archivio Capitolare, volume 20, f 1r); altre informazioni relative alla creazione di un tabernacolo per ricordare l'avvenimento vengono redatte almeno fino al 1459. Il 5 gennaio 1509 il Comune di Torino ordina di dipingere, in ricordo dell'evento, il Santo Nome di Gesù sulle porte della città.<br><br>Un testo di Ferdinando Ughelli, l'Italia Sacra, racconta nel dettaglio la storia sopra citata, e le fonti riportate indirizzano a Enea Silvio Piccolomini, futuro papa Pio II - che passò da Torino nel 1458 - e precisamente ai Commentarii di quest'ultimo, nei quali però la vicenda non è citata.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            7.682677,45.072762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Bagno di Romagna</name>
+        <description><![CDATA[Basilica di Santa Maria Assunta<br>XV secolo<br><br>Le incertezze “teologiche” accompagnano i fatti di Bagno di Romagna, dove nel 1412 il priore della Basilica di Santa Maria, padre Lazzaro da Verona, vede ribollire il vino dopo la preghiera di consacrazione e fuoriuscire fin sul corporale, che è tuttora conservato]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            11.959275,43.833721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Firenze</name>
+        <description><![CDATA[Chiesa di Sant'Ambrogio<br>XVI secolo<br><br>Tra i salvataggi considerati miracolosi c’è anche quello delle ostie consacrate nella chiesa di Sant’Ambrogio a Firenze. Dopo l’incendio del venerdì santo del 1595 furono ritrovate intatte. L’arcivescovo di allora, Alessandro Marzi Medici, dopo un’indagine, dichiarò l’episodio miracoloso, e ne autorizzò il culto.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            11.266609,43.771533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Siena</name>
+        <description><![CDATA[Basilica di San Francesco<br>XVIII secolo<br><br>*In 1730 thieves broke into this church and stole over 300 consecrated hosts. Several days later the hosts were returned and placed into an alms box within the church. To this day these hosts have remained perfectly intact. At present 223 of the hosts are preserved. The others having been consumed over the centuries. To see this Eucharistic Miracle it is best to call ahead. Generally only large groups are admitted. The hosts are preserved within a chapel on the right side of the nave near the sanctuary. A protective screen must be raised to view the hosts.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            11.334354,43.322146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Patierno</name>
+        <description><![CDATA[Chiesa di San Pietro a Patierno<br>XVIII secolo<br><br>A Napoli il prodigio delle ostie trafugate nel 1772 e rivenute sotto il letame in un terreno indicato da luci «simili a stelle» è celebrato da sant’Alfonso Maria de’ Liguori come «gloria del Santissimo Sacramento» ed è ricordato nel Santuario eucaristico diocesano di San Pietro a.Patierno.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            14.285019,40.890758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parrocchia Santuario Eucaristico</name>
+        <description>Nel 1969, sessantatré ostie consacrate, rubate dai ladri, vengono ritrovate integre e da allora si conservano senza decomporsi.</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            15.287832,40.122182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa del Santissimo Corpo di Cristo</name>
+        <description>un’ostia intrappolata nella stoffa dell’altare rilascia sangue nel 1294 come attesta la «sacra tovaglia» ospitata nel Duomo di Valvasone</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            12.862987,45.995939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Dronero</name>
+        <description><![CDATA[Chiesa Di S.Brigida<br><br>Nel 1631, una giovane contadina, poco prudentemente, appiccò il fuoco a della paglia secca e da questa divampò subito un incendio che per il fortevento invase tutto il borgodella cittadina di Dronero.Tutti i tentativi di domare il fuoco si rivelarono inutili. Solo dopo che il PadreMaurizío da Ceva impartí la benedizione con il SS. Sacramento, l’incendiocessó miracolosamente.<br>La domenica del 3 agosto del 1631, versol’ora dei Vespri, si sprigionò un grandeincendio nella cittadina di Dronero, nelmarchesato di Saluzzo. Una giovane contadina,imprudentemente appiccò il fuoco a della pagliasecca proprio nel momento in cui il vento si stavaalzando a causa del sopraggiungere di una tem-pesta. In pochi istanti le fiamme si espansero vio-lentemente fino a raggiungere le abitazioni delBorgo Maira. La popolazione cercò in ogni mododi domare il fuoco, ma ogni tentativo si rivelò vano.Il fuoco intanto aumentava sempre di più. Il PadreMaurizio da Ceva, Cappuccino, ebbe l’inspirazionedi ricorrere alla potenza del Salvatore velato sotto lespecie eucaristiche. Subito organizzò una solenneprocessione con il Santissimo Sacramento e seguitoda tutti i cittadini, si diresse nel luogo dell’incendio.All’avanzare del Santissimo Sacramento il fuoco siarrestò miracolosamente. Una lapide presente nellachiesetta di Santa Brigida a Dronero descrive inmodo dettagliato il Miracolo e ogni anno, in occa-sione della festa del Corpus Domini, i cittadini diDronero onorano la memoria del Prodigio con unasolenne processione con il Santissimo Sacramento.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            7.365042,44.464586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Canosio</name>
+        <description><![CDATA[Chiesa di San Lorenzo - Preit<br><br>Canosio è un piccolo villaggio della Val Maira, nella diocesi di Saluzzo. Nel 1630 la popolazione si era molto raffreddata dalla pratica religiosa a causa del dilagare dell’eresia calvinista. Qualche giorno dopo la festa del Corpus Domini, il torrente Maira straripò a causa delle abbondanti piogge. La furia delle acque fu talmente violenta che trascinò con sé grossi massi rocciosi che si staccarono dalla montagna e cominciarono a dirigersi minacciosamente verso la valle e il villaggio. Don Antonio Reinardi, parroco del paese, richiamò tutti i cittadini col suono delle campane per invitarli a pregare il Signore di fare cessare la piena. Propose inoltre di fare un voto: se il villaggio di Canosio fosse stato risparmiato dalla furia devastatrice del torrente, i cittadini avrebbero fatto celebrare in perpetuo ogni anno una festa nell’ottava del Corpus Domini. Don Rainardi, prese il Santissimo Sacramento che pose nell’ostensorio e si diresse in processione verso il torrente, accompagnato da alcuni fedeli, cantando il «Miserere». Impartita la benedizione, la pioggia cessò immediatamente e il livello del torrente ritornò subito alla normalità. Questo episodio contribuì a ravvivare la fede dei cittadini di Canosio e ancora oggi gli abitanti tengono fede a questo voto. Purtroppo, molti dei documenti che descrivevano il Miracolo, conservati fino al XVII secolo presso gli archivi parrocchiali, furono bruciati durante la guerra tra Spagna e Francia; possediamo però una copia della relazione lasciata dal parroco testimone degli eventi.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            7.056518,44.435321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chiesa di San Bartolomeo Apostolo</name>
+        <description>Nel 1560, a Morrovalle un grosso incendio distrusse tutta la chiesa dei Francescani, tranne l’Ostia magna contenuta in una pisside(anch’essa completamente bruciata a eccezione del coperchio). Nel 1960 è stato celebrato solennemente il quarto centenario del Miracolo Eucaristico di Morrovalle e il Consiglio Comunale, all’unanimità, deliberò di apporre sulla facciata della porta principale di Morrovalle l’iscrizione «Civitas Eucaristica». Morrovalle, nella notte tra il 16 e il 17 aprile1560, nell’ottava di Pasqua, intorno alle due del mattino, il fratello laico Angelo Blasi fu svegliato di soprassalto dal rumore di un violento crepitio. Guardando dalla finestra della sua cella, vide che la chiesa era completa-mente avvolta dalle fiamme e corse subito ad avvertire gli altri frati. L’incendio fu domato dopo 7 ore e solo nei giorni seguenti iniziarono i lavori di sgombero dell’immensa massa di detriti. Quale non fu la meraviglia quando il 27 aprile, il Padre Battista da Ascoli, nel rimuovere un pezzo di marmo di quello che era stato l’altare maggiore, scorse nella cavità del muro la pisside con il corporale un pò bruciacchiato su cui si conservava, ancora intatta ed integra, l’Ostia magna consacrata. Il Padre Battista gridò al Miracolo, e molta gente accorse subito sul luogo per ammirare il Prodigio. Per tre giorni interi il SS.mo Sacramento rimase esposto per l’adorazione dei fedeli. Quando finalmente arrivò il Padre provinciale Evangelista da Morrò d’Alba, l’Ostia miracolosa fu riposta in una cassetta d’avorio. L’allora Vescovo di Bertinoro, Mons. Ludovico di Forlì, fu immediatamente inviato dal Papa Pio IV a Morrovalle per indagare la veridicità dei fatti. Il Papa Pio IV, appena ricevette il resoconto del Vescovo, giudicò l’evento superiore ad ogni causa naturale e ne autorizzò il culto con l’indizione della Bolla Sacrosanta Romana Ecclesia (1560). Secondo le disposizioni contenute nella Bolla pontificia, i giorni dell’anniversario dell’incendio e del rinvenimento della santissima Ostia(17 e 27 aprile) divennero festivi e furono chiamati «dei due Perdoni». La chiesa fu inseguito ampliata a causa della moltitudine di fedeli che accorreva alle celebrazioni. Attualmente la ricorrenza delle due date è festeggiata con l’esposizione del Santissimo Sacramento e della teca sull’altare maggiore e i Perdoni, cioè le due indulgenze plenarie, possono essere lucrate nella chiesa di San Bartolomeo. Fino al 1600 l’Ostia miracolosa si conservò intatta, ma a causa delle vicissitudini storiche, dopo questa data dell’Ostia miracolosa si perse ogni traccia. Oggi rimane solo la teca e il coperchio della pisside, sopravvissute alle fiamme.</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            13.579111,43.314414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Miracolo eucaristico Cava de' Tirreni]]></name>
+        <description><![CDATA[Chiesa della Ss.ma Annunziata<br><br>la peste del 1656 cessa dopo una processione con il Santissimo Sacramento]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            14.7218,40.708599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Basilica Di Sant'Erasmo]]></name>
+        <description>Nella Pasqua del 1570, nella chiesa di Sant’Erasmo a Veroli, durante l’esposizione del SS. Sacramento (che a quei tempi veniva inserito in una teca cilindrica posta dentro un grande calice ministeriale, coperto con la patena) per le Quaranta ore di pubblica adorazione, Gesù Bambino apparve nell’Ostia esposta e operò numerose grazie. Oggi il calice dove fu esposto il SS. Sacramento è custodito nella chiesa di Sant’Erasmo e viene utilizzato per la celebrazione della Santa Messa, una volta l’anno, il martedì dopo Pasqua. ella Pasqua del 1570, presso la chiesa di S. Erasmo, l’Ostia consacrata, secondo il rito tradizionale, venne chiusa in una teca d’argento di forma cilindrica con coperchio a cerniera e questa venne poi posta dentro un grande calice ministeriale, anch’esso d’argento, coperto con la patena. Il tutto, infine, fu avvolto in un elegante drappo di seta. Bisogna precisare che nel XV secolo, l’esposizione del Santissimo nell’ostensorio era poco diffuso, anche se nel Concilio di Colonia (1452) si era già parlato di questo oggetto. Era consuetudine che ogni confraternita della città andasse ad adorare per un’ora il SS.mo Sacramento esposto. Così gli iscritti alla confraternita della Misericordia, che precedevano quelli del Corpus Domini e quelli della Madonna, vestiti con i loro sacchi neri, si misero tutti in ginocchio per pregare. Il documento più autorevole su questo Miracolo Eucaristico fu redatto immediata-mente dopo i fatti dalla Curia ed è conservato nell’archivio della chiesa di S. Erasmo. Molto dettagliata è la deposizione di un certo Giacomo Meloni, che fu tra i primi testimoni che assistettero al Prodigio: «E così alzando gli occhi verso il calice, vidi dai piedi alla coppa del calice una stella splendidissima e sopra la stella appariva il SS.mo Sacramento di grandezza simile a quello che si suole usare nella Messa del Sacerdote e la stella era attaccata alSS.mo Sacramento (…). La meraviglia si compì allorché si videro attorno all’Ostia consacrata, dei bimbi adoranti, simili a piccoli angeli... ».Ancora oggi, il martedì dopo Pasqua viene ricordato ogni anno il Prodigio, con una solenne cerimonia in cui partecipa anche il Vescovo. Il calice con la patena dove fu esposto il SS.mo Sacramento, è rimasto sempre custodito tra i reliquiari dei santi, così come la teca d’argento. Le sacre specie dell’Ostia miracolosa di Veroli, dopo 112 anni circa, furono consumate. Nel 1970, in occasione del quarto centenario del Prodigio, si celebrò il terzo Congresso Eucaristico della diocesi di Veroli – Frosinone. Ogni primo venerdì del mese, nella chiesa del Miracolo Eucaristico, si tiene l’adorazione del SS.mo Sacramento e si lasciano chiuse tutte le altre chiese.</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            13.418496,41.693043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Offida</name>
+        <description>Ad Offida, presso la chiesa di Sant’Agostino si conservano le Reliquie del Miracolo Eucaristico avvenuto nel 1273 in cui l’Ostia si convertì in carne sanguinante. Numerosi sono i documenti che descrivono il Prodigio tra cui una copia autentica di una pergamena del sec. XIII, scritta dal notaio Giovanni Battista Doria nel1788. Vi sono inoltre numerose bolle di Papi a cominciare da quella di Bonifacio VIII (1295),a quella di Sisto V (1585),interventi di Congregazioni romane, decreti vescovili, statuti comunali, doni votivi, lapidi, affreschi e testimonianze di insigni storici tra cui ricordiamo l’Antinori e il Fella. Nel 1273, a Lanciano, una donna di nome Ricciarella, per riconquistare l’affetto del marito Giacomo Stasio, dietro consiglio di una maga, si accostò alla Comunione per trafugare un’Ostia consacrata. Tornata a casa la mise sul fuoco sopra un coppo con l’intento di polverizzarla e metterla poi nel cibo del marito. La Particola invece si convertì in carne sanguinante. Ricciarella, terrorizzata dagli eventi, avvolse il coppo e l’Ostia sanguinante in una tovaglia di lino che seppellì poi in una buca sotto il letame nella stalla del marito. Strani eventi si susseguirono all’interno della stalla: la giumenta di Giacomo, ogni volta che vi entrava, si prostrava in ginocchio verso il luogo dove era seppellita l’Ostia miracolosa, tanto da indurre Giacomo a pensare che la moglie avesse fatto una maleficio alla bestia. Sette anni dopo Ricciarella, in preda ai rimorsi, confessò il suo orribile sacrilegio all’allora priore del convento agostiniano di Lanciano, Giacomo Diotallevi, nativo di Offida. Come raccontano le cronache più antiche la donna in lacrime cominciò a gridare al sacerdote: «Ho ucciso Dio! Ho ucciso Dio!». Il sacerdote recatosi sul luogo, trovò intatto l’involto con le reliquie che furono poi donate ai suoi concittadini. Per conservare la Sacra Ostia gli offidani fecero costruire un reliquiario a forma di croce. Come narra un’antica cronaca, dall’orafo a Venezia furono inviati frate Michele e un confratello. Giunti in quella città, si fecero promettere dall’orafo, con giuramento di fedeltà «che non avrebbe rivelato a nessuno quanto egli stava per vedere e collocare dentro la croce. Dopo di che, l’orafo fece per prendere la pisside con l’Ostia miracolosa, ma colto da febbre improvvisa, esclamò: “Che cosa mi hai portato, o frate mio?”. II religioso allora gli chiese se fosse in peccato mortale. Avendo l’orefice risposto di sì, fece la sua confessione davanti allo stesso frate, e, scomparsa la febbre, senza alcun pericolo prese la pisside, ne estrasse l’Ostia, e la chiuse insieme col sacro Legno nella medesima croce, con sopra un cristallo, come si può chiaramente vedere». I reliquiari del coppo e della tovaglia macchiata di sangue con la croce contenente l’Ostia miracolosa sono esposti nella chiesa di Sant’ Agostino ad Offida. La casa di Ricciarella a Lanciano è stata invece trasformata in una piccola cappella. Nel 1973 fu celebrato il VII centenario del Miracolo e ogni anno, il 3 maggio, i cittadini di Offida festeggiano l’anniversario del Prodigio.</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            13.691845,42.934744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Scala</name>
+        <description>La Venerabile suor Maria Celeste Crostarosa, fondò assieme a Sant’Alfonso Maria de Liguori, il Monastero del Santissimo Redentore. Ogni giovedì, nel Monastero veniva esposto il Santissimo Sacramento per la pubblica adorazione. A partire dall’11 settembre del 1732,per tre mesi consecutivi, durante l’esposizione solenne del Santissimo Sacramento, apparvero nella Particola contenuta nell’Ostensorio, i segni della Passione di Cristo. Tutto ciò poté essere verificato oltre che dalle monache e dal popolo, anche dal Vescovo di Scala, monsignor Santoro e dal Vescovo di Castellamare. L’apparizione avvenne anche alla presenza di Sant’Alfonso Maria de Liguori. Monsignor Santoro scrisse una lettera al Nunzio Apostolico di Napoli, monsignor Simonetti, nella quale descriveva tutti i particolari relativi alle visioni avvenute nella Santa Ostia esposta: a sua volta il Nunzio trasmise la lettera all’allora Segretario di Stato, il Cardinale Barbieri.</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            14.608138,40.654798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basilica Santa Maria in Vado</name>
+        <description>Questo Miracolo Eucaristico è avvenuto a Ferrara, nella Basilica di Santa Maria in Vado, il giorno di Pasqua (28 marzo 1171). Padre Pietro da Verona, priore della Basilica, stava celebrando la Messa di Resurrezione e giunto alla frazione del pane consacrato, mentre spezzava l’Ostia, vide da questa sprizzare un fiotto di sangue che andò con le sue goccioline a macchiare la piccola volta sovrastante l’altare della celebrazione. La volticina macchiata di sangue fu racchiusa in seguito in un tempietto costruito nel 1595, ed è ancora oggi visibile nella monumentale Basilica di S. Maria in Vado.</description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            11.62754,44.830465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miracolo eucaristico di Mogoro</name>
+        <description><![CDATA[Chiesa Parrocchiale di San Bernardino<br><br>nel nuovo altare della chiesa di San Bernardino è collocata la «pietra del miracolo» dove si possono leggere le impronte lasciate dalle ostie sputate da due uomini dalla «vita licenziosa».]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            8.779105,39.683921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Miracoli eucaristici nel mondo</name>
+    </Folder>
+  </Document>
+</kml>

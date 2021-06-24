@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Reliquie del Cristo, della Vergine, e degli Apostoli</name>
+    <description><![CDATA[https://www.operaromanapellegrinaggi.org<br>https://www.omniaforitaly.org<br>https://www.omniavaticanrome.org<br><br>Si prendono in considerazione soprattutto quelle reliquie che hanno una tradizione affermata.]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-nodesc-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-A52714-nodesc-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Reliquie</name>
+      <Placemark>
+        <name>Croce di Cristo</name>
+        <description><![CDATA[Basilica di Santa Croce in Gerusalemme<br><br>Reliquie della Croce di Cristo, un chiodo, e qualche spina dalla Corona di Spine, riportate da Sant'Elena imperatrice a seguito della sua spedizione in Palestina 326-328]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            12.515844,41.888237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacro Chiodo della Croce di Cristo</name>
+        <description><![CDATA[Duomo di Milano<br><br>Uno dei tre chiodi riportati dalla Terra Santa da Sant'Elena nel secolo IV, è custodito presso l'altare maggiore del Duomo di Milano.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            9.191926,45.464098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacro Chiodo della Croce di Cristo</name>
+        <description><![CDATA[Duomo di Monza<br><br>Uno dei tre chiodi della Croce di Cristo, riportati dalla Terra Santa da Sant'Elena nel sec. IV, è incastonato nella Corona Ferrea utilizzata per incoronare i Re d'Italia]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            9.275814,45.583651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacro Chiodo della Croce di Cristo</name>
+        <description><![CDATA[Concattedrale dei Santi Alberto e Marziale<br><br>Il Sacro Chiodo di Colle di Val d'Elsa, secondo la tradizione, è giunto nel paese valdelsano nel IX secolo come lascito di un vescovo francese, dopo essere arrivato in Italia attraverso sant'Elena, madre dell'imperatore Costantino, che nel 326 raccolse i quattro chiodi in Palestina. La reliquia è stata inizialmente custodita presso la Pieve in Piano e poi nel duomo, dove nel XV secolo è stato costruito un tabernacolo contenente il chiodo all'interno di una canna. Il Sacro Chiodo è lungo circa 22 centimetri ed è piegato in prossimità della punta a formare una L, sulla quale è stata incisa la sigla INRI. La sua particolare forma suggerisce che potrebbe essere stato utilizzato per fissare alla croce il piede sinistro di Gesù Cristo. Il Sacro Chiodo era gelosamente custodito e la sua ostensione era regolata molto rigidamente e formalmente: veniva esposto solitamente il Venerdì Santo, mentre altre ostensioni, di cui abbiamo notizie attraverso il manoscritto Beltramini, erano consentite solo in occasioni particolari, deliberate dal Consiglio (nel 1471, ad esempio, in occasione della visita del nipote di Papa Sisto IV). Conservato nella cattedrale di Colle e custodito nel tabernacolo realizzato da Mino da Fiesole, la reliquia è oggi portata in un'annuale processione durante la Festa del Sacro Chiodo, che si tiene la seconda domenica di settembre.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            11.120334,43.422581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra Sindone</name>
+        <description>Cattedrale di San Giovanni Battista, Torino</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            7.685152,45.073427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Santuario del Volto Santo di Manoppello</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.062429,42.250097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacro sudario di Oviedo</name>
+        <description><![CDATA[Cattedrale del Santo Salvatore<br><br>Secondo la tradizione, il sudario fu conservato a Gerusalemme fino al 614. In quell'anno la città fu invasa dai Sasanidi di Cosroe II Parviz, e il sudario insieme ad altre reliquie fu trasportato via in un'"Arca Santa" di legno: viaggiando attraverso il Nordafrica, giunse in Spagna, dove fu conservato a Toledo fino alla prima metà dell'VIII secolo, quando l'invasione musulmana costrinse a trasferirlo; infine raggiunse Oviedo tra l'812 e l'842.<br><br>L'"Arca Santa" venne aperta nel 1075 alla presenza del re Alfonso VI; è solo da questo momento in poi che il sudario compare negli inventari delle reliquie della cattedrale, da cui risulta la sua ininterrotta permanenza ad Oviedo fino ad oggi.<br><br>La datazione con il metodo del carbonio-14 ha datato il sudario come risalente al 680 circa, data compatibile con la sua comparsa a Toledo.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -5.843662,43.362475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Preziosissimo Sangue di Cristo</name>
+        <description><![CDATA[Basilica di Sant'Andrea<br><br>La tradizione attribuisce al soldato romano Longino, che trafìsse con la propria lancia il costato di Cristo, la raccolta ed il trasporto di terra imbevuta del sangue del Salvatore nel luogo ove ora sorge la città di Mantova. Longino muore martire della fede nel 37 d.C. Al fine di preservare la sacra reliquia, la stessa viene sotterrata in un'urna e per lunghi secoli non se ne ha più notizia. Nell' 804 avviene il primo ritrovamento dell'urna contenente la reliquia su indicazione di Sant'Andrea, essendo papa Leone III (795-816) e imperatore Carlo Magno (768-814), che richiede e ottiene dal primo l'autenticazione della reliquia. Una piccola parte della stessa viene donata da Carlo Magno alla cappella reale di Parigi (Sainte Chapelle). Secondo una ipotesi condivisa da molti, Mantova viene contemporaneamente dichiarata sede vescovile e sul luogo del ritrovamento viene eretta una piccola chiesa in onore dell'apostolo Andrea. Da questa data decorre il novero degli anni (1200) che portano all'attuale giubileo della diocesi di Mantova (2004). Nel 923 Mantova è invasa dagli Ungari. La reliquia viene interrata, una parte nel giardino dell'allora ospedale di Sant'Andrea (o nell'orto dell'oratorio dedicato al Sangue di Cristo), un'altra nell'antica chiesa di San Paolo che era situata quasi accanto al duomo, nell'attuale seminario. Per alcuni decenni si perde traccia della reliquia. Nel frattempo si afferma sulla città il dominio dei signori di Canossa. Nel 1037 il vescovo di Mantova Itolfo fonda il monastero benedettino entro il quale si integra la chiesetta del IX secolo, di cui non restano né disegni né vestigia significative. Un'ala del monastero, nella forma modificata del XV secolo, recentemente restaurata, è visibile nell'attuale piazza Leon Battisat Alberti. Nel 1048, presente Beatrice di Canossa, avviene il secondo ritrovamento della parte maggiore della reliquia e delle ossa di San Longino. Tale ritrovamento induce all'ampliamento della originaria piccola chiesa di Sant'Andrea ed alla costruzione della cripta sul luogo della seconda "inventio". Della chiesa non rimane alcuna traccia, così come della cripta, completamente rifatta alla fine del sec. XVI su progetto di Antonio Maria Viani.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            10.794388,45.158891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Preziosissimo Sangue di Cristo</name>
+        <description><![CDATA[Chiesa di Santa Maria del Sepolcro<br><br>I frati minori custodiscono una reliquia del Preziosissimo Sangue: una zolletta di terra imbevuta del sangue di Cristo.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            15.804649,40.645233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra corona di spine</name>
+        <description><![CDATA[Sainte-Chapelle<br><br>La corona di spine sarebbe stata portata a Parigi da Luigi IX di Francia, noto come Il Santo, che avrebbe fatto costruire la Sainte-Chapelle per custodirla.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            2.344961,48.855375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Cattedrale di Monreale<br><br>A Monreale nel Duomo si conserva una spina della corona donata da Filippo III di Francia dove riposa parte dei resti del padre Luigi IX di Francia]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            13.292367,38.082102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Duomo di Cefalù<br><br>a Cefalù nel Duomo alcune spine della corona donate da Ruggero II di Sicilia e successivamente alcune trafugate e portate a Gratteri (PA)]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            14.023362,38.039884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Chiesa di San Michele a Sciacca (Agrigento)<br><br>A Sciacca nella Chiesa di San Michele due sacre spine si trovano presso la chiesa di San Michele arcangelo. Queste spine furono donate da Eleonora d'Aragona figlia di Giovanni di Sicilia e dal marito Guglielmo Peralta; esse sono state ritenute autentiche dall'allora vescovo di Agrigento Matteo Fugardo quando il 31 maggio 1386 emanò una bolla vescovile in occasione dell'inaugurazione della chiesa e parte del Monastero di Maria Santissima dell'Itria conosciuta come la Badia grande.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            13.084853,37.509416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Basilica Pontificia San Nicola Bari<br><br>Una spina della corona sarebbe conservata a Bari nella Basilica di San Nicola. Presenta sulla punta del sangue coagulato, che secondo la tradizione in alcune date diventerebbe sangue vivo.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            16.870137,41.130314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Cattedrale "Santa Maria Assunta in Cielo"<br><br>Un'altra spina (chiamata dai devoti Sacra Spina) è conservata ad Andria e in occasione del Venerdì Santo anch'essa sanguinerebbe e fiorirebbe, quando coincide con l'Annunciazione il 25 marzo.<br>La sacra spina di Andria, conservata in un prezioso reliquiario, fu donata nel 1308 da Beatrice, figlia di Carlo II d'Angiò e contessa d'Andria, alla cattedrale della città.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            16.295788,41.225954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Chiesa della Santa Spina<br><br>La Sacra Spina fu donata nel 1498 da Giovanna di Valois, regina di Francia e moglie di Luigi XII, al suo confessore, padre Dionisio Sacco, vescovo di Reims. Quest'ultimo decise di portarla al suo monastero di origine, quello francescano di Petilia Policastro. Tuttavia, padre Dionisio Sacco non riuscì a consegnare la reliquia al monastero, dove arrivò nel 1523 grazie a padre Ludovico Albo, e fu collocata in un ostensorio della chiesa conosciuta al tempo col nome di Santa Maria dei Frati.<br><br>La chiesa seicentesca che tutt'oggi ospita la Sacra Spina, dalla quale ha preso il nome, presenta una navata centrale e un altare in stile barocco. Al suo interno sono presenti un quadro della Vergine di Guido Reni, una deposizione di Mattia Preti e un soffitto interamente dipinto da artisti napoletani dell'epoca.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            16.768843,39.103837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Cattedrale di Santa Maria Assunta e Santa Cecilia<br><br>La Cappella Aragonese nel braccio destro del duomo cagliaritano custodisce un oggetto che i cattolici venerano come reliquia, ovvero una spina che si vuole appartenesse alla corona che cinse il capo di Gesù Cristo durante la sua passione. Tramite antichi documenti custoditi nell'archivio del Capitolo Metropolitano di Cagliari, si conosce che la Spina, insieme ad altre reliquie e preziose opere d'arte, giunsero nel settembre del 1527 nelle mani dell'arcivescovo di Cagliari, tale Gerolamo di Villanova. Le reliquie e gli altri oggetti, trafugati da varie chiese di Roma e dallo stesso appartamento pontificio durante il sacco di Roma erano parte del carico di una nave che da Gaeta doveva fare approdo a Cagliari. Poco prima di giungere in porto, la nave si imbatté in una tempesta; questo fatto indusse chi era a conoscenza della presenza del prezioso carico, a confessare il fatto ad alcuni religiosi presenti sulla nave, forse spinti dalla convinzione che la tempesta fosse espressione della collera divina per i furti sacrileghi. Una volta giunti a Cagliari, i religiosi informarono dei fatti l'arcivescovo, il quale istruì un processo e si preoccupò di informare il pontefice, papa Clemente VII, affinché potesse rientrare in possesso degli oggetti rubati.<br><br><br>Trittico di Clemente VII<br>Il pontefice, appresi i fatti, decise con breve pontificio del 23 luglio 1531, di lasciare in dono alla cattedrale di Cagliari alcune reliquie, tra cui la Sacra Spina, e un prezioso trittico fiammingo in segno di riconoscenza alla città, con obbligo di esporli durante la festa dell'Assunzione, tradizione che è stata conservata fino ad oggi.<br><br>Il suddetto trittico fiammingo, risalente al XV secolo e attribuito al pittore Rogier Van der Weyden, era proprietà dello stesso Clemente VII, il quale lo aveva collocato nella sua camera da letto e che venne trafugato nel 1527 dai Lanzichenecchi dell'Imperatore Carlo V. Nell'opera è rappresenta al centro la Pietà con la Vergine addolorata e il Cristo incoronato di spine, mentre a sinistra vi è Sant'Anna, la Madonna ed il Bambino Gesù, e a destra Santa Margherita e il drago.<br><br>Alla venerazione della Sacra Spina, durante l'esposizione di metà agosto, è legata la possibilità di lucrare l'indulgenza plenaria, previe le altre condizioni previste dalla Chiesa. L'indulgenza è stata riconfermata nel 1992 da papa Giovanni Paolo II.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            9.116767,39.218787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Santuario della Beata Vergine Maria del Santo Rosario di Pompei<br><br>Possessore di queste reliquie era la famiglia Ciccodicola di Arpino, in (provincia di Frosinone, capitanata dal colonnello di artiglieria Federico Ciccodicola, che all’epoca dei fatti rivestiva il grado di Maggiore, il quale, munito di pieni poteri, rappresentava Sua Maestà il Re d’Italia – Umberto I° – presso la Corte del Negus Menelik , imperatore dell’Etiopia . Il 29 settembre del 1902 i componenti la famiglia Ciccodicola si resero autori di generoso gesto di donazione offrendo al Santuario di Pompei le due preziose reliquie. Questo è quanto si legge nel “Calendario del Santuario e delle opere di beneficenza cristiana di Pompei del 1950”.<br><br>A consegnare i preziosi doni furono i fratelli Mons. Edoardo e Roberto Ciccodicola, unitamente alle antiche autentiche, una datata 1° aprile 1974, riferita alla spina, ed un’altra datata 6 novembre 1784, riferita al pezzo di legno della croce..<br><br>Prima della famiglia Ciccodicola, le reliquie erano in possesso dell’Arcivescovo di Chieti Mons. Luigi Manzo, fino alla fine del 1799, anno in cui scoppiò una rivoluzione civile. Mons. Manzo pensò subito di mettere al sicuro le reliquie, consegnandole a sua nipote, la Marchesa Mariannina Manzo, madre dei Signori Ciccodicola di Arpino, fra cui Mons. Eduardo.<br><br>La più preziosa delle due reliquie è la spina intrisa di sangue, lunga circa tre centimetri, perché è molto rara – altre spine insanguinate sono conservate: una a Bari nella basilica di San Nicola, sulla quale il sangue coagulato si scioglierebbe in precise date dell’anno; un’altra è conservata nella chiesa di Andria, in provincia di Barletta – Andria – Trani, la quale sanguina e fiorisce nel giorno del venerdì santo; un’altra è conservata nella chiesa della Santa Spina a Petilia Policastro, in provincia di Crotone; un’altra è conservata nel Duomo di Cagliari, e, infine, ben due ben custodite a Pisa nel Museo dell’Opera del Duomo e nella Chiesa di Santa Chiara.<br><br>Il reliquiario di Pompei, di oro ed argento, in cui è chiusa la spina ha la forma di una piccola fiala; è una piccola e perfetta opera d’arte di ottima fattura e di abile cesellatura. Intorno al basamento sono stati incisi i simboli rappresentati la Passione di Gesù.<br><br>Il reliquiario che contiene il pezzetto del Legno della Croce su cui morì Gesù, è quasi simile a quello che contiene la spina, tranne che nella parte superiore che è a forma di croce.<br><br>A ricordare in eterno questa generosa offerta, così come è scritto negli obblighi annuali del Santuario, ogni anno, nel giorno del Venerdì dopo le Ceneri, giorno in cui la Chiesa commemora la Coronazione di Spine di nostro Signore, le due reliquie vengono esposte al pubblico nella Basilica della beata Vergine del Rosario a Pompei, e celebrata una Messa in memoria dell’anima dei benefattori.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            14.500684,40.749791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Museo dell'Opera del Duomo<br><br>Reliquiario della Spina, argento e gemme, donato dall'arcivescovo de' Medici nel 1633 (manifattura toscana, XVII e XVIII sec.). Reliquiario della Croce, argento e rame dorato, offerto dall'arcivescovo Frosini nel 1712 per la reliquia donata da San Bernardo. Coppia di reliquiari in argento, rame dorato e vetro (oreficeria genovese, 1761). Reliquiario dei santi Pietro e Paolo, in argento e vetro. Opera di A. Valadier (fine XVIII sec.), fu donato dall'arcivescovo Franceschi.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            10.39691,43.722533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Chiesa di Santa Chiara<br><br>Vi si conserva un reliquiario con una spina ritenuta della corona di Cristo proveniente dalla chiesa di Santa Maria della Spina, un Crocifisso ligneo (XIV-XV secolo) e un’ Annunciazione in marmo di Stoldo Lorenzi (1567). Oggi fa da cappella dell’Ospedale”.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            10.395631,43.721764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Chiesa della Santa Corona<br><br>Una spina fu donata da San Luigi IX, re di Francia, al beato Bartolomeo di Breganze nel XII secolo. Il vescovo Bartolomeo, nativo di Breganze in territorio vicentino, esiliato in Francia da Ezzelino da Romano, la portò con sé a Vicenza al ritorno dall'esilio e fece costruire un'apposita chiesa, detta di Santa Corona, per custodirla.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            11.547785,45.54931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Chiesa Ss. Annunziata e S.Giorgio<br><br>Una sacra spina venne donata alla fine del Trecento al cardinale Leonardo De Rossi da Giffoni da Carlo IV, che, a sua volta la donò alla sua città natale, Giffoni Valle Piana oggi conosciuta in tutto il mondo per il Giffoni Film Festival. Fino al 1800 venne custodita nel trecentesco convento di San Francesco. Oggi, la Spina Santa, è conservata nella chiesa Madre dell'Annunziata, nella cui sacrestia si può ammirare un coro ligneo del XVI secolo e la balaustra in legno del XIV secolo, provenienti proprio dal convento di San Francesco. Ogni anno, nei venerdì del mese di marzo la reliquia viene esposta al culto dei fedeli e al termine di ogni celebrazione viene fatta baciare.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            14.940892,40.719086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra spina della corona di spine</name>
+        <description><![CDATA[Cattedrale Notre Dame<br><br>reliquia della corona di spine di Gesù]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            2.350564,48.852729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacra Tunica di Cristo</name>
+        <description><![CDATA[Basilique de la Sainte Tunique du Christ<br><br>La tunica di Argenteuil è una tunica datata in un periodo compreso tra il VI e il IX secolo che secondo la tradizione sarebbe l'abito indossato da Gesù nelle ultime ore della sua vita; è detta "inconsutile" in quanto è stata confezionata senza cuciture. Dal IX secolo è custodita nella basilica di Saint-Denys (Dionigi) ad Argenteuil, nella Francia settentrionale.<br><br>La tunica di Argenteuil, che Gesù avrebbe portato negli ultimi momenti della sua vita, sarebbe giunta in Francia nell'800, donata dall'imperatrice Irene di Costantinopoli a Carlo Magno nell'anno della sua incoronazione come primo imperatore del Sacro Romano Impero. Da Carlo Magno la custodia della tunica fu affidata al monastero di Argenteuil, di cui era badessa sua figlia Teodorada. Le vicende della tunica sono travagliate: fu nascosta per preservarla dai normanni e dagli ugonotti, ma i pericoli maggiori occorsero duranta la Rivoluzione francese, durante la quale, per iniziativa dell'abate Ozot, parroco di Argenteuil, fu tagliata in pezzi, nascosta e infine ricomposta, ma alcune parti andarono perdute.<br><br>Due successive radiodatazioni con il carbonio-14 hanno indicato un intervallo temporale dal 530 al 650 e dal 670 all'880 come possibile età della reliquia, pur essendo stata evidenziata l'eccessiva ampiezza dell'intervallo.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            2.24662,48.942439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacri sandali di Gesù</name>
+        <description><![CDATA[Abbazia di Prüm<br><br>L'abbazia Prüm contiene alcune reliquie considerate di notevole importanza dalla Chiesa cattolica. La più famosa di esse è costituita dai sandali di Cristo. Essi vennero donati da Pipino nel 762. Il Re, a sua volta, dice in un documento di averli ricevuti da Roma, in dono da papa Zaccaria o da papa Stefano II]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            6.4254,50.206592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catene di San Pietro - San Pietro in Vincoli</name>
+        <description><![CDATA[Secondo la tradizione Elia Eudocia, madre di Eudossia, durante un viaggio in Palestina nel 442, avrebbe avuto in dono da Giovenale Patriarca di Gerusalemme le catene che avrebbero avvinto San Pietro durante la prigionia, subita a Gerusalemme, per ordine di Erode Agrippa. Elia Eudocia incaricò la figlia Licinia Eudossia di portarle a Roma.<br><br>La tradizione della Chiesa racconta che Licinia Eudossia mostrò le catene di Pietro a papa Leone I, che le avvicinò a quelle che furono di Pietro nel Carcere Mamertino. Le due catene si fusero in maniera irreversibile. A memoria del miracolo, fu fatta edificare la Basilica che doveva conservarle.<br><br>In quegli anni, sia l'Impero sia il Papato erano in grosse difficoltà a causa delle continue scorribande di popolazioni barbare che forzavano i confini dell'impero arrivando a minacciare anche Roma.<br><br>Il miracolo della congiunzione delle catene, una proveniente da Oriente e una da Occidente, assunse così un grande significato simbolico e politico, dovevano dimostrare un forte legame tra i due imperi e forse una volontà mai realizzata di riunificazione, voluta e benedetta da Dio.<br><br>La consacrazione di una basilica ebbe luogo già nel 439 durante il pontificato di Papa Sisto III. Successivamente subì molti restauri, i più importanti, fatti da Adriano I nel 780, da Sisto IV nel 1471 e da Giulio II nel 1503. Altri restauri furono eseguiti nel XVIII e XIX secolo.<br><br>Nella chiesa sarebbero stati nominati papa Giovanni II e Gregorio VII.<br><br>Al restauro di Giulio II risale l'architettura attuale della chiesa, con il portico d'ingresso, e la ristrutturazione del convento annesso. Il disegno originario del chiostro, che è stato recentemente restaurato (foto), è attribuito dal Vasari a Giuliano da Sangallo.<br><br>Al centro del soffitto campeggia imponente un grande affresco dipinto nel 1706 da Giovanni Battista Parodi; esso rappresenta un fatto accaduto nel 969, un conte al seguito dell'imperatore Ottone I di Sassonia che viene liberato dal demonio al contatto delle catene di san Pietro.<br><br>L'altare in marmo, ha nel centro il reliquiario chiuso da due portelle di bronzo dorato del 1477 opera di Giovanni Matteo Foppa detto Caradosso che custodiscono l'Urna delle Catene di San Pietro realizzata nel 1856 da Andrea Busiri Vici. ai lati del reliquiario, due statue, a sinistra San Pietro, a destra l'Angelo Liberatore.<br><br>Le catene di san Pietro, sono composte da due spezzoni saldati tra loro, quelle del carcere romano, sono composte da ventitré anelli che finiscono con un collare, quelle provenienti da Gerusalemme sono undici anelli più piccoli. Altri pezzi di catena, probabilmente delle imitazioni messe solamente a contatto con le vere catene di Pietro, o forse fusioni con la limatura delle catene originali, sono custodite a Santa Maria del Fiore a Firenze, a Santa Cecilia a Roma, altri spezzoni sono custoditi in varie chiese d'Italia e d'Europa. Molti papi, hanno distribuito in passato piccoli spezzoni di catena o solo limatura di esse su richiesta di cardinali che volevano esporle nei propri reliquiari.<br><br>La confessione, che incornicia il reliquiario, è circondata da una balaustra in marmo nella quale si stagliano quattro piccole statue di angeli neri di ottima fattura. Tramite due piccole rampe si scende verso un piccolo altare posto davanti all'urna delle catene. Su i due fianchi, protetti da grate, gli accessi alla cripta.<br><br>La cripta, piccolo spazio sotto l'altare centrale, sembra secondo la tradizione, sia stato il primo carcere di san Pietro a Roma, prima di essere trasferito nel Carcere Mamertino. All'interno della Cripta è custodito il sarcofago dei Sette Fratelli Maccabei, ebrei martirizzati nel secondo secolo a.c., venerati anche dai cristiani e da altre religioni orientali. Il sarcofago, probabilmente portato da Antiochia a Roma da Papa Pelagio II. Fu ritrovato nel 1876 durante i lavori di rifacimento del presbiterio, è diviso in sette scomparti contenenti dei resti umani e con dei sigilli che indicano con sicurezza la]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            12.493066,41.893855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spezzone della catena di San Pietro</name>
+        <description><![CDATA[Cattedrale di Santa Maria del Fiore<br><br>Le catene di san Pietro alla Basilica di San Pietro in Vincoli a Roma, sono composte da due spezzoni saldati tra loro, quelle del carcere romano, sono composte da ventitré anelli che finiscono con un collare, quelle provenienti da Gerusalemme sono undici anelli più piccoli. Altri pezzi di catena, probabilmente delle imitazioni messe solamente a contatto con le vere catene di Pietro, o forse fusioni con la limatura delle catene originali, sono custodite a Santa Maria del Fiore a Firenze, a Santa Cecilia a Roma, altri spezzoni sono custoditi in varie chiese d'Italia e d'Europa. Molti papi, hanno distribuito in passato piccoli spezzoni di catena o solo limatura di esse su richiesta di cardinali che volevano esporle nei propri reliquiari.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            11.25596,43.773145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sacro Anello dello Sposalizio tra Giuseppe e Maria</name>
+        <description>Cattedrale di San Lorenzo</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            12.388771,43.112452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spezzone della catena di San Pietro</name>
+        <description><![CDATA[Basilica Santa Cecilia in Trastevere<br><br>Le catene di san Pietro alla Basilica di San Pietro in Vincoli a Roma, sono composte da due spezzoni saldati tra loro, quelle del carcere romano, sono composte da ventitré anelli che finiscono con un collare, quelle provenienti da Gerusalemme sono undici anelli più piccoli. Altri pezzi di catena, probabilmente delle imitazioni messe solamente a contatto con le vere catene di Pietro, o forse fusioni con la limatura delle catene originali, sono custodite a Santa Maria del Fiore a Firenze, a Santa Cecilia a Roma, altri spezzoni sono custoditi in varie chiese d'Italia e d'Europa. Molti papi, hanno distribuito in passato piccoli spezzoni di catena o solo limatura di esse su richiesta di cardinali che volevano esporle nei propri reliquiari.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            12.475961,41.887546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catena di San Paolo</name>
+        <description><![CDATA[Basilica Papale San Paolo fuori le Mura<br><br>Gli anelli superstiti della catena che nell'immaginario popolare tennero prigioniero San Paolo a Roma, tra il 61 e il 63 d.C. sono esposti in una teca illuminata vicino al sepolcro del santo nell'Altare della Confessione sotto il Baldacchino di Arnolfo di Cambio, all'interno della Basilica di San Paolo fuori le Mura.<br><br>Sono le catene con cui l’apostolo delle genti era legato al soldato di guardia (cfr. At 28, 16), quando fu condotto prigioniero a Roma. Paolo, arrivato a Roma, prese una casa a pigione e per due anni interi vi rimase agli arresti domiciliari, accogliendo tutti quelli che venivano a lui (cfr. At 28, 30).<br><br>É possibile venerare queste catene sotto l’Altare della Confessione in una teca posta proprio sopra il suo sepolcro. Gli anelli che compongono la catena sono nove, sorretti all’estremità da due monete romane del tempo: dei sesterzi ingranditi con l’effige di Nerone, l’imperatore sotto il quale san Paolo subì il martirio della decapitazione. Queste catene, simbolo della limitazione della libertà umana, non hanno impedito a Paolo di annunziare il regno di Dio e di insegnare “le cose riguardanti il Signore Gesù Cristo, con tutta franchezza e senza impedimento” (At 28, 31). Possa questa grande testimonianza dell’apostolo delle genti sciogliere le catene della nostra tiepidezza e risvegliare in noi il coraggio della fede e l’audacia della testimonianza.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            12.476734,41.858677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
