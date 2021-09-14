@@ -20,3 +20,5 @@ and
 Since this is most certainly going to be an almost continuing work in progress, having a repository makes it easier to keep track of versioning.
 It also makes it easier to translate and internationalize the contents.
 It also makes it easier to allow others to collaborate in the project, if they so desire.
+
+This repository can function to some extent as the data layer for applications and visualizations of the data, such as https://github.com/opera-romana-pellegrinaggi/maps-of-the-faith .
