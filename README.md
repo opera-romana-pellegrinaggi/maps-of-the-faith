@@ -4,7 +4,7 @@ From the height of the heavens, he descended upon earth, in a specific time and 
 He was born in Bethlehem of Judea, grew up in Nazareth of Galilee, and lived in Capernaum along the shores of the Sea of Galilee.
 He walked to towns in Lebanon, in Syria, in Galilee, in the Decapolis, in Samaria, in Judea, and finally died on the cross in Jerusalem outside of the city walls.
 He entered into human history, and walked with us along the streets of our towns.
-When God intervenes in human history, he intervenes at specific times and is specific places.
+When God intervenes in human history, he intervenes at specific times and in specific places.
 Salvation history is linked to human history and to human geography.
 This project aims to map out all those places that have been touched in some way by the grace of God.
 Whether they are places where Jesus walked, or where biblical episodes took place, or where saints gave witness to the Gospel, or where human expressions of faith through art and beauty sing the glories of God...
